@@ -1,0 +1,118 @@
+Психология 5
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Активное взаимодействие человека со средой, достижение поставленной цели, возникшей в результате появления у него определенной потребности - это
+<$:Variants:
+поведение
+деятельность
+поступок
+действие
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Дает человеку желание и силы бороться с трудностями и преодолевать их
+<$:Variants:
+только короткая мотивация
+только далекая мотивация
+только средняя мотивация
+только мгновенная мотивация
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Единицей деятельности является
+<$:Variants:
+умение
+навык
+действие
+склонность
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Всякое действие выполняется в определенных условиях с помощью некоторых
+<$:Variants:
+операций
+движений
+привычек
+навыков
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: В каждом действии выделяются его следующие части
+<$:Variants:
+ориентировочная
+исполнительная
+контрольная
+дополнительная
+<$:RightAnswers: 1 1 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: По содержанию общение может быть
+<$:Variants:
+материальным
+мотивационным
+деятельностным
+эмоциональным
+<$:RightAnswers: 1 1 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Основными механизмами познания другого человека является
+<$:Variants:
+мотивация
+рефлексия
+идентификация
+эмпатия
+<$:RightAnswers: 0 1 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: К мотивам, связанным с содержанием учения относится
+<$:Variants:
+стремление узнать новые факты
+желание получить одобрение
+стремление избежать неприятностей
+стремление овладеть знаниями и способами действий
+<$:RightAnswers: 1 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: К социальным мотивам относятся
+<$:Variants:
+стремление рассуждать
+желание проникнуть в суть явлений
+мотивы долга и ответственности
+мотивы самоопределения и самосовершенствования
+<$:RightAnswers: 0 0 1 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

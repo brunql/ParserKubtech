@@ -1,0 +1,157 @@
+Риторика 1. Современная риторика
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Синонимом слова "риторика" является:
+<$:Variants:
+красноречие
+говорение
+повествование
+разговор
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Родиной риторики является:
+<$:Variants:
+Индия
+Китай
+Греция
+Египет
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Первая школа красноречия была открыта в:
+<$:Variants:
+I в. н. э
+II в. до н.э
+IV в. до н.э.
+VII в.н.э
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Автором первого учебника риторики был:
+<$:Variants:
+Платон
+Коракс
+Квинтилиан
+Аристотель
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Предметом современной риторики является:
+<$:Variants:
+публичная речь
+различные виды речевой коммуникации
+диалог
+монолог
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Научный и общественный интерес к современной риторике возник в:
+<$:Variants:
+70-х гг. прошлого столетия
+80-х гг. прошлого столетия
+90-х гг. прошлого столетия
+начале XXI в.
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: К функциям общения не относится:
+<$:Variants:
+информационная
+коммуникативная
+перцептивная
+эксклюзивная
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: К невербальным средствам общения не относится:
+<$:Variants:
+кинесика
+просодика
+такесика
+письменная речь
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Закон соответствия опыта, осознания и сообщения, проявляющийся в общении, называется:
+<$:Variants:
+закон конгруэнтности
+закон реминисценции
+закон вероятности
+закон Вебера
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: К механизмам познания другого человека в процессе общения не относится:
+<$:Variants:
+идентификация
+эмпатия
+рефлексия
+визуализация
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Назовите неприемлемый способ воздействия партнёров друг на друга в процессе общения:
+<$:Variants:
+заражение
+убеждение
+суггестия
+манипуляция
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: О результатах публичного выступления можно судить по:
+<$:Variants:
+количеству слушателей
+обратной связи
+настроению оратора
+мнению оратора
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

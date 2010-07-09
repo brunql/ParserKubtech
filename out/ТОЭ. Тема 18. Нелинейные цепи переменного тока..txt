@@ -1,0 +1,136 @@
+ТОЭ. Тема 18. Нелинейные цепи переменного тока.
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 18.1 Расчет по характеристикам для мгновенных значений (аналитический метод). Найти: напряжение на катушке, пренебрегая потерями в стали и сопротивлением провода катушки. Дано: <<<jpg=ris1-1.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: U(t)=41.8coswt+8.48cos3wt V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 18.3 Расчет по характеристикам для мгновенных значений (аналитический метод). Найти: u(t)  Дано: <<<jpg=ris2-1.jpg>>>  <<<jpg=ris2-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: U(t)=166.2sin(314t+82')-8.6sin(942t+43')V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 18.2 Расчет по характеристикам для мгновенных значений (аналитический метод). Найти: амплитуду первой гармоники тока.  Дано: <<<jpg=ris3-1.jpg>>>  <<<jpg=ris3-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: Imax=1A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 18.4 Расчет по характеристикам для мгновенных значений (аналитический метод). Найти: u(t)  Дано: <<<jpg=ris4-1.jpg>>>  <<<jpg=ris4-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: U(t)=20+20sin1000t+20cos2wt;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 18.5 Расчет по характеристикам для мгновенных значений (кусочно-линейная аппроксимация характеристик).  Найти: Icp,  Ucp, Pr  Дано: <<<jpg=ris5-1.jpg>>>  <<<jpg=ris5-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: Imid=0.255A; Pr=80W;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 18.7 Расчет по характеристикам для мгновенных значений (кусочно-линейная аппроксимация характеристик).  Найти: u(t)  Дано: <<<jpg=ris6-1.jpg>>>  <<<jpg=ris6-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ?
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 18.6 Расчет по характеристикам для мгновенных значений (кусочно-линейная аппроксимация характеристик).  Построить: q(t), e(t), i1(t).  Дано: <<<jpg=ris7-1.jpg>>>  <<<jpg=ris7-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ?
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 18.8 Расчет по характеристикам для мгновенных значений (кусочно-линейная аппроксимация характеристик).  Построить: F(t), найти действующее значение F.  Дано: <<<jpg=ris8-1.jpg>>>  <<<jpg=ris8-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ?
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 18.9 Расчет по ВАХ для действующих значений (метод эквивалентных синусоид).  Найти: ток в цепи, напряжения на участках.  Дано: <<<jpg=ris9-1.jpg>>>  <<<jpg=ris9-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I=6.7A; Uc=67V; Ur=20V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 18.11 Расчет по ВАХ для действующих значений (метод эквивалентных синусоид).  Найти: 1. Диапазон изменения емкости  C , в котором наблюдается резонансный режим. 2. Значения емкости при которой ток при скачке напряжения составил бы I=5 A . Построить две векторные диаграммы для I bx=1/2  до и после скачка напряжения.  Дано: <<<jpg=ris10-1.jpg>>>  <<<jpg=ris10-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: 1) Cmax=1990мкФ; Cmin=145 мкФ; 2) C=318 мкФ;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 18.10 Расчет по ВАХ для действующих значений (метод эквивалентных синусоид).  Найти: I, Ur, Ul, Uc 1) До триггерного эффекта. 2) После триггерного эффекта.  Построить ВАХ цепи U(l)  Дано: <<<jpg=ris11-1.jpg>>>  <<<jpg=ris11-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: 1) I=0.4A; Ul=60V; Uc=20V; Ur=2V; 2) I=3.35A; Ul=130V; Uc=167V; Ur=167V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 18.13 Расчет по ВАХ для действующих значений  Найти: Найти поток магнитопровода катушки (действующее значение).  Дано: <<<jpg=ris12.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: Ф=3.2*10^-3 Вб;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 18.14 Расчет по ВАХ для действующих значений  Найти:  Найти относительную комплексную магнитную проницаемость сердечника катушки. Дано: <<<jpg=ris12.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ~мюz=2536e^-j17.5';
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 18.15 Расчет по ВАХ для действующих значений  Найти:  При каком напряжении произойдет изменение фазы тока на входе цепи? Дано: <<<jpg=ris13.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: U=sqrt(wc-a/3b);
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: Расчет по ВАХ для действующих значений  Найти: Ur, Ul, U  Дано: <<<jpg=ris14-1.jpg>>>  <<<jpg=ris14-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: U=87.72V; Ul-60V; Ur=64V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

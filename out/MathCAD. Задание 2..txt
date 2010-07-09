@@ -1,0 +1,106 @@
+MathCAD. Задание 2.
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Вычислите выражения:<<<jpg=ris1-1.jpg>>>.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Вычислите выражения:<<<jpg=ris1-2.jpg>>>.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Вычислите выражения:<<<jpg=ris1-3.jpg>>>.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Вычислите выражения:<<<jpg=ris1-4.jpg>>>.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Вычислите выражения:<<<jpg=ris1-5.jpg>>>.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Вычислить функции и построить графики.а) Вычислить функцию <<<jpg=ris2-1.jpg>>> в точке y(1,1).б)Выведите таблицу функции в диапазоне изменения аргумента от 0 до 10 с шагом 0,1.в)Постройте график вышеуказанной функции. Измените диапазон изменения функции на графике от 2,3 до 3,9. Отредактировать график по второму варианту.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Построить на одном графике одновременно три функции:<<<jpg=ris3-1.jpg>>> <<<jpg=ris3-2.jpg>>> <<<jpg=ris3-3.jpg>>>. Отформатировать график в соответствии со вторым рисунком.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Возьмите производную от функции f(x) в точке.Первую производную от функции <<<jpg=ris-1.jpg>>> в точке x: = -5.Третью производную от этой же функции.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Возьмите производную от функции f(x) в точке.Первую производную от функции <<<jpg=ris-2.jpg>>> в точке x: = 3.Вторую производную от этой же функции.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Возьмите производную от функции f(x) в точке.Первую производную от функции <<<jpg=ris-3.jpg>>> в точке x: = 5.Третью производную от этой же функции.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Возьмите производную от функции f(x) в точке.Первую производную от функции <<<jpg=ris-4.jpg>>> в точке x: = 5.Вторую производную от этой же функции.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Вычислите определенные интегралы  <<<jpg=ris2--1.jpg>>> .
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Вычислите определенные интегралы  <<<jpg=ris2--2.jpg>>> .
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Вычислите определенные интегралы  <<<jpg=ris2--3.jpg>>> .
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Вычислите определенные интегралы  <<<jpg=ris2--4.jpg>>> .
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

@@ -1,0 +1,254 @@
+Менеджмент качества. Тест 3. Cтандарт ГОСТ Р ИСО 9001-2001СМК. Требования.
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: ИСО 9001:2000 подразумевает единообразие и в системе менеджмента качества и в документации различных организаций.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Все требования, содержащиеся в ИСО 9001, являются общими и запланированными для применения ко всем  организациям независимо от вида, размера и поставляемой продукции.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Исключения из требований стандарта, относящихся к СМК, могут касаться только требований раздела 7.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Организация должна определить процессы, необходимые для СМК и установить их последовательность и взаимодействие при применении.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Там, где в стандарте встречается термин «документированная процедура», то это означает, что следует разработать, документально оформить, внедрить и поддерживать в рабочем состоянии процедуру.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Политика в области качества может включать обязательство по улучшению СМК.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Высшее руководство должно обеспечить, чтобы ответственность и полномочия были определены и доведены до сведения персонала организации.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Для создания СМК требуется стратегическое решение организации.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Представитель высшего руководства несет ответственность за определение корректирующих действий по результатам внутреннего аудита.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: В пункте стандарта «Внутренние аудиты» записано, что не разрешается проводить аудит различных подразделений организации с разной периодичностью.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Организация должна проводить валидацию всех процессов производства и обслуживания.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Документированная процедура по управлению записями по качеству должна включать следующие функции: идентификация, хранение с указанием сроков хранения и изъятия записей, защиты, восстановления.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Организация может отгрузить несоответствующую продукцию по согласованию с потребителем.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Из требований раздела 6 стандарта организация может делать исключения.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Требования по утилизации продукции изложены в п. 7.5.5 стандарта.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Применение статистических методов для оценки и анализа СМК является обязательным.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Организация может не включать в инфраструктуру СМК вспомогательные службы.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Высшее руководство должно обеспечить свидетельства своего обязательства по разработке и внедрению СМК.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Из требований раздела 5 следует, что высшее руководство может назначить члена своей организации ответственным представителем руководства по качеству.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Организация может вести регистрацию данных по образованию, обучению, квалификации и опыте персонала.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: В документированной процедуре по закупкам, в соответствии с требованиями стандарта, должны быть установлены критерии оценки и отбора поставщиков.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Отслеживание информации об удовлетворенности потребителей – это обязательное требование.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Для улучшения СМК организация должна применять внутренние аудиты. Это необходимое и достаточное условие.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

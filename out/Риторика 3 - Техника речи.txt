@@ -1,0 +1,144 @@
+Риторика 3 - Техника речи
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: К элементам техники речи не относится:
+<$:Variants:
+дыхание
+голос
+темперамент
+дикция
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Ритмико-мелодическая сторона речи связана с:
+<$:Variants:
+интонацией голоса
+полётностью голоса
+диапазоном голоса
+выносливостью голоса
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какой тип дыхания является наиболее целесообразным?
+<$:Variants:
+грудной тип
+брюшной тип
+смешанный
+верхний тип
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Фонационное  дыхание связано с:
+<$:Variants:
+мыслью
+речью
+походкой
+манерой
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Динамический диапазон голоса связан с:
+<$:Variants:
+тембром голоса
+силой голоса
+высотой голоса
+выносливостью голоса
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Звуковысотный диапазон характеризует:
+<$:Variants:
+высоту голоса
+силу голоса
+выносливость
+тембр голоса
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Четкое произношение звуков речи, соответствующее фонетической норме данного языка - это:
+<$:Variants:
+орфоэпия
+дикция
+артикуляция
+орфография
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: К качествам фонационного дыхания не относится:
+<$:Variants:
+глубина
+высота
+чистота
+близость
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Тексты, предназначенные для работы над дикцией, называются:
+<$:Variants:
+поговорки
+чистоговорки
+пословицы
+скороговорки
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Логическое ударение зависит от:
+<$:Variants:
+цели высказывания
+объема текста
+аудитории
+внешности оратора
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Паузы, отделяющие один речевой такт от другого, носят название:
+<$:Variants:
+стратегических пауз
+логических пауз
+интонационных пауз
+тактических пауз
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

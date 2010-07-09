@@ -1,0 +1,147 @@
+Психология-6
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Крайняя неудовлетворенность, блокада стремлений, вызывающая стойкое отрицательное эмоциональное переживание - это:
+<$:Variants:
+настроение
+стресс
+фрустрация
+аффект
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: К формам эмоциональных переживаний относятся:
+<$:Variants:
+аффект
+акцентуация
+стресс
+направленность
+фрустация
+страсти
+настроение
+<$:RightAnswers: 1 0 1 0 1 1 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: К высшим чувствам относятся:
+<$:Variants:
+моральные (нравственные)
+интеллектуальные
+эстетические
+амбивалентные
+<$:RightAnswers: 1 1 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Эмоции, вызывающие активное состояние, повышающее жизнедеятельность че-ловека, называются:
+<$:Variants:
+амбивалентными
+стеническими
+неопределенные
+астеническими
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Индивидуальные различия в области чувств характеризуются:
+<$:Variants:
+направленностью
+глубиной и силой
+устойчивостью
+регулярностью
+<$:RightAnswers: 1 1 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Самое длительное эмоциональное состояние:
+<$:Variants:
+аффект
+стресс
+настроение
+фрустрация
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Кратковременная, бурно протекающая эмоциональная реакция, носящая характер эмоционального взрыва:
+<$:Variants:
+аффект
+фрустрация
+страсть
+стресс
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Астенические эмоции:
+<$:Variants:
+возникают в новой, незнакомой ситуации
+не всегда имеют однозначный характер
+вызывают пассивное, угнетенное состояние
+вызывают активность
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: К интеллектуальным чувствам относится чувство:
+<$:Variants:
+удивления
+сомнения
+любознательности
+восторга
+<$:RightAnswers: 1 1 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Наиболее яркий показатель воли
+<$:Variants:
+удовольствие от преодоления препятствий
+подчинение потребности в экономии сил
+подчинение потребности уступать своей лени
+удовольствие в случае победы над собой
+<$:RightAnswers: 1 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: К волевым качества характера относится
+<$:Variants:
+настойчивость
+доброта
+искренность
+аккуратность
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

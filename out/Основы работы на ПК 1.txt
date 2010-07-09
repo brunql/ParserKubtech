@@ -1,0 +1,312 @@
+Основы работы на ПК 1
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: Что означает сокращение `ПК`? (введите ответ)
+<$:EditableVariant: 
+<$:RightAnswer: персональный компьютер
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: В зависимости от конструкции компьютеры подразделяются на:
+<$:Variants:
+большие, мини- и микро-ЭВМ
+настольные и блокнотные
+IBM PC и Apple
+Pentium, 486, 386 и др.
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Задача, которую не может решить компьютер:
+<$:Variants:
+переводить текст
+играть в шахматы
+сочинять рассказы
+проверять орфографию
+вычислять гиперболический синус
+<$:RightAnswers: 0 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Программное обеспечение компьютеров обеспечивает их
+<$:Variants:
+многофункциональность
+быстродействие
+надежность
+дешевизну
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Конфигурация компьютера - это:
+<$:Variants:
+набор комплектующих компьютера и их параметры
+программное обеспечение компьютера
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Срок морального старения персонального компьютера:
+<$:Variants:
+5-8 лет
+1-2 года
+3-4 года
+компьютер морально не стареет
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Цена компьютера заданной конфигурации со временем:
+<$:Variants:
+не меняется
+растет
+падает
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: В персональном компьютере информация хранится и обрабатывается в:
+<$:Variants:
+дисплее
+периферийных устройствах
+клавиатуре
+системном блоке
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: К какой части компьютера подключаются все остальные?
+<$:Variants:
+к клавиатуре
+к системному блоку
+к дисплею
+к специальному периферийному соединителю
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Устройством ВЫВОДА является:
+<$:Variants:
+сканер
+клавиатура
+плоттер
+мышка
+принтер
+дисплей
+<$:RightAnswers: 0 0 1 0 1 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Устройством ВВОДА является:
+<$:Variants:
+дисплей
+принтер
+плоттер
+мышка
+клавиатура
+<$:RightAnswers: 0 0 0 1 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Сканер используется для:
+<$:Variants:
+ввода графической информации в компьютер
+обнаружения неисправностей в компьютере
+поиска информации в компьютере
+связи с другими компьютерами через телефонную сеть
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Модем является устройством:
+<$:Variants:
+поиска информации в компьютере
+связи с другими компьютерами через телефонную сеть
+ввода графической информации в компьютер
+обнаружения неисправностей в компьютере
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Каков порядок включения устройств компьютера?
+<$:Variants:
+сначала периферийные устройства, затем системный блок
+сначала системный блок, затем периферийные
+порядок включения устройств не имеет значения
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Рабочий стол - это
+<$:Variants:
+рабочая область окна
+основная область экрана, в которой размещаются окна и пиктограммы
+полоса, на которой расположена кнопка `Пуск` и другие элементы
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Где находится Панель задач?
+<$:Variants:
+Справа и внизу в стандартном окне
+Ниже строки меню стандартного окна
+В нижней части экрана Windows
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Пиктограмма - это:
+<$:Variants:
+смысловой рисунок
+фон рабочего стола
+надпись под рисунком
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Изменит ли положение указатель мышки при ее перемещении?
+<$:Variants:
+Да, если мышка не оторвана от поверхности
+Да, это происходит всегда при любом перемещении мышки
+Нет, указатель не изменит положения
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Как  выполняется двойной щелчок?
+<$:Variants:
+Быстрым выполнением двух щелчков правой клавишей
+Медленным выполнением двух щелчков левой клавишей
+Быстрым выполнением двух щелчков левой клавишей
+Медленным выполнением двух щелчков правой клавишей
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Как выполняется буксировка?
+<$:Variants:
+Перемещением мышки с нажатой левой клавишей и последующим ее отпусканием
+Перемещением мышки с нажатой правой клавишей и последующим ее отпусканием
+Указанием щелчками начальной и конечной позиции перемещения
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Для исполнения команды, назначенной кнопке, необходимо произвести:
+<$:Variants:
+двойной щелчок по кнопке
+щелчок по кнопке
+щелчок правой клавишей по кнопке
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Каково основное назначение щелчка правой клавишей мышки?
+<$:Variants:
+Закрытие окон
+Открытие окон
+Вызов контекстного меню объектов
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Как открыть Главное меню?
+<$:Variants:
+Щелкнуть по клавише Пуск
+Отбуксировать клавишу Пуск на Рабочий стол
+Щелкнуть правой клавишей мышки на Рабочем столе
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Где находится команда "Завершение работы"?
+<$:Variants:
+В главном меню
+На Рабочем столе
+В папке Мой компьютер
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 5
+<$:QuestionBody: В каком порядке нужно выполнить команды для того, чтобы выключить компьютер?
+<$:Variants:
+Пуск
+Выключить компьютер
+Выключить
+<$:RightAnswers: 1 3 2
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

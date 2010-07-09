@@ -1,0 +1,71 @@
+ТОЭ. Входной контроль по физике. Задание 2.
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим топологическим понятиям электрической цепи: источник электрической энергии
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим топологическим понятиям электрической цепи: ветвь
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим топологическим понятиям электрической цепи: электрическая цепь
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим топологическим понятиям электрической цепи: узел
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим топологическим понятиям электрической цепи: схема электрической цепи
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим топологическим понятиям электрической цепи: контур
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим топологическим понятиям электрической цепи: приемник электрической энергии
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим топологическим понятиям электрической цепи: схема
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим топологическим понятиям электрической цепи: электрический контур
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим топологическим понятиям электрической цепи: индуктивность
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

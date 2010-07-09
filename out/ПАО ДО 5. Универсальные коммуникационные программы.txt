@@ -1,0 +1,195 @@
+ПАО ДО 5. Универсальные коммуникационные программы
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Интернет-пейджер в терминологии Интернет - это:
+<$:Variants:
+подключенный режим
+почтовая программа
+коммуникационная программа
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: При использовании Интернет-пейджера необходимо:
+<$:Variants:
+использование специальных программ
+подключение к Интернет
+наличие электронной почты
+<$:RightAnswers: 1 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Функциональное назначение Интернет-пейджера:
+<$:Variants:
+отправка почтовых сообщений
+поиск собеседников
+обмен сообщениями
+<$:RightAnswers: 0 1 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Интернет-пейджер позволяет устанавливать:
+<$:Variants:
+одностороннюю связь
+конференции
+двустороннюю связь
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: При регистрации в ICQ необходимо:
+<$:Variants:
+заполнять поля с личными данными
+не заполнять поля с личными данными
+выборочно заполнять поля с личными данными
+заполнять поля отмеченные звездочкой.
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: В системе ICQ пользователь отображается:
+<$:Variants:
+под зарегистрированным именем
+под зарегистрированной фамилией
+под псевдонимом (Nickname)
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Адрес электронной почты  в ICQ:
+<$:Variants:
+обязателен
+необязателен
+служит для установления связи с абонентом
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Статус пользователя ICQ доступен:
+<$:Variants:
+всем абонентам ICQ по умолчанию
+всем абонентам ICQ по вашему желанию
+всем абонентам  Интернет по умолчанию
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Найти абонентов ICQ можно:
+<$:Variants:
+по адресу электронной почты
+по личным данным
+по абонентскому номеру
+только через дополнительную коммуникационную программу
+<$:RightAnswers: 1 1 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: В ICQ имеется:
+<$:Variants:
+свой чат, доступный пользователям ICQ
+свой чат, доступный всем пользователям  Интернет
+выход в другие чаты Интернет
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Чат – это:
+<$:Variants:
+комната для общения
+почтовая программа
+сервис Интернет
+<$:RightAnswers: 1 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Чаты расположены:
+<$:Variants:
+на сайтах Интернет
+в Интернет-газетах
+в дополнительных компьютерных программах
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: В чат можно выйти с помощью:
+<$:Variants:
+браузера
+почтовой программы
+протокола TCP/IP
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: В чате может общаться:
+<$:Variants:
+любой пользователь Интернет
+зарегистрированный пользователь чата
+пользователь, прошедший проверку
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: В чате Вы должны зарегистрироваться под:
+<$:Variants:
+личным именем
+личной фамилией
+псевдонимом
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: В чате список участников общения:
+<$:Variants:
+скрыт от пользователя
+доступен всем пользователям Интернет
+доступен всем участникам чата
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

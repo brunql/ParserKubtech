@@ -1,0 +1,211 @@
+Английский язык для общения с компьютером. Тест 4.
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Подберите русский эквивалент английскому термину option:
+<$:Variants:
+Поиск файла на диске
+Выбор, вариант
+Выделение групп файла по маске
+Путь, маршрут
+Отмена выделения группы файлов по маске
+<$:RightAnswers: 0 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Подберите русский эквивалент английскому термину find file:
+<$:Variants:
+Поиск файла на диске
+Выбор, вариант
+Выделение групп файла по маске
+Путь, маршрут
+Отмена выделения группы файлов по маске
+<$:RightAnswers: 1 0 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Подберите русский эквивалент английскому термину select group:
+<$:Variants:
+Поиск файла на диске
+Выбор, вариант
+Выделение групп файла по маске
+Путь, маршрут
+Отмена выделения группы файлов по маске
+<$:RightAnswers: 0 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Подберите русский эквивалент английскому термину deselect group:
+<$:Variants:
+Поиск файла на диске
+Выбор, вариант
+Выделение групп файла по маске
+Путь, маршрут
+Отмена выделения группы файлов по маске
+<$:RightAnswers: 0 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Подберите русский эквивалент английскому термину path:
+<$:Variants:
+Поиск файла на диске
+Выбор, вариант
+Выделение групп файла по маске
+Путь, маршрут
+Отмена выделения группы файлов по маске
+<$:RightAnswers: 0 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Подберите русский эквивалент английскому термину chain:
+<$:Variants:
+Цепь, сочленять
+Чистый, очищать
+Считать
+Рисовать
+Цвет
+<$:RightAnswers: 1 0 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Подберите русский эквивалент английскому термину clear:
+<$:Variants:
+Цепь, сочленять
+Чистый, очищать
+Считать
+Рисовать
+Цвет
+<$:RightAnswers: 0 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Подберите русский эквивалент английскому термину count:
+<$:Variants:
+Цепь, сочленять
+Чистый, очищать
+Считать
+Рисовать
+Цвет
+<$:RightAnswers: 0 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Подберите русский эквивалент английскому термину color:
+<$:Variants:
+Цепь, сочленять
+Чистый, очищать
+Считать
+Рисовать
+Цвет
+<$:RightAnswers: 0 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Подберите русский эквивалент английскому термину draw:
+<$:Variants:
+Цепь, сочленять
+Чистый, очищать
+Считать
+Рисовать
+Цвет
+<$:RightAnswers: 0 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Подберите русский эквивалент английскому термину drive:
+<$:Variants:
+Окружность
+Дисковод
+Ошибка
+Шина
+Вызывать, вызов
+<$:RightAnswers: 0 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Подберите русский эквивалент английскому термину circle:
+<$:Variants:
+Окружность
+Дисковод
+Ошибка
+Шина
+Вызывать, вызов
+<$:RightAnswers: 1 0 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Подберите русский эквивалент английскому термину error:
+<$:Variants:
+Окружность
+Дисковод
+Ошибка
+Шина
+Вызывать, вызов
+<$:RightAnswers: 0 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Подберите русский эквивалент английскому термину call:
+<$:Variants:
+Окружность
+Дисковод
+Ошибка
+Шина
+Вызывать, вызов
+<$:RightAnswers: 0 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Подберите русский эквивалент английскому термину bus:
+<$:Variants:
+Окружность
+Дисковод
+Ошибка
+Шина
+Вызывать, вызов
+<$:RightAnswers: 0 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

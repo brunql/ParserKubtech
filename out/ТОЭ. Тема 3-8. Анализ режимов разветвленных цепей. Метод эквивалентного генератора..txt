@@ -1,0 +1,217 @@
+ТОЭ. Тема 3-8. Анализ режимов разветвленных цепей. Метод эквивалентного генератора.
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.1 Найти ток через R2. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <<<jpg=ris1-1.jpg>>> <<<jpg=ris1-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I1=1A; I2=2A; I3=2A; Pw=80W;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.2 Найти ток через XL2. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris2-1.jpg>>> <<<jpg=ris2-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=jA; I`2=2A; I`3=-2A; Pw=80W;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.3 Найти ток через R1. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <<<jpg=ris3-1.jpg>>> <<<jpg=ris3-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I1=1A; I2=2A; I3=1A; Vv=80V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.4 Найти ток через XL1. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris4-1.jpg>>> <<<jpg=ris4-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=10A; I`2=10e^-j90'A; I`3=14.1e^j135'A; Vv=100V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.5 Найти ток через R3. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <<<jpg=ris5-1.jpg>>> <<<jpg=ris5-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ?
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.6 Найти ток через XL3. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris6-1.jpg>>> <<<jpg=ris6-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ?
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.7 Найти ток через R5. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <<<jpg=ris7-1.jpg>>> <<<jpg=ris7-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ?
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.8 Найти ток через XL1. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris8-1.jpg>>> <<<jpg=ris8-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ?
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.9 Найти ток через R4. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <<<jpg=ris9-1.jpg>>> <<<jpg=ris9-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ?
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.10 Найти ток через XC4. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris10-1.jpg>>> <<<jpg=ris10-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ?
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.11 Найти ток через R3. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <<<jpg=ris11-1.jpg>>> <<<jpg=ris11-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ?
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.12 Найти ток через C4. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris12-1.jpg>>> <<<jpg=ris12-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ?
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.13 Найти ток через R4. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <<<jpg=ris13-1.jpg>>> <<<jpg=ris13-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I3=2A; I4=5A; I5=I6=1A; Vv1=1V; Vv2=15V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.14 Найти ток через R3. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris14-1.jpg>>> <<<jpg=ris14-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`2=I`4=14.14e^j180'A; I`3=0; I`6=20e^-j225'A; Pv1=283V; Pv2=200V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.15 Найти ток через R4. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <<<jpg=ris15-1.jpg>>> <<<jpg=ris15-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I1-I2=I3=I4=I5=0; Vv=100V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.16 Найти ток через Xc3. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris16-1.jpg>>> <<<jpg=ris16-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=I`3=20A; I`2=0; I`4=(-15+j5)A; I`5=(15-j5)A; Vv=223.6 V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.17 Найти ток через R6. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <<<jpg=ris17-1.jpg>>> <<<jpg=ris17-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I1=2A; I2=3A; I3=5A; Uv=130V; Ia=3A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.18 Найти ток через R2. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris18-1.jpg>>> <<<jpg=ris18-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=I`2=20e^j90'A; I`3=0; Uv1=141.4V; Uv2=0V; Ia=20A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.19 Найти ток через R1. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <<<jpg=ris19-1.jpg>>> <<<jpg=ris19-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I1=4A; I2=2A; I3=6A; I45=4A; Uv=40V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.20 Найти ток через XC2. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris20-1.jpg>>> <<<jpg=ris20-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=20.6e^-j14'A; I`2=103.1e^-j14'A; I`3=11.18e^-j152.4'A; I`4=10sqrt(2)e^-j45'A; Uv456V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.21 Найти ток через R2. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <<<jpg=ris21-1.jpg>>> <<<jpg=ris21-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I1=2.5A; I2=2A; I3=1A; I4=1.5A; I5=0.5A; I6=3A; Ia=2.5A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.22 Найти ток через R2. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris22-1.jpg>>> <<<jpg=ris22-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=I`2=I`3=I`4=5sqrt(2)e^j45'; I`8=I`7=0; I`l6=10sqrt(2)e^j45 A; I`l5=5sqrt(2)e^j45 A; I`c6=10sqrt(2)e^-j135'A; I`c5=5sqrt(2)e^-j135'A; Uv=50sqrt(2)e^-j45'V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.23 Найти ток через R1. Составить баланс мощностей. Определить показания приборов. 1) Показания амперметра при замкнутом рубильнике; 2) Показания вольтметра при разомкнутом рубильнике.  Дано: <<<jpg=ris23-1.jpg>>> <<<jpg=ris23-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: 1)Ia=1.125A; 2)Uv=1.0V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 3.24 Найти ток через R. Составить баланс мощностей. Определить показания приборов. 1) Показания амперметра при замкнутом рубильнике; 2) Показания вольтметра при разомкнутом рубильнике.  Дано: <<<jpg=ris24-1.jpg>>> <<<jpg=ris24-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: 1)Ia=1.67A; 2)Uv=5.0V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

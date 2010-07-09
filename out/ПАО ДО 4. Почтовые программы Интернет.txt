@@ -1,0 +1,121 @@
+ПАО ДО 4. Почтовые программы Интернет
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Адрес электронной почты состоит из...
+<$:Variants:
+двух частей
+фамилии адресата
+пароля адресата
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Часть адреса перед символом @ обозначает:
+<$:Variants:
+почтовый ящик
+службу почтового сервиса
+личный код
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Часть адреса после символа @ обозначает:
+<$:Variants:
+имя домена провайдера
+службу почтового сервиса
+личный код
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Имя пользователя в адресе электронной почты - это:
+<$:Variants:
+обозначение почтового ящика
+уникальный адрес
+почтовый код
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Имя домена для провайдера в США завершается:
+<$:Variants:
+тремя латинскими буквами
+зоной
+тремя цифрами
+<$:RightAnswers: 1 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: За пределами США имена домена обычно завершаются:
+<$:Variants:
+кодом страны
+тремя латинскими буквами
+тремя цифрами
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Ваш почтовый ящик обычно содержится на...
+<$:Variants:
+почтовом сервере провайдера
+сайте
+локальном компьютере
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Почта приходит на...
+<$:Variants:
+почтовый сервер для входящей почты
+компьютер адресата
+сервер локальной сети
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: При использовании Web-браузера для чтения почты необходимо...
+<$:Variants:
+сообщить своей почтовой программе имена ваших почтовых серверов для входящей почты
+сообщить своей почтовой программе имена ваших почтовых серверов для исходящей почты
+загрузить Web-узел, предоставляющий почтовый сервис
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Бесплатные почтовые ящики предоставляют:
+<$:Variants:
+провайдеры
+специальные Web-узлы
+сервисы Интернет
+<$:RightAnswers: 1 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

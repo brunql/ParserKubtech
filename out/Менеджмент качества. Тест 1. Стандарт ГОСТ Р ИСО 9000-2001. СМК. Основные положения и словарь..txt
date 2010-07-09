@@ -1,0 +1,228 @@
+Менеджмент качества. Тест 1. Стандарт ГОСТ Р ИСО 9000-2001. СМК. Основные положения и словарь.
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Стандарт описывает следующие принципы менеджмента качества:
+<$:Variants:
+ориентация на потребителя
+лидерство руководителя
+вовлечение работников
+процессный подход
+системный подход к менеджменту
+приоритет предупреждения перед выявлением несоответствия
+постоянное улучшение
+принятие решений, основанное на фактах
+взаимовыгодные отношения с поставщиками
+<$:RightAnswers: 1 1 1 1 1 0 1 1 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Качество – это степень соответствия присущих характеристик требованиям.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Требование – потребность или ожидание, которое установлено, обычно предполагается или является обязательным.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Требования выдвигаются всеми заинтересованными сторонами.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Удовлетворенность потребителей – это восприятие потребителями степени выполнения их требований.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Система менеджмента качества – это система менеджмента для руководства и управления процессами организации применительно к качеству.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Менеджмент качества – это скоординированная деятельность по руководству и управлению организацией.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Планирование, управление, обеспечение и улучшение качества являются частями менеджмента качества.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Результативность – это степень реализации запланированной деятельности и достижения запланированных результатов.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Эффективность – это затраты в денежном выражении на получение запланированного результата.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Инфраструктура – это совокупность зданий, оборудования и служб обеспечения, необходимых для функционирования организации.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Производственная среда – это совокупность управляемых факторов, для поддержания всех условий, в которых выполняется работа.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Процесс – это совокупность взаимосвязанных видов деятельности, преобразующая входы в выходы.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Проект – это уникальный процесс, состоящий из совокупности скоординированной и управляемой деятельности с начальной и конечной датами, предпринятый для достижения цели, соответствующей конкретным требованиям, включающий ограничения сроков, стоимости и ресурсов.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Прослеживаемость – это возможность проследить развитие процесса во времени, применение или местонахождение того, что рассматривается.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Корректирующее действие – это действие, предпринятое для устранения обнаруженного несоответствия.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Предупреждающее действие – это действие, предпринятое для устранения причины обнаруженного несоответствия или другой нежелательной ситуации.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Документ – это информация на бумажном носителе.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Запись – это документ, содержащий достигнутые результаты.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Критерий аудита – это совокупность политики, процедур или требований, которые применяются в виде ссылок.
+<$:Variants:
+верно
+неверно
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

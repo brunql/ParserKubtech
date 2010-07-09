@@ -1,0 +1,29 @@
+ТОЭ. Входной контроль по математике. Задание 2.
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Комплексное число <<<jpg=ris1.jpg>>> изобразите на комплексной плоскости и запишите в алгебраической форме.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Комплексное число <<<jpg=ris2.jpg>>> изобразите на комплексной плоскости и запишите в алгебраической форме.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Комплексное число <<<jpg=ris3.jpg>>> изобразите на комплексной плоскости и запишите в алгебраической форме.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Комплексное число <<<jpg=ris4.jpg>>> изобразите на комплексной плоскости и запишите в алгебраической форме.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

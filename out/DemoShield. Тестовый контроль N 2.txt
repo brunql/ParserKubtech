@@ -1,0 +1,96 @@
+DemoShield. Тестовый контроль № 2
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Сцены – это:
+<$:Variants:
+конструктивные блоки демонстрации
+конструктивные блоки объектов
+группы объектов
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какие типы оформления возможны для сцены?
+<$:Variants:
+Solid (Сплошной), Pattern (Модель), Wash (Размытый), Image (Рисунок)
+Автофигурами (Autoshapes), линиями (Lines)
+Fill Color (Цвет заполнения)  и  Bасkground Color (Цвет фона)
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Как изменить размер автофигуры?
+<$:Variants:
+щелкнуть мышкой по необходимой автофигуре на Панели Автофигур и буксировать мышкой
+щелкнуть мышкой по автофигуре и буксировать соответствующий квадратик
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какие действия можно производить с Автофигурами?
+<$:Variants:
+Копировать в буфер обмена, вставлять в буфер обмена и удалять. Перемещать, изменять размер
+Копировать в буфер обмена, вставлять в буфер обмена и удалять
+Перемещать, изменять размер
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какие объекты содержит панель линий?
+<$:Variants:
+Линии, ломаные линии, кривые
+Линии, многоугольник
+Линии, ломаные линии, многоугольник
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Объекты – это:
+<$:Variants:
+конструктивные блоки сцены
+конструктивные блоки демонстрации
+графические примитивы, служащие конструктивными блоками Сцены
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какие действия можно производить с объектами?
+<$:Variants:
+В зависимости от типа объекта
+Любые объекты можно вставлять, выделять, копировать, удалять, вырезать, перемещать
+Любые объекты можно вставлять, удалять и перемещать
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какими свойствами обладают текстовые объекты?
+<$:Variants:
+Fill Styles (Стиль заполнения), Font (Шрифт), Borders (Границы)
+Цвет, размер, формат
+Fill Color (Цвет заполнения)  и  Bасkground Color (Цвет фона)
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

@@ -1,0 +1,172 @@
+ТОЭ. Тема 11. Несинусоидальные токи. 
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.1 Представить функцию в виде ряда Фурье (ограничиться тремя состав-ляющими).Найти действующие значения напряжений, токов. Дано: <<<jpg=pic11-1.jpg>>> <<<jpg=pic11-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: U=122.47 V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.3 Представить функцию в виде ряда Фурье (ограничиться тремя состав-ляющими).Найти действующие значения напряжений, токов. Дано: <<<jpg=pic11-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: U=208.6 V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.2 Представить функцию в виде ряда Фурье (ограничиться тремя состав-ляющими).Найти действующие значения напряжений, токов. Дано: <<<jpg=pic11-1.jpg>>> <<<jpg=pic11-4.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I=4.24 A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.4 Представить функцию в виде ряда Фурье (ограничиться тремя состав-ляющими).Найти действующие значения напряжений, токов.Примечание: напряжение в цепи трехфазного выпрямителя. Дано: <<<jpg=pic11-1.jpg>>> <<<jpg=pic11-5.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: U=336 V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.5 Найти мгновенные и действующие значения несинусоидальных величин. Дано: <<<jpg=pic11-2-1.jpg>>> .Найти : <<<jpg=pic11-2-12.jpg>>>. Построить График i(t) : <<<jpg=pic11-2-13.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I=25 A; Ur=250V; Ul=250V; Uc=269.3V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.7 Найти мгновенные и действующие значения несинусоидальных величин. Дано: <<<jpg=pic11-2-2.jpg>>> <<<jpg=pic11-2-21.jpg>>> <<<jpg=pic11-2-22.jpg>>>.Найти : <<<jpg=pic11-2-23.jpg>>>.
+<$:EditableVariant: 
+<$:RightAnswer: U2=28.9V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.6 Найти мгновенные и действующие значения несинусоидальных величин. Дано: <<<jpg=pic11-2-3.jpg>>> .Найти : <<<jpg=pic11-2-31.jpg>>> <<<jpg=pic11-2-32.jpg>>>.
+<$:EditableVariant: 
+<$:RightAnswer: U=122.5V; Ir=12.25A; Il=inf; Ic=14.14A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.8 Найти мгновенные и действующие значения несинусоидальных величин. Дано: <<<jpg=pic11-2-4.jpg>>> .Найти : <<<jpg=pic11-2-41.jpg>>> <<<jpg=pic11-2-42.jpg>>>.
+<$:EditableVariant: 
+<$:RightAnswer: I1=14.14A; U2=200V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.9 Найти мгновенные и действующие значения несинусоидальных величин. Дано: <<<jpg=pic11-3-1.jpg>>> .Найти : <<<jpg=pic11-3-12.jpg>>> <<<jpg=pic11-3-13.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I1=12A; I2=13.2A; I3=6A; U=52.1V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.11 Найти мгновенные и действующие значения несинусоидальных величин. Дано: <<<jpg=pic11-3-2.jpg>>> .Найти : <<<jpg=pic11-3-21.jpg>>> <<<jpg=pic11-3-22.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: Uab(t)=5.55sin(200t+33.7')V; Uab=39.2V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.10 Найти мгновенные и действующие значения несинусоидальных величин. Дано: <<<jpg=pic11-3-3.jpg>>> .Найти : <<<jpg=pic11-3-31.jpg>>> <<<jpg=pic11-3-32.jpg>>>.
+<$:EditableVariant: 
+<$:RightAnswer: U(t)=-40+8sin(100t+145'); U=71.4V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.12 Найти мгновенные и действующие значения несинусоидальных величин. Дано: <<<jpg=pic11-3-4.jpg>>> .Найти : <<<jpg=pic11-3-41.jpg>>> <<<jpg=pic11-3-42.jpg>>>.
+<$:EditableVariant: 
+<$:RightAnswer: I1=14.1A; I2=12.2A; I3=7.1A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.13 Найти активную, реактивную, полную мощности цепи, ко-эффициент мощности. Дано: <<<jpg=pic11-4-1.jpg>>> .Найти : <<<jpg=pic11-4-12.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: P=225W; Q=150вар; S=290.5 BxA; лямбда=0.77;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.15 Найти активную, реактивную, полную мощности цепи, ко-эффициент мощности.. Дано: <<<jpg=pic11-4-2.jpg>>>  <<<jpg=pic11-4-21.jpg>>>.Найти : <<<jpg=pic11-4-22.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: I=28.28A; U=128V; P=3200W;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.14 Найти показания приборов электромагнитной системы. Дано: <<<jpg=pic11-5-1.jpg>>> <<<jpg=pic11-5-12.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: P=8.7W; Q=5 вар; S=14.1 BxA; Xc=8.6 Ом; лямбда=0.61; R=5 Ом;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.16 Найти показания приборов электромагнитной системы.. Дано: <<<jpg=pic11-5-2.jpg>>>  <<<jpg=pic11-5-21.jpg>>>.
+<$:EditableVariant: 
+<$:RightAnswer: P=36W; U=23.75V; I=3.46A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.17;11.18 Расчет трехфазных цепей. Дано: <<<jpg=pic11-6-1.jpg>>> .Сопротивление фаз трехфазной цепи соединенной звездой первой гар-монике напряжения : <<<jpg=pic11-6-12.jpg>>> <<<jpg=pic11-6-13.jpg>>> <<<jpg=pic11-6-14.jpg>>>.Найти действующие значения токов, напряжений на нагрузках фаз: в техпроводной цепи  в четырехпроводной цепи .
+<$:EditableVariant: 
+<$:RightAnswer: 1) Ia=68.7A; Ib=36.4A; Ic=45.2A; Un1n=332.4V; 2) Ia=40.18A; Ib=38.54A; Ic=48.59A; In=47.225A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.19 Расчет трехфазных цепей.. Дано: <<<jpg=pic11-6-2.jpg>>>  Найти : <<<jpg=pic11-6-21.jpg>>> <<<jpg=pic11-6-22.jpg>>>.
+<$:EditableVariant: 
+<$:RightAnswer: Iф=9A; Iл=15.6A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 11.20 Расчет трехфазных цепей.. Дано: <<<jpg=pic11-6-3.jpg>>>  Найти показания приборов : <<<jpg=pic11-6-31.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: Iл=41.3A; In=6.15A; U1=428V; U2=36.9V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

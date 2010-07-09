@@ -1,0 +1,189 @@
+DemoShield. Тестовый контроль № 3
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Что такое быстрые объекты?
+<$:Variants:
+специализированные объекты, включенные в сцену с помощью индивидуальных Мастеров, которые выполняют определенную, приписанную им задачу
+Конструктивные блоки демонстрации
+Графические примитивы
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какие существуют типы быстрых объектов?
+<$:Variants:
+Прямоугольник, ромб, окружность, параллелограмм...
+Автофигуры, линии, текст...
+Звук, видео, кнопка, анимация...
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Как вставить в сцену кнопку с назначенным ей действием?
+<$:Variants:
+Воспользоваться кнопкой Быстрый объект-видео на Панели инструментов
+Воспользоваться кнопкой Быстрый объект-анимация на Панели инструментов
+Произвести двойной щелчок мышкой по сцене и воспользоваться соотвествующим Мастером
+Воспользоваться кнопкой Быстрый объект-видео на Панели инструментов
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Как можно проиграть демонстрацию?
+<$:Variants:
+воспользоваться кнопкой Play Demo From the Beginning на Панели контроля
+Щелкнуть мышкой по пункту меню вид и найти нужную кнопку
+Двойным щелчком мышки по свободному пространству на сцене
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Можно ли копировать и перемещать быстрые объекты?
+<$:Variants:
+Нет
+Да
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Как создать новую пустую Сцену?
+<$:Variants:
+Щелкнуть на Панели инструментов по  Duplicate Current Scene (Продублировать текущую сцену)
+Щелкнуть на Панели инструментов по кнопке Greate New Scene (Создать новую сцену)
+Перезапустить Проектировщик DemoShield Designer
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какие варианты переходов возможны между Сценами?
+<$:Variants:
+Перейти к следующей сцене, перейти к подсцене, перейти к предыдущей с цене...
+Вертикальные шторы, горизонтальные шторы, из круга, двойной радар, из коробки...
+0,5 сек., 1 сек...
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Назовите несколько эффектов переходов между сценами.
+<$:Variants:
+Слева, справа, из основания, из вершины, из четырех углов...
+К следующей сцене, к предыдущей сцене, к подсцене...
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Можно ли воспользоваться Демообозревателем для переключения между сценами?
+<$:Variants:
+Нет
+Да
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какие средства мультимедиа доступны в DemoShield?
+<$:Variants:
+Объект-звук, объект-видео, объект-анимация...
+Объект-звук, объект-видео
+Только объект-анимация и его разновидности
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Как создать быстрый объект-видео?
+<$:Variants:
+Воспользоваться кнопкой Быстрый объект-анимация на Панели инструментов
+Воспользоваться кнопкой Быстрый объект-видео на Панели инструментов
+Произвести двойной щелчок мышкой по сцене и воспользоваться соотвествующим Мастером
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: На какие основные периоды жизни разделяется существование объекта?
+<$:Variants:
+Начало, конец
+Начало, стационарное состояние, конец, неподвижное сосотояние
+Начало, стационарное состояние, конец
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Может ли объект находиться в движении во время Стационарного состояния (Hold)?
+<$:Variants:
+Да
+Нет
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Дистрибутив это:
+<$:Variants:
+Установочный комплект
+Файл
+Набор файлов
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Distribution Wizard  (Мастер создания дистрибутивов) предлагает на выбор следующие типы дистрибутивов:
+<$:Variants:
+.doc, .xls, .pcx, png…
+СD Browser, DemoHelp, DemoNow, DemoX, Setup Wizard…
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Каким образом можно создать дистрибутив Single Executable?
+<$:Variants:
+Воспользоваться мастером создания дистрибутивов
+Произвести двойной щелчок мышкой по сцене и воспользоваться соотвествующим Мастером
+Перезапустить Проектировщик DemoShield Designer
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

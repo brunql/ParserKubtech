@@ -1,0 +1,64 @@
+MathCAD. Задание 1.
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Возьмите производную от функции f(x) в точке.Первую производную от функции <<<jpg=ris1.jpg>>> в точке x: = -5.Третью производную от этой же функции.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Возьмите производную от функции f(x) в точке.Первую производную от функции <<<jpg=ris2.jpg>>> в точке x: = 3.Вторую производную от этой же функции.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Возьмите производную от функции f(x) в точке.Первую производную от функции <<<jpg=ris3.jpg>>> в точке x: = 5.Третью производную от этой же функции.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Возьмите производную от функции f(x) в точке.Первую производную от функции <<<jpg=ris4.jpg>>> в точке x: = 5.Вторую производную от этой же функции.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Вычислите определенные интегралы  <<<jpg=ris2-1.jpg>>> .
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Вычислите определенные интегралы  <<<jpg=ris2-2.jpg>>> .
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Вычислите определенные интегралы  <<<jpg=ris2-3.jpg>>> .
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Вычислите определенные интегралы  <<<jpg=ris2-4.jpg>>> .
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Даны матрицы А, В. 1).Сложить матрицы А и В, 2).перемножить матрицы А и В, 3). вычислить определитель матрицы В, 4).найти матрицу обратную матрице А, 5).решить систему уравнений с помощью матриц по предлагаемому алгоритму.<<<jpg=ris3-1.jpg>>> <<<jpg=ris3-2.jpg>>>.Алгоритм решения системы уравнений:<<<jpg=ris3-3.jpg>>> <<<jpg=ris3-4.jpg>>> <<<jpg=ris3-5.jpg>>> <<<jpg=ris3-6.jpg>>> <<<jpg=ris3-7.jpg>>> <<<jpg=ris3-8.jpg>>> . Решите систему уравнений: <<<jpg=ris4-1.jpg>>> <<<jpg=ris4-2.jpg>>>
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

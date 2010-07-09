@@ -1,0 +1,278 @@
+Основы работы на ПК 8
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Каково число российских пользователей Интернет к началу 2005 года?
+<$:Variants:
+16 млн человек
+20 млн человек
+10 млн человек
+5 млн человек
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Какие наиболее распространенные способы подключения к Интернет Вы знаете?
+<$:Variants:
+Через аналоговую АТС и модем
+Через локальную сеть
+Через глобальную сеть
+Через виртуальную сеть
+<$:RightAnswers: 1 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Фирма-поставщик услуг Internet - это (введите ответ)
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Какова cкорость в кбит/с получения информации из Интернет при подключении через аналоговую АТС? (введите ответ)
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Будет ли занят Ваш телефон при наличии на Панели задач Индикатора соединения?
+<$:Variants:
+Да
+Нет
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Какие адреса являются адресами Web-сайтов?
+<$:Variants:
+www.yandex.ru
+yandex@mail.ru
+www.moskva.ru
+<$:RightAnswers: 1 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Что такое сервер Интернет?
+<$:Variants:
+Специализированный компьютер, постоянно подключенный к Сети и предоставляющий своим пользователям доступ к определенным ресурсам
+Специализированный компьютер,  предоставляющий своим пользователям доступ к определенным ресурсам
+Компьютер, подключенный к сети
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Что такое Web-сайт?
+<$:Variants:
+Совокупность логически объединенных Web-страниц определенной тематики
+Совокупность текстовой информации, размещенной в Интернет
+Совокупность мультимедийной информации, размещенной на Web-серверах
+Совокупность информации, которая предоставляется пользователю определенным Web-сервером
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: Какой элемент делает принципиальным различие между Web-страницей и документом Microsoft Word? (введите ответ)
+<$:EditableVariant: 
+<$:RightAnswer: гиперссылка
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Что означает термин "гиперссылка"?
+<$:Variants:
+Активная область Web-страницы, предоставляющая доступ к другим Web-страницам, Web-сайтам, различным файлам, размещенным  в Интернет.
+Область Web-страницы, предоставляющая доступ, к страницам данного Web-сайта.
+Активная область Web-страницы, позволяющая перейти к другой позиции этой Web-страницы
+Web-страница, размещенная на данном Web-сервере.
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какие элементы может содержать форма запроса на странице Web?
+<$:Variants:
+Строки ввода, флажки выбора, флажки подтверждения, обычные и ниспадающие списки, кнопки
+Строки ввода, строки вывода, Панель управления, кнопки
+Флажки, строки ввода, кнопку Пуск
+Все ответы верны
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Какое средство сервиса WWW следует использовать для поиска общей информации о предмете поиска? (введите ответ)
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Какое средство сервиса WWW следует использовать для поиска конкретной информации по ключевым словам? (введите  ответ)
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какие виды информации, кроме текстовой, можно искать в Интернет?
+<$:Variants:
+Программное обеспечение, драйвера, музыку, фильмы, и т.д.
+Любую информацию, кроме фильмов.
+Различную информацию, кроме драйверов.
+Никакой, кроме текстовой.
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Что такое электронная почта?
+<$:Variants:
+Наиболее распространенная форма организации частной переписки между пользователями сети Internet.
+Программа, предоставляющая возможность вести переписку через Интернет.
+Web-сервер, предоставляющий электронный почтовый ящик
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какие возможности пользователям Интернет предоставляет электронная почта?
+<$:Variants:
+Возможность общения в режиме off-line
+Возможность общения в режиме on-line
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Выберите правильно записанные адреса электронной почты:
+<$:Variants:
+petrov@hotbox.ru
+www.ivanov@mail.ru
+ivanov@mail.ru
+www.yandex.ru
+<$:RightAnswers: 1 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Как скоро адресат получит Ваше письмо после его отправки?
+<$:Variants:
+Не более чем через 10 минут
+На следующий день
+Не более чем через 1 час
+Через 24 часа
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: Что такое перечень сообщений участников обсуждения определенной темы (введите ответ)
+<$:EditableVariant: 
+<$:RightAnswer: форум
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Термин, определяющий режим общения, когда участники общения находятся в Internet в одно и то же время (в режиме реального времени) (введите ответ)
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Какие варианты общения относятся к режиму on-line?
+<$:Variants:
+Чат
+ICQ
+Форум
+E-mail
+<$:RightAnswers: 1 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какие виды справки можно получить при работе с Windows?
+<$:Variants:
+справку по операционной системе Windows, справку о приложении и справку о диалоговом окне
+справку по операционной системе Windows
+справку по операционной системе Windows и справку о приложении
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Окно "Справочная система" содержит листы:
+<$:Variants:
+Содержание, Предметный указатель, Поиск
+Содержание, Имя и размещение, Дополнительно
+Содержание, Справка, Поиск
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Гипертекст - это:
+<$:Variants:
+текст с графическими вставками
+текст с  большим объемом информации
+модель представления информации, когда одна часть текста может ссылаться на другие
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Расширение у файлов справочной системы:
+<$:Variants:
+.hlp
+.txt
+.exe
+.chm
+<$:RightAnswers: 1 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

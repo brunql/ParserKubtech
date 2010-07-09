@@ -1,0 +1,695 @@
+<html><head>
+ <meta http-equiv="Content-type" content="text/html; charset=windows-1251">
+ <meta http-equiv="Pragma" content="no-cache">
+ <meta http-equiv="Cache-control" content="no-cache">
+ <meta http-equiv="Expires" content="Mon, 28 Jun 2010 19:00:21 GMT+3">
+ <meta name="Description" content="Российский портал открытого образования. Кубанский технологический виртуальный университет, Факультет переподготовки и повышения квалификации КубГТУ">
+ <meta name="Keywords" content="образование, дистанционное, дистантное, виртуальное, открытое обучение, учебные пособия, курсы, электронная библиотека, ИОС, открытое образование, информационно-образовательная среда, система открытого образования,  портал открытого образования, Кубанский технологический виртуальный университет, Факультет переподготовки и повышения квалификации КубГТУ">
+ <title>КубтехВУ - ФППК - Деканат - Система тестирования - Группы вопросов</title>
+ <style type="text/css">
+ <!--
+  A, .Link {text-decoration: none; color: #003973; font-family: MS Sans Serif;font-size: 9pt;}
+  A:hover, .Link:hover {text-decoration: underline; font-family: MS Sans Serif;font-size: 9pt;}
+  BUTTON, INPUT, SMALL, SELECT, OPTION, TD, BODY {font-size: 9pt; font-family: MS Sans Serif;}
+  BIG {font-size: 14pt; font-family: MS Sans Serif;}
+  .MenuLink {color:#FFFFFF;}
+  .Menu {font-family: MS Sans Serif, Sans-serif, Arial; font-size: 8pt;}
+  .MenuItem { margin-left: 15; margin-right: 5; margin-top: 5; color: #000000; font-size: 9pt;}
+  .SubMenuItem { margin-left: 18; margin-right: 5; margin-top: 5; color: #000000; font-size: 9pt;}
+  .RightItem { margin-left: 10; margin-right: 10; margin-top: 5; color: #000000; font-size: 9pt;}
+  .InfoItem { margin-left: 9; margin-right: 9; margin-top: 5;}
+  .PageBHead { color:#000085; font-size: 14pt; font-weight: bold;}
+  .PageMHead { color:#000085; font-size: 12pt; font-weight: bold;}
+  .PageSHead { color:#000085; font-size: 10pt; font-weight: bold;}
+  .TableSHead { color:#000085; font-size: 8pt; font-weight: bold;}
+ //-->
+ </style>
+ <script language="JavaScript" type="text/javascript">
+ <!--
+  NS4 = (navigator.appName == 'Netscape' && (navigator.appVersion.indexOf("5.") != -1 || navigator.appVersion.indexOf("4.") != -1));
+  IE4 = (document.all);
+  ver4 = (NS4 || IE4);
+  IE5 = (IE4 && (navigator.appVersion.indexOf("5.")!=-1 || navigator.appVersion.indexOf("6.")!=-1));
+  isMac = (navigator.appVersion.indexOf("Mac") != -1);
+  isMenu = (NS4 || (IE4 && !isMac) || (IE5 && isMac));
+  function popUp(){return};
+  function popDown(){return};
+  if (!ver4) event = null;
+ //-->
+ </script>
+ <script language="JavaScript1.2" type="text/javascript">
+ <!--
+  if (isMenu) {
+  menuVersion = 3;
+  menuWidth = 100;
+  childOverlap = 50;
+  childOffset = 5;
+  perCentOver = null;
+  secondsVisible = .4;
+  fntCol = "black";
+  fntSiz = "7";
+  fntBold = false;
+  fntItal = false;
+  fntFam = "Verdana, Pragmatica, Arial, Sans-serif";
+  backCol = "#cccccc";
+  overCol = "black";
+  overFnt = "white";
+  borWid = 1;
+  borCol = "black";
+  borSty = "solid";
+  itemPad = 1;
+  imgSrc = "http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/NavButton-CArrow.gif";
+  imgSiz = 10;
+  separator = 0;
+  separatorCol = "#000085";
+  isFrames = false;
+  navFrLoc = "left";
+  keepHilite = true;
+  NSfontOver = true;
+  baseURL = "http://kubtech.openet.ru/University.nsf/Index.htm!Open&Menu=";
+  clickStart = false;
+  clickKill = false; }
+ //-->
+ </script>
+ <script language="JavaScript1.2" type="text/javascript">
+ <!--
+  arMenu1 = new Array(175, 1, 81,"#000085","#C3C5EF","#FFFFFF","#000085","#C3C5EF","#C3C5EF",
+   "Органайзер","VPMain-HotLine&VPID=640&Options=-Left-Right",0,
+   "Информация","VPMain-Info-640-ProcessPage&VPID=640",1,
+   "Коммуникации","VPMain-Comm&VPID=640",1,
+   "Опросы","VPMain-Comm-Questionnaire&VPID=640",0,
+   "Протоколирование работы","VPMain-Events&VPID=640",0,
+   "Настройка представительства","VPMain-Offices-Edit&VPID=640",0
+  )
+  arMenu1_2 = new Array(
+   "Новости представительства","VPMain-News&VPID=640",0,
+   "Конференции","VPMain-Conferences&VPID=640",0,
+   "Публикации","VPMain-Publications&VPID=640",0,
+   "Особенности работы ВП","VPMain-Features-640-ProcessPage&VPID=640",0,
+   "Контакты","VPMain-Contacts-640-ProcessPage&VPID=640",0
+  )
+  arMenu1_3 = new Array(
+   "Форумы","VPMain-Comm-Forum&VPID=640",0,
+   "Доска объявлений","VPMain-Media-Board&VPID=640",0,
+   "Система чатов","VPMain-Comm-AllChats&VPID=640",0,
+   "Администрирование форумов","VPMain-Admin-Forum&VPID=640",0
+  )
+  arMenu2 = new Array(190, 131, 81,"#000085","#C3C5EF","#FFFFFF","#000085","#C3C5EF","#C3C5EF",
+   "Обеспечение учебного процесса","VPCatalog-LPS&VPID=640",1,
+   "Ресурсы","VPCatalog-Resources&VPID=640",1,
+   "Изображения","VPCatalog-FileUpload&VPID=640",0,
+   "Сводная таблица по специальностям ВП","VPCatalog-T4P&VPID=640",0
+  )
+  arMenu2_1 = new Array(
+   "Курсы","VPCatalog-LPS-Courses&VPID=640",0,
+   "Дисциплины","VPCatalog-LPS-Disciplines&VPID=640",0,
+   "Специальности и направления","VPCatalog-LPS-Specialities&VPID=640",0,
+   "Учебные планы","VPCatalog-LPS-StudyPlans&VPID=640",0
+  )
+  arMenu2_2 = new Array(
+   "Библиотека","VPCatalog-Resources-Library&VPID=640",0,
+   "Интернет-магазин","VPCatalog-Resources-Shop&VPID=640",0,
+   "Внешние ссылки","VPCatalog-Resources-Others&VPID=640",0,
+   "Все","VPCatalog-Resources-All&VPID=640",0,
+   "Загрузка архивов","VPCatalog-Resources-Upload&VPID=640",0,
+   "Архивы ресурсов","VPCatalog-Resources-Packages&VPID=640",0,
+   "Распакованные ресурсы","VPCatalog-Resources-Loaded&VPID=640",0,
+   "Загрузка двоичных файлов","VPCatalog-Resources-LoadFAttach&VPID=640",0,
+   "Двоичные файлы","VPCatalog-Resources-FAttach&VPID=640",0
+  )
+  arMenu3 = new Array(220, 194, 81,"#000085","#C3C5EF","#FFFFFF","#000085","#C3C5EF","#C3C5EF",
+   "Учебные группы","VPDean-Groups&VPID=640",1,
+   "Система тестирования","VPDean-Testing&VPID=640",1,
+   "Успеваемость","VPDean-Progress&VPID=640",1
+  )
+  arMenu3_1 = new Array(
+   "Слушатели","VPDean-Groups-Listeners&VPID=640",0,
+   "Абитуриенты","VPDean-Groups-Abiturients&VPID=640",0,
+   "Студенты","VPDean-Groups-Students&VPID=640",0
+  )
+  arMenu3_2 = new Array(
+   "Группы вопросов","VPDean-Testing-QuestionsGroups&VPID=640",0,
+   "Сценарии тестирований","VPDean-Testing-Scenarios&VPID=640",0,
+   "Служебные тестирования","VPDean-Testing-Testing&VPID=640",0,
+   "Состояние тестирований","VPDean-Testing-Verification&VPID=640",0,
+   "Незавершенные тестирования","VPDean-Testing-Archive&VPID=640",0
+  )
+  arMenu3_3 = new Array(
+   "Журналы успеваемости","VPDean-Progress-Register&VPID=640",0,
+   "Индивидуальные журналы тьюторов","VPDean-Progress-Journal&VPID=640",0
+  )
+  if (isMenu) {document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='http://kubtech.openet.ru/University.nsf/Index.htm!Open&VieP=Menu.js'><\/SCRIPT>");}
+ //-->
+ </script><script language="JavaScript1.2" src="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;VieP=Menu.js"></script>
+</head><body id="documentbody" bgcolor="#FFFFFF" text="#000000" link="#003973" vlink="#003973" alink="#003973" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+ <tbody><tr bgcolor="#EDC999"><td><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td><a href="http://www.edu.ru/db/portal/sites/portal_page.htm" title="Российское образование Федеральный портал&quot;" target="_BLANK"><img name="FedPortalImg" src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/TopBackNew.jpg" width="420" height="62" border="0"></a></td><td width="100%" valign="CENTER" align="RIGHT"><font size="+1" face="Arial"><a href="http://www.openet.ru" title="Консалтинговый Центр Информационно-Образовательной Среды Открытого Образования"><b><font color="#005070"><span style="font-family: Times; font-style: italic; font-size: 18px;"></span></font><nobr><font color="#005070">СИСТЕМА ОТКРЫТОГО ОБРАЗОВАНИЯ</font></nobr></b></a><br><nobr><span style="font-size: 11px; font-weight: bold; letter-spacing: 1"><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPMain&amp;VPID=640" title="ФППК"><font color="#005070">ФППК</font></a> (<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VUMain" title="Кубанский технологический виртуальный университет"><font color="#005070">КУБТЕХВУ</font></a>)</span>&nbsp;</nobr></font></td><td width="51"><a href="http://www.openet.ru" title="Консалтинговый центр ИОС" target="_blank"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/RGIOO_logo.gif" width="67" height="62" align="RIGHT" border="0"></a></td></tr></tbody></table><script language="JavaScript">if (screen.width<=800){document.FedPortalImg.src='http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/TopBackNew800x600.jpg';document.FedPortalImg.width=320;};;</script></td></tr>
+ <tr><td valign="TOP" height="1" background="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/HR.gif" align="CENTER"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" width="1" height="1"></td></tr>
+ <tr><td><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr bgcolor="#000085" valign="CENTER">
+  <td class="Menu" height="16"><font color="#FFFFFF"></font><nobr><font color="#FFFFFF"><b>&nbsp;
+   <a class="MenuLink" href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPMain&amp;VPID=640" onmouseover="popUp('elMenu1',event); window.status='Представительство'; return true;" onmouseout="popDown('elMenu1'); window.status=''; return true;">Представительство</a>&nbsp;</b>|<b>&nbsp;
+   <a class="MenuLink" href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPCatalog&amp;VPID=640" onmouseover="popUp('elMenu2',event); window.status='Каталог'; return true;" onmouseout="popDown('elMenu2'); window.status=''; return true;">Каталог</a>&nbsp;</b>|<b>&nbsp;
+   <a class="MenuLink" href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean&amp;VPID=640" onmouseover="popUp('elMenu3',event); window.status='Деканат'; return true;" onmouseout="popDown('elMenu3'); window.status=''; return true;">Деканат</a>&nbsp;</b></font>
+  </nobr></td>
+  <td align="RIGHT"><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPMain&amp;VPID=640" title="Первая страница Виртуального Представительства"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/NavButton-VPHome.gif" width="20" height="10" border="0"></a><a href="mailto:platonov_av@mail.ru?cc=temnikoff85@mail.ru, irinalux1908@mail.ru, russu64@mail.ru, tsouprikov@mail.ru, cska125@mail.ru, mikeshatohin@gmail.com, uga494aga@gmail.com, uga494aga@gmail.com, lirikkks@mail.ru&amp;subject=О%20ВП 'ФППК'" title="Написать письмо администратору
+Виртуального Представительства ..."><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/NavButton-Mail.gif" width="20" height="10" border="0"></a><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPMain-ExtSearch&amp;VPID=640" title="Расширенный поиск"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/NavButton-Search.gif" width="20" height="10" border="0"></a><a href="#" title="Помощь по данному разделу" onclick="window.open('http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=Help-VPDean-Testing-QuestionsGroups-2','Help','resizable=yes,toolbar=no,location=no,scrollbars=yes,width=' + eval(screen.width/2) + ',height=' + eval(screen.height-60) + ', top=0, left=' + eval(screen.width/2-10)); return false;"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/NavButton-Help.gif" width="20" height="10" border="0"></a><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" width="3" height="1"></td>
+  </tr></tbody></table></td></tr>
+ <tr><td valign="TOP" height="6" background="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Shadow.gif" align="CENTER"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" width="1" height="6"></td></tr>
+<tr><td><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr valign="TOP">
+  <td width="170" background="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/LeftBorder.gif" bgcolor="#E9E9E9">
+<table cellpadding="0" cellspacing="0" background="" border="0" width="170"><tbody><tr valign="TOP"><td width="170"><small>
+   <input type="HIDDEN" name="RedirectTo" value="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPMain&amp;VPID=640" size="60"><table width="155" cellpadding="0" cellspacing="0" border="0" align="CENTER"><form method="POST" action="http://kubtech.openet.ru/Names.nsf?Login" name="LoginForm"></form><tbody>
+    <tr><td colspan="3"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" height="4" width="1"></td></tr><tr><td colspan="3"><small><b>Авторизация:</b></small></td></tr>
+    <tr><td colspan="3"><font face="MS Sans Serif" size="-2"><input type="TEXT" size="16" name="Username" maxlength="256" value="A-073640301588" style="width:156"></font></td></tr>
+    <tr><td><font face="MS Sans Serif" size="-2"><input name="Password" type="PASSWORD" maxlength="256" size="11" value="" style="width:112"></font></td><td><input type="SUBMIT" name="Login" value="»" width="22" title="Войти в систему" style="vertical-align: top; width:22; height:18; font-size: 8pt; font-weight: bold; font-family: Verdana"></td><form method="POST" action="http://kubtech.openet.ru/University.nsf/Index.html?Logout" name="LogoutForm"></form><td><input type="SUBMIT" name="Logout" value="X" width="22" title="Отменить авторизацию (Администратор ВП)" style="vertical-align: top; width:22; height:18; font-size: 8pt; font-weight: bold; font-family: Verdana"></td></tr>
+    <tr><td colspan="3" align="CENTER"><b>Статус:</b>&nbsp;&nbsp;Администратор ВП<br>Шатохин Михаил Викторович</td></tr>
+    <tr><td colspan="3"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" height="4" width="1"></td></tr>
+   </tbody></table>
+   <img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/HR.gif" width="169" height="1"><br>
+  <table cellpadding="1" cellspacing="0" border="0" background="" width="169"><tbody><tr><td color="#FFFFFF" bgcolor="#000085" align="CENTER"><small><b><font color="#FFFFFF">»&nbsp;Деканат&nbsp;«</font></b></small></td></tr></tbody></table>
+    <img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Shadow.gif" width="169" height="6"><br>
+    <table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><small>
+     <div class="MenuItem"><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Groups&amp;VPID=640" onmouseover="window.status='Учебные группы'; return true;" onmouseout="window.status=''; return true;">Учебные группы</a></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Groups-Listeners&amp;VPID=640" onmouseover="window.status='Слушатели'; return true;" onmouseout="window.status=''; return true;">Слушатели</a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Groups-Abiturients&amp;VPID=640" onmouseover="window.status='Абитуриенты'; return true;" onmouseout="window.status=''; return true;">Абитуриенты</a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Groups-Students&amp;VPID=640" onmouseover="window.status='Студенты'; return true;" onmouseout="window.status=''; return true;">Студенты</a></td></tr></tbody></table></div>
+     <div class="MenuItem"><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing&amp;VPID=640" onmouseover="window.status='Система тестирования'; return true;" onmouseout="window.status=''; return true;"><font color="#000000">Система тестирования</font></a></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;VPID=640" onmouseover="window.status='Группы вопросов'; return true;" onmouseout="window.status=''; return true;"><font color="#000000">Группы вопросов</font></a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-Scenarios&amp;VPID=640" onmouseover="window.status='Сценарии тестирований'; return true;" onmouseout="window.status=''; return true;">Сценарии тестирований</a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-Testing&amp;VPID=640" onmouseover="window.status='Служебные тестирования'; return true;" onmouseout="window.status=''; return true;">Служебные тестирования</a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-Verification&amp;VPID=640" onmouseover="window.status='Состояние тестирований'; return true;" onmouseout="window.status=''; return true;">Состояние тестирований</a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-Archive&amp;VPID=640" onmouseover="window.status='Незавершенные тестирования'; return true;" onmouseout="window.status=''; return true;">Незавершенные тестирования</a></td></tr></tbody></table></div>
+     <div class="MenuItem"><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Progress&amp;VPID=640" onmouseover="window.status='Успеваемость'; return true;" onmouseout="window.status=''; return true;">Успеваемость</a></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Progress-Register&amp;VPID=640" onmouseover="window.status='Журналы успеваемости'; return true;" onmouseout="window.status=''; return true;">Журналы успеваемости</a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Progress-Journal&amp;VPID=640" onmouseover="window.status='Индивидуальные журналы тьюторов'; return true;" onmouseout="window.status=''; return true;">Индивидуальные журналы тьюторов</a></td></tr></tbody></table></div>
+    </small></td></tr></tbody></table>
+   <br></small></td><td width="1" background="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/VertBorder.gif"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" width="1" height="1"></td></tr></tbody></table>
+  </td>
+  <td width="100%" align="CENTER"><table cellpadding="9" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+<small><font color="#000000">
+
+<center><font color="#000085" size="+1"><b>Система тестирования</b></font></center>
+<center><font color="#000085"><b>Работа с группами вопросов</b></font></center>
+<form name="Select2Add" method="post" action="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;VPID=">
+<br><center><b><font color="#000085">Список вопросов группы:</font> "&nbsp;ТОЭ. Тема 3-8. Анализ режимов разветвленных цепей. &nbsp;" </b></center><br>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №1</b> [Вн. № 000001420]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001420">&nbsp;<b>Вопрос:</b> 
+3.1 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001420/$FILE/ris1-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001420/$FILE/ris1-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">I1=1A; I2=2A; I3=2A; Pw=80W;</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001420">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001420'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №2</b> [Вн. № 000001421]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001421">&nbsp;<b>Вопрос:</b> 
+3.2 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001421/$FILE/ris2-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001421/$FILE/ris2-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">I`1=jA; I`2=2A; I`3=-2A; Pw=80W;</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001421">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001421'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №3</b> [Вн. № 000001422]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001422">&nbsp;<b>Вопрос:</b> 
+3.3 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001422/$FILE/ris3-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001422/$FILE/ris3-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">I1=1A; I2=2A; I3=1A; Vv=80V;</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001422">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001422'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №4</b> [Вн. № 000001423]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001423">&nbsp;<b>Вопрос:</b> 
+3.4 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001423/$FILE/ris4-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001423/$FILE/ris4-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">I`1=10A; I`2=10e^-j90'A; I`3=14.1e^j135'A; Vv=100V;</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001423">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001423'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №5</b> [Вн. № 000001424]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001424">&nbsp;<b>Вопрос:</b> 
+3.5 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001424/$FILE/ris5-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001424/$FILE/ris5-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">?</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001424">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001424'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №6</b> [Вн. № 000001425]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001425">&nbsp;<b>Вопрос:</b> 
+3.6 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001425/$FILE/ris6-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001425/$FILE/ris6-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">?</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001425">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001425'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №7</b> [Вн. № 000001426]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001426">&nbsp;<b>Вопрос:</b> 
+3.7 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001426/$FILE/ris7-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001426/$FILE/ris7-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">?</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001426">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001426'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №8</b> [Вн. № 000001427]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001427">&nbsp;<b>Вопрос:</b> 
+3.8 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001427/$FILE/ris8-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001427/$FILE/ris8-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">?</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001427">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001427'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №9</b> [Вн. № 000001428]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001428">&nbsp;<b>Вопрос:</b> 
+3.9 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001428/$FILE/ris9-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001428/$FILE/ris9-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">?</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001428">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001428'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №10</b> [Вн. № 000001429]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001429">&nbsp;<b>Вопрос:</b> 
+3.10 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001429/$FILE/ris10-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001429/$FILE/ris10-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">?</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001429">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001429'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №11</b> [Вн. № 000001430]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001430">&nbsp;<b>Вопрос:</b> 
+3.11 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001430/$FILE/ris11-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001430/$FILE/ris11-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">?</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001430">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001430'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №12</b> [Вн. № 000001431]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001431">&nbsp;<b>Вопрос:</b> 
+3.12 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001431/$FILE/ris12-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001431/$FILE/ris12-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">?</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001431">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001431'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №13</b> [Вн. № 000001432]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001432">&nbsp;<b>Вопрос:</b> 
+3.13 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001432/$FILE/ris13-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001432/$FILE/ris13-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">I3=2A; I4=5A; I5=I6=1A; Vv1=1V; Vv2=15V;</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001432">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001432'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №14</b> [Вн. № 000001433]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001433">&nbsp;<b>Вопрос:</b> 
+3.14 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001433/$FILE/ris14-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001433/$FILE/ris14-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">I`2=I`4=14.14e^j180'A; I`3=0; I`6=20e^-j225'A; Pv1=283V; Pv2=200V;</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001433">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001433'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №15</b> [Вн. № 000001434]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001434">&nbsp;<b>Вопрос:</b> 
+3.15 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001434/$FILE/ris15-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001434/$FILE/ris15-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">I1-I2=I3=I4=I5=0; Vv=100V;</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001434">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001434'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №16</b> [Вн. № 000001435]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001435">&nbsp;<b>Вопрос:</b> 
+3.16 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001435/$FILE/ris16-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001435/$FILE/ris16-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">I`1=I`3=20A; I`2=0; I`4=(-15+j5)A; I`5=(15-j5)A; Vv=223.6 V;</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001435">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001435'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №17</b> [Вн. № 000001436]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001436">&nbsp;<b>Вопрос:</b> 
+3.17 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001436/$FILE/ris17-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001436/$FILE/ris17-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">I1=2A; I2=3A; I3=5A; Uv=130V; Ia=3A;</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001436">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001436'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №18</b> [Вн. № 000001437]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001437">&nbsp;<b>Вопрос:</b> 
+3.18 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001437/$FILE/ris18-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001437/$FILE/ris18-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">I`1=I`2=20e^j90'A; I`3=0; Uv1=141.4V; Uv2=0V; Ia=20A;</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001437">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001437'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №19</b> [Вн. № 000001438]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001438">&nbsp;<b>Вопрос:</b> 
+3.19 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001438/$FILE/ris19-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001438/$FILE/ris19-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">I1=4A; I2=2A; I3=6A; I45=4A; Uv=40V;</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001438">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001438'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №20</b> [Вн. № 000001439]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001439">&nbsp;<b>Вопрос:</b> 
+3.20 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001439/$FILE/ris20-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001439/$FILE/ris20-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">I`1=20.6e^-j14'A; I`2=103.1e^-j14'A; I`3=11.18e^-j152.4'A; I`4=10sqrt(2)e^-j45'A; Uv456V;</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001439">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001439'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №21</b> [Вн. № 000001440]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001440">&nbsp;<b>Вопрос:</b> 
+3.21 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить потенциальную диаграмму любого контура. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001440/$FILE/ris21-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001440/$FILE/ris21-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">I1=2.5A; I2=2A; I3=1A; I4=1.5A; I5=0.5A; I6=3A; Ia=2.5A;</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001440">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001440'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №22</b> [Вн. № 000001441]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001441">&nbsp;<b>Вопрос:</b> 
+3.22 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001441/$FILE/ris22-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001441/$FILE/ris22-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">I`1=I`2=I`3=I`4=5sqrt(2)e^j45'; I`8=I`7=0; I`l6=10sqrt(2)e^j45 A; I`l5=5sqrt(2)e^j45 A; I`c6=10sqrt(2)e^-j135'A; I`c5=5sqrt(2)e^-j135'A; Uv=50sqrt(2)e^-j45'V;</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001441">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001441'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №23</b> [Вн. № 000001442]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001442">&nbsp;<b>Вопрос:</b> 
+3.23 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. 1) Показания амперметра при замкнутом рубильнике; 2) Показания вольтметра при разомкнутом рубильнике.  Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001442/$FILE/ris23-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001442/$FILE/ris23-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">1)Ia=1.125A; 2)Uv=1.0V;</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001442">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001442'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №24</b> [Вн. № 000001443]. (Ввод некоторых данных, которые впоследствии будут сравнены с заложенным эталоном) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000001443">&nbsp;<b>Вопрос:</b> 
+3.24 Найти токи ветвей. Составить баланс мощностей. Определить показания приборов. 1) Показания амперметра при замкнутом рубильнике; 2) Показания вольтметра при разомкнутом рубильнике.  Дано: <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001443/$FILE/ris24-1.jpg"> <img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000001443/$FILE/ris24-2.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td>Вариант ответа для редактирования обучаемым:</td></tr>
+<tr><td><font color="blue"></font></td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td>Эталон правильного ответа:</td></tr>
+<tr><td><font color="red">1)Ia=1.67A; 2)Uv=5.0V;</font></td></tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000093&amp;QID=000001443">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000093&amp;QID=000001443'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+</form>
+  </font></small></td></tr></tbody></table></td>
+</tr></tbody></table></td></tr>
+<tr><td><table cellpadding="0" cellspacing="0" border="0" width="100%">
+ <tbody><tr><td colspan="2" background="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/HorBorder.gif"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" height="1" width="1"></td></tr>
+  <tr><td colspan="2"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" height="3" width="1"></td></tr>
+  <tr><td colspan="2" bgcolor="#000085"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" height="3" width="1"></td></tr>
+  <tr><td align="LEFT"><div id="TimeBar">&nbsp;В ВП сейчас: 28.06.2010 19:00</div></td><td height="25" align="RIGHT"><small>© <a href="http://www.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPMain&amp;VPID=351" title="РГИОО" target="_blank"><font color="#000000">РГИОО</font></a>, 2000&nbsp;-&nbsp;2010<img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" height="1" width="20"></small></td></tr>
+ </tbody></table></td></tr>
+</tbody></table>
+<script language="JavaScript" type="text/javascript">
+<!--
+ var isIE5 = (document.all) && (navigator.appVersion.indexOf("5.")!=-1 || navigator.appVersion.indexOf("6.") != -1);
+ var STime = new Date();
+ var GMToff = -(STime.getTimezoneOffset()/60);
+ if (GMToff >= 0) {GMToff = '+' + GMToff};
+ function GetNDate(oTime) {
+   var d1 = oTime.getDate();
+   var m1 = oTime.getMonth() + 1;
+   var h1 = oTime.getHours();
+   var i1 = oTime.getMinutes();
+   var s1 = oTime.getSeconds();
+   if (d1 <10) {d1 = "0" + d1};
+   if (m1 <10) {m1 = "0" + m1};
+   if (h1 <10) {h1 = "0" + h1};
+   if (i1 <10) {i1 = "0" + i1};
+   if (s1 <10) {s1 = "0" + s1};
+   return d1 + '.' + m1 + '.' + oTime.getYear() + ' ' + h1 + ':' + i1 + ':' + s1;
+ }
+ function TimeBarRefresh() {
+  if (isIE5) {
+   var LTime = new Date();
+   var RVUTime = new Date("June 28, 2010 19:00:21");
+   RVUTime.setMilliseconds(LTime - STime);
+   document.all.TimeBar.innerHTML = '&nbsp;Ваше время: ' + GetNDate(LTime) + ' (GMT' + GMToff + '), в ВП сейчас: ' + GetNDate(RVUTime) + ' (GMT+3)';
+   setTimeout('TimeBarRefresh()', 1000);
+  }
+ }
+ TimeBarRefresh();
+//-->
+</script>
+
+
+
+</body></html>

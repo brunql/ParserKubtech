@@ -1,0 +1,163 @@
+ТОЭ. Тема 12-13. Анализ переходных процессов.
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 12.1 Дано: <<<jpg=ris12-13-1-1.jpg>>> <<<jpg=ris12-13-1-2.jpg>>> Найти: <<<jpg=ris12-13-1-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: i1(t)=5(1-e^-2000t)A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 12.4 Дано: <<<jpg=ris12-13-2-1.jpg>>> <<<jpg=ris12-13-2-2.jpg>>> Найти: <<<jpg=ris12-13-2-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: i3(t)=1.125e^-900t -1.125e^-100tA;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 12.2 Дано: <<<jpg=ris12-13-3-1.jpg>>> <<<jpg=ris12-13-3-2.jpg>>> Найти: <<<jpg=ris12-13-3-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: i(t)=4.47sin(1000t+18')-1.41e^-2000t A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 12.5 Дано: <<<jpg=ris12-13-4-1.jpg>>> <<<jpg=ris12-13-4-2.jpg>>> Найти: <<<jpg=ris12-13-4-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: i3(t)=10e^-2000t A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 12.3 Дано: <<<jpg=ris12-13-5-1.jpg>>> <<<jpg=ris12-13-5-2.jpg>>> Найти: <<<jpg=ris12-13-5-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: Ul(t)=50e^-500t V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 12.6 Дано: <<<jpg=ris12-13-6-1.jpg>>> <<<jpg=ris12-13-6-2.jpg>>> Найти: <<<jpg=ris12-13-6-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: i4=1.41e^-1000t A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 12.7 Дано: <<<jpg=ris12-13-7-1.jpg>>> <<<jpg=ris12-13-7-2.jpg>>> Найти: <<<jpg=ris12-13-7-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: i2(t)=-0.1e^-3.33*10^3 t+0.1e^3.33*10^3 t A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 12.10 Дано: <<<jpg=ris12-13-8-1.jpg>>> <<<jpg=ris12-13-8-2.jpg>>> Найти: <<<jpg=ris12-13-8-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ic(t)=11.5e^-500t *sin(866t+120)A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 12.8 Дано: <<<jpg=ris12-13-9-1.jpg>>> <<<jpg=ris12-13-9-2.jpg>>> Найти: <<<jpg=ris12-13-9-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: il(t)=4.35e^-125t *sin(290t+667')A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 12.11 Дано: <<<jpg=ris12-13-10-1.jpg>>> <<<jpg=ris12-13-10-2.jpg>>> Найти: <<<jpg=ris12-13-10-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: Ul(t)=10e^-10^3 t V; il(t)=2-e^-1000t A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 12.9 Дано: <<<jpg=ris12-13-11-1.jpg>>> <<<jpg=ris12-13-11-2.jpg>>> Найти: характер переходного процесса  <<<jpg=ris12-13-11-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: колебательный; ic(0+)=0 A; Ul(0+)=25 V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 12.12 Дано: <<<jpg=ris12-13-12-1.jpg>>> <<<jpg=ris12-13-12-2.jpg>>> Найти: <<<jpg=ris12-13-12-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: Uc(t)=58.6e^-52.3t *sin(173t-155')V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 12.13 Дано: <<<jpg=ris12-13-13-1.jpg>>> <<<jpg=ris12-13-13-2.jpg>>> Найти: <<<jpg=ris12-13-13-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: Uc(t)=125-133e^-0.5*10000t +8e^-2*10000t V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 12.16 Дано: <<<jpg=ris12-13-14-1.jpg>>> <<<jpg=ris12-13-14-2.jpg>>> Найти: <<<jpg=ris12-13-14-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: U2(t)=-0.4e^-10000t V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 12.14 Дано: <<<jpg=ris12-13-15-1.jpg>>> <<<jpg=ris12-13-15-2.jpg>>> Найти: <<<jpg=ris12-13-15-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: Uc(t)=15-7.5e^-133t V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 12.17 Дано: <<<jpg=ris12-13-16-1.jpg>>> <<<jpg=ris12-13-16-2.jpg>>> Найти: <<<jpg=ris12-13-16-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: при 0&lt;=t&lt;=1мс U2(t)=-1e^-1000t V; при t&gt;=1мс U2(t)=0.63e^-1000(t-1000) V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 12.15 Дано: <<<jpg=ris12-13-17-1.jpg>>> <<<jpg=ris12-13-17-2.jpg>>> <<<jpg=ris12-13-17-4.jpg>>> Найти: <<<jpg=ris12-13-17-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: R=125 Ом; L=250 мГн;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 12.18 Дано: <<<jpg=ris12-13-18-1.jpg>>> <<<jpg=ris12-13-18-2.jpg>>> <<<jpg=ris12-13-18-4.jpg>>> Найти: <<<jpg=ris12-13-18-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: R=66.6 Ом; L=0.1 мГн; C=253 мкф;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

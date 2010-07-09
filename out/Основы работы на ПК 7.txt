@@ -1,0 +1,157 @@
+Основы работы на ПК 7
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Строка меню в Microsoft Word расположена:
+<$:Variants:
+сразу под строкой заголовка окна программы
+в нижней части окна
+в заголовке окна
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Окно документа является:
+<$:Variants:
+диалоговым окном
+стандартным окном Windows
+открытой папкой с названием документа
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Окно документа Microsoft Word содержит в своем составе:
+<$:Variants:
+строку меню
+панель инструментов
+поле редактирования, линейки, кнопки переключения вида отображения
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Для отмены сделанных изменений в Microsoft Word  необходимо:
+<$:Variants:
+вызвать соответствующее диалоговое окно
+щелкнуть по пиктограмме `Отменить`
+вызвать соответствующую команду из контекстного меню окна Документа
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Чтобы увидеть на экране в Microsoft Word неотображаемые символы, необходимо
+<$:Variants:
+щелкнуть по пиктограмме "Непечатаемые символы"
+вызвать соответствующую команду из контекстного меню окна Документа
+щелкнуть по кнопке "Предварительный просмотр" на Панели инструментов
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Можно ли перемещать окно документа за пределы окна программы ?
+<$:Variants:
+Да
+Нет
+да, если окно программы не раскрыто во весь экран
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Можно ли выделить во фрагмент одновременно часть начала и часть конца документа?
+<$:Variants:
+Да
+Нет
+Нельзя только для текстовой информации
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Фрагменты текста можно:
+<$:Variants:
+копировать, перемещать, удалять, заменять, переносить в другие приложения
+копировать, перемещать
+копировать, перемещать, удалять
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: По какой кнопке необходимо щелкнуть, чтобы увидеть, как будет выглядеть распечатанный документ
+<$:EditableVariant: 
+<$:RightAnswer: предварительный просмотр
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: С помощью Линейки можно настраивать следующие параметры абзаца:
+<$:Variants:
+абзацные отступы, интервал между строками
+позиции левой и правой границы текста, абзацные отступы
+абзацные отступы, размер шрифта
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Для настройки шрифта необходимо:
+<$:Variants:
+воспользоваться контекстным меню Панели инструментов
+воспользоваться контекстным меню Линейки
+воспользоваться командой Шрифт из меню Формат
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Какие типы принтеров существуют?
+<$:Variants:
+планшетные
+матричные
+механические
+лазерные
+струйные
+ручные
+<$:RightAnswers: 0 1 0 1 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Чем отличается в Microsoft Word печать тесктового документа от печати Точечного рисунка BMP?
+<$:Variants:
+Ничем, если рисунок вставлен в документ
+Необходима дополнительная настройка в диалоговом окне Печать
+Невозможна печать Точечного рисунка BMP
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

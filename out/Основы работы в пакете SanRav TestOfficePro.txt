@@ -1,0 +1,132 @@
+Основы работы в пакете SanRav TestOfficePro
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Пакет SunRav TestOfficePro обеспечивает...
+<$:Variants:
+один вид тестирования
+два вида тестирования
+три вида тестирования
+четыре вида тестирования
+пять видов тестирования
+<$:RightAnswers: 0 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Позволяет ли SunRav TestOfficePro перемешивать вопросы в тесте?
+<$:Variants:
+позволяет
+не позволяет
+позволяет только в тестах до 15 вопросов
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Пакет SunRav TestOfficePro состоит из...
+<$:Variants:
+двух частей
+трех частей
+четырех частей
+пяти частей
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Создание тестов происходит при помощи программы...
+<$:Variants:
+tMaker
+tAdmin
+tTester
+tStarter
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Импортируемый в SanRav TestOfficePro тест должен быть в формате...
+<$:Variants:
+TXT
+DOC
+RTF
+ZIP
+<$:RightAnswers: 1 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: В тестах психологического типа...
+<$:Variants:
+за каждый правильный ответ пользователь получает один балл
+за каждый выбранный ответ пользователь получает столько баллов, сколько определено за данный вариант ответа
+оценка не отличается от контрольного типа
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: В демонстрационной версии программы в одном тесте можно создать...
+<$:Variants:
+10 вопросов
+15 вопросов
+20 вопросов
+25 вопросов
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Программа tStarter – это...
+<$:Variants:
+программа запуска теста
+программа создания теста
+программа импорта теста в программу tMaker
+программа экспорта теста
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Ограничение тестирования по времени в SanRav TestOfficePro...
+<$:Variants:
+невозможно
+возможно только для всего теста
+возможно для каждого вопроса, но не для всего теста
+возможно как для каждого вопроса, так и для всего теста
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Обязательными для запуска теста с жесткого диска при помощи программы tTester являются файлы...
+<$:Variants:
+tstarter.exe
+tests.lst
+autorun.inf
+options.ini
+файл теста в папке Tests
+файл локализации в папке Langs
+<$:RightAnswers: 1 1 0 1 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

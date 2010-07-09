@@ -1,0 +1,134 @@
+Файл: tema11.txt
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Представить функцию в виде ряда Фурье (ограничиться тремя состав-ляющими).Найти действующие значения напряжений, токов. Дано: <<<jpg=pic11-1.jpg>>> <<<jpg=pic11-2.jpg>>>
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Представить функцию в виде ряда Фурье (ограничиться тремя состав-ляющими).Найти действующие значения напряжений, токов. Дано: <<<jpg=pic11-3.jpg>>>
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Представить функцию в виде ряда Фурье (ограничиться тремя состав-ляющими).Найти действующие значения напряжений, токов. Дано: <<<jpg=pic11-1.jpg>>> <<<jpg=pic11-4.jpg>>>
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Представить функцию в виде ряда Фурье (ограничиться тремя состав-ляющими).Найти действующие значения напряжений, токов.Примечание: напряжение в цепи трехфазного выпрямителя. Дано: <<<jpg=pic11-1.jpg>>> <<<jpg=pic11-5.jpg>>>
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Найти мгновенные и действующие значения несинусоидальных величин. Дано: <<<jpg=pic11-2-1.jpg>>> .Найти : <<<jpg=pic11-2-12.jpg>>>. Построить График i(t) : <<<jpg=pic11-2-13.jpg>>>
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Найти мгновенные и действующие значения несинусоидальных величин. Дано: <<<jpg=pic11-2-2.jpg>>> <<<jpg=pic11-2-21.jpg>>> <<<jpg=pic11-2-22.jpg>>>.Найти : <<<jpg=pic11-2-23.jpg>>>.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Найти мгновенные и действующие значения несинусоидальных величин. Дано: <<<jpg=pic11-2-3.jpg>>> .Найти : <<<jpg=pic11-2-31.jpg>>> <<<jpg=pic11-2-32.jpg>>>.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Найти мгновенные и действующие значения несинусоидальных величин. Дано: <<<jpg=pic11-2-4.jpg>>> .Найти : <<<jpg=pic11-2-41.jpg>>> <<<jpg=pic11-2-42.jpg>>>.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Найти мгновенные и действующие значения несинусоидальных величин. Дано: <<<jpg=pic11-3-1.jpg>>> .Найти : <<<jpg=pic11-3-12.jpg>>> <<<jpg=pic11-3-13.jpg>>>
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Найти мгновенные и действующие значения несинусоидальных величин. Дано: <<<jpg=pic11-3-2.jpg>>> .Найти : <<<jpg=pic11-3-21.jpg>>> <<<jpg=pic11-3-22.jpg>>> .
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Найти мгновенные и действующие значения несинусоидальных величин. Дано: <<<jpg=pic11-3-3.jpg>>> .Найти : <<<jpg=pic11-3-31.jpg>>> <<<jpg=pic11-3-32.jpg>>>.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Найти мгновенные и действующие значения несинусоидальных величин. Дано: <<<jpg=pic11-3-4.jpg>>> .Найти : <<<jpg=pic11-3-41.jpg>>> <<<jpg=pic11-3-42.jpg>>>.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Найти активную, реактивную, полную мощности цепи, ко-эффициент мощности. Дано: <<<jpg=pic11-4-1.jpg>>> .Найти : <<<jpg=pic11-4-12.jpg>>>
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Найти активную, реактивную, полную мощности цепи, ко-эффициент мощности.. Дано: <<<jpg=pic11-4-2.jpg>>>  <<<jpg=pic11-4-21.jpg>>>.Найти : <<<jpg=pic11-4-22.jpg>>> .
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Найти показания приборов электромагнитной системы. Дано: <<<jpg=pic11-5-1.jpg>>> <<<jpg=pic11-5-12.jpg>>> .
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Найти показания приборов электромагнитной системы.. Дано: <<<jpg=pic11-5-2.jpg>>>  <<<jpg=pic11-5-21.jpg>>>.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Расчет трехфазных цепей. Дано: <<<jpg=pic11-6-1.jpg>>> .Сопротивление фаз трехфазной цепи соединенной звездой первой гар-монике напряжения : <<<jpg=pic11-6-12.jpg>>> <<<jpg=pic11-6-13.jpg>>> <<<jpg=pic11-6-14.jpg>>>.Найти действующие значения токов, напряжений на нагрузках фаз: в техпроводной цепи  в четырехпроводной цепи .
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Расчет трехфазных цепей.. Дано: <<<jpg=pic11-6-2.jpg>>>  Найти : <<<jpg=pic11-6-21.jpg>>> <<<jpg=pic11-6-22.jpg>>>.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Расчет трехфазных цепей.. Дано: <<<jpg=pic11-6-3.jpg>>>  Найти показания приборов : <<<jpg=pic11-6-31.jpg>>> .
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

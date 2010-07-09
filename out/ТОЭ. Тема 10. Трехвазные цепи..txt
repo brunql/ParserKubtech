@@ -1,0 +1,109 @@
+ТОЭ. Тема 10. Трехвазные цепи. 
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 10.1 Соединить и подключить к сети трехфазный приемник. Найти фазные и линейные токи, активную мощность нагрузки, построить векторную диаграмму напряжений и токов. Дано: <<<jpg=ris10_1.jpg>>> <<<jpg=ris10_2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`a=10e^j0'A; I`b=5e^-j120'A; I`c=5e^j120'A; I`n=5e^j0 A; P=4.4 kW;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 10.2 Соединить и подключить к сети трехфазный приемник. Найти фазные и линейные токи, активную мощность нагрузки, построить векторную диаграмму напряжений и токов. Дано: <<<jpg=ris10_3.jpg>>> <<<jpg=ris10_4.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=10e^j0'A; I`2=10e^-j60'A; I`3=10e^j60'A; I`a=10e^-j60'A; I`b=10e^-j130'A; I`c=17.3e^j90'A; P=4.4kW;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 10.3 Соединить и подключить к сети трехфазный приемник. Найти фазные и линейные токи, активную мощность нагрузки, построить векторную диаграмму напряжений и токов. Дано: <<<jpg=ris10_5.jpg>>> <<<jpg=ris10_6.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=10e^-j45'A; I`2=10e^-j165'A; I`3=10e^j75'A; I`a=17.3e^-j75'A; I`b=17.3e^j165'A; I`c=17.3e^j45'A; P=8.06KW;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 10.4 Найти фазные, линейные токи, ток нейтрального провода, активную мощность нагрузки, построить векторную диаграмму напряжений и токов. Дано: <<<jpg=ris10_7.jpg>>> <<<jpg=ris10_8.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`a=7.5e^j0'A; I`b=5.72e^-j131'A; I`c=5.72e^j131'A; P=4.12kW;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 10.5 Найти фазные, линейные токи, ток нейтрального провода, активную мощность нагрузки, построить векторную диаграмму напряжений и токов. Дано: <<<jpg=ris10_9.jpg>>> <<<jpg=ris10_10.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`a=5e^j0'A; I`b=5e^-j210'A; I`c=5e^j210'A; I`n=3.66e^-j180'A; P=1.1kW;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 10.6 Найти фазные, линейные токи, ток нейтрального провода, активную мощность нагрузки, построить векторную диаграмму напряжений и токов. Дано: <<<jpg=ris10_11.jpg>>> <<<jpg=ris10_12.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=10e^j0'A; I`2=10e^-j210'A; I`3=10e^j210'A; I`a=19.3e^j15'A; I`b=19.3e^j165'A; I`c=10e^-j90'A; P=3.8kW;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 10.7 Найти фазные и линейные токи, указанные на схеме стрелкой напряжения, активную мощность нагрузки. Дано: <<<jpg=ris10_13.jpg>>> <<<jpg=ris10_14.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=8.66e^j0'A; I`2=5e^-j150'A; I`3=5e^j150'A; U`bn'=380e^-j150'V; U`n'n=220e^j0'V; P=3.8kW;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 10.8 Найти фазные и линейные токи, указанные на схеме стрелкой напряжения, активную мощность нагрузки. Дано: <<<jpg=ris10_15.jpg>>> <<<jpg=ris10_16.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=2.5e^j30'A; I`2=-2.5e^j30'A; I`3=0A; U`an'=190e^j30'V; U`cn'=330e^j120'V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 10.9 Определить фазные и линейные токи, показания приборов, включенных в цепь. Найти активную мощность нагрузки. Дано: <<<jpg=ris10_17.jpg>>> <<<jpg=ris10_18.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`a=18.3e^j11'A; I`b=18.3e A; I`c=12e^j120'A; Ia=183 A; Uv1=202 V; Uv2=44 V; Pw1=6.58kW; Pw2=3.95kW;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 10.10 Определить фазные и линейные токи, показания приборов, включенных в цепь. Найти активную мощность нагрузки. Дано: <<<jpg=ris10_19.jpg>>> <<<jpg=ris10_20.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=20e^j0'A; I`2=20e^-j120'A; I`3=20e^j120'A; I`a=34.6e^-j30'A; I`b=34.6e^-j150'A; I`c=34.6e^j90'A; ia=34.6 A; Uv=380 V; Pw1=Pw2=11.4kW;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 10.11 Найти фазные и линейные токи, указанные на схеме стрелкой напряжения, активную мощность нагрузки. Дано: <<<jpg=ris10_21.jpg>>> <<<jpg=ris10_22.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=10e^j0'A; I`2=I`3=5e^j180'A; I`a=15e^j0'A; I`b=15e^j180'A; P=5.7kW;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 10.12 Определить фазные и линейные токи, показания приборов, включенных в цепь. Найти активную мощность нагрузки. Дано: <<<jpg=ris10_23.jpg>>> <<<jpg=ris10_24.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=5e^-j45'A; I`2=5e^-j165'A; I`3=5e^j75'A; I`a=8.66e^-j75'A; I`b=8.66e^j165'A; I`c=8.66e^j45'A; Ia=8.66 A; U`v=380 V; Pw1=1.34Kw; Pw2=2.33kW;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

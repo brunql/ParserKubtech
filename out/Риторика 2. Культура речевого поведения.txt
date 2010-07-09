@@ -1,0 +1,157 @@
+Риторика 2. Культура речевого поведения
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Мотивация, которая лежит в основе любого речевого поступка - это:
+<$:Variants:
+замысел речи
+цель речи
+реакция на речь
+текст речи
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Образ оратора, авторский образ, не зависит от:
+<$:Variants:
+аудитории
+предмета речи
+текста речи
+типа речи
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Аргументация в речи, связанная с пониманием действительности - это:
+<$:Variants:
+риторический пафос
+риторический логос
+риторический этос
+риторический вопрос
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Риторический пафос определяется:
+<$:Variants:
+интеллектом оратора
+характером оратора
+внешностью оратора
+эмоциями оратора
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Риторический этос представляет собой категорию:
+<$:Variants:
+доверия
+настороженности
+формальности
+предвзятости
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Наиболее важное различие между языком и речью связано с:
+<$:Variants:
+обычаями
+традициями
+континуумом
+культурой
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Сколько компонентов входят в процесс общения или коммуникации?
+<$:Variants:
+3
+4
+5
+6
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Предосудительная с нравственной точки зрения цель публичного выступления не приводит к:
+<$:Variants:
+созданию лжетекстов
+лжекультуре
+антикультуре
+арткультуре
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Для того чтобы правильно говорить, не обязательно знать:
+<$:Variants:
+как произнести слово
+в какую грамматическую форму его поставить
+этимологию слова
+как расположить слова в предложении
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Ошибки в речи встречаются реже, если человек:
+<$:Variants:
+много читает
+много пишет
+живет в стилистически чистой среде
+много думает
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Когда человек говорит, он старается скрыть:
+<$:Variants:
+собственно информацию
+свое отношение к этой информации
+свое отношение к тем людям, к которым он обращается с речью
+свое отношение к себе
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Человек овладевает языком в процессе:
+<$:Variants:
+интеграции
+коммуникации
+генерации
+экзальтации
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

@@ -1,0 +1,1282 @@
+<html><head>
+ <meta http-equiv="Content-type" content="text/html; charset=windows-1251">
+ <meta http-equiv="Pragma" content="no-cache">
+ <meta http-equiv="Cache-control" content="no-cache">
+ <meta http-equiv="Expires" content="Mon, 28 Jun 2010 18:51:38 GMT+3">
+ <meta name="Description" content="Российский портал открытого образования. Кубанский технологический виртуальный университет, Факультет переподготовки и повышения квалификации КубГТУ">
+ <meta name="Keywords" content="образование, дистанционное, дистантное, виртуальное, открытое обучение, учебные пособия, курсы, электронная библиотека, ИОС, открытое образование, информационно-образовательная среда, система открытого образования,  портал открытого образования, Кубанский технологический виртуальный университет, Факультет переподготовки и повышения квалификации КубГТУ">
+ <title>КубтехВУ - ФППК - Деканат - Система тестирования - Группы вопросов</title>
+ <style type="text/css">
+ <!--
+  A, .Link {text-decoration: none; color: #003973; font-family: MS Sans Serif;font-size: 9pt;}
+  A:hover, .Link:hover {text-decoration: underline; font-family: MS Sans Serif;font-size: 9pt;}
+  BUTTON, INPUT, SMALL, SELECT, OPTION, TD, BODY {font-size: 9pt; font-family: MS Sans Serif;}
+  BIG {font-size: 14pt; font-family: MS Sans Serif;}
+  .MenuLink {color:#FFFFFF;}
+  .Menu {font-family: MS Sans Serif, Sans-serif, Arial; font-size: 8pt;}
+  .MenuItem { margin-left: 15; margin-right: 5; margin-top: 5; color: #000000; font-size: 9pt;}
+  .SubMenuItem { margin-left: 18; margin-right: 5; margin-top: 5; color: #000000; font-size: 9pt;}
+  .RightItem { margin-left: 10; margin-right: 10; margin-top: 5; color: #000000; font-size: 9pt;}
+  .InfoItem { margin-left: 9; margin-right: 9; margin-top: 5;}
+  .PageBHead { color:#000085; font-size: 14pt; font-weight: bold;}
+  .PageMHead { color:#000085; font-size: 12pt; font-weight: bold;}
+  .PageSHead { color:#000085; font-size: 10pt; font-weight: bold;}
+  .TableSHead { color:#000085; font-size: 8pt; font-weight: bold;}
+ //-->
+ </style>
+ <script language="JavaScript" type="text/javascript">
+ <!--
+  NS4 = (navigator.appName == 'Netscape' && (navigator.appVersion.indexOf("5.") != -1 || navigator.appVersion.indexOf("4.") != -1));
+  IE4 = (document.all);
+  ver4 = (NS4 || IE4);
+  IE5 = (IE4 && (navigator.appVersion.indexOf("5.")!=-1 || navigator.appVersion.indexOf("6.")!=-1));
+  isMac = (navigator.appVersion.indexOf("Mac") != -1);
+  isMenu = (NS4 || (IE4 && !isMac) || (IE5 && isMac));
+  function popUp(){return};
+  function popDown(){return};
+  if (!ver4) event = null;
+ //-->
+ </script>
+ <script language="JavaScript1.2" type="text/javascript">
+ <!--
+  if (isMenu) {
+  menuVersion = 3;
+  menuWidth = 100;
+  childOverlap = 50;
+  childOffset = 5;
+  perCentOver = null;
+  secondsVisible = .4;
+  fntCol = "black";
+  fntSiz = "7";
+  fntBold = false;
+  fntItal = false;
+  fntFam = "Verdana, Pragmatica, Arial, Sans-serif";
+  backCol = "#cccccc";
+  overCol = "black";
+  overFnt = "white";
+  borWid = 1;
+  borCol = "black";
+  borSty = "solid";
+  itemPad = 1;
+  imgSrc = "http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/NavButton-CArrow.gif";
+  imgSiz = 10;
+  separator = 0;
+  separatorCol = "#000085";
+  isFrames = false;
+  navFrLoc = "left";
+  keepHilite = true;
+  NSfontOver = true;
+  baseURL = "http://kubtech.openet.ru/University.nsf/Index.htm!Open&Menu=";
+  clickStart = false;
+  clickKill = false; }
+ //-->
+ </script>
+ <script language="JavaScript1.2" type="text/javascript">
+ <!--
+  arMenu1 = new Array(175, 1, 81,"#000085","#C3C5EF","#FFFFFF","#000085","#C3C5EF","#C3C5EF",
+   "Органайзер","VPMain-HotLine&VPID=640&Options=-Left-Right",0,
+   "Информация","VPMain-Info-640-ProcessPage&VPID=640",1,
+   "Коммуникации","VPMain-Comm&VPID=640",1,
+   "Опросы","VPMain-Comm-Questionnaire&VPID=640",0,
+   "Протоколирование работы","VPMain-Events&VPID=640",0,
+   "Настройка представительства","VPMain-Offices-Edit&VPID=640",0
+  )
+  arMenu1_2 = new Array(
+   "Новости представительства","VPMain-News&VPID=640",0,
+   "Конференции","VPMain-Conferences&VPID=640",0,
+   "Публикации","VPMain-Publications&VPID=640",0,
+   "Особенности работы ВП","VPMain-Features-640-ProcessPage&VPID=640",0,
+   "Контакты","VPMain-Contacts-640-ProcessPage&VPID=640",0
+  )
+  arMenu1_3 = new Array(
+   "Форумы","VPMain-Comm-Forum&VPID=640",0,
+   "Доска объявлений","VPMain-Media-Board&VPID=640",0,
+   "Система чатов","VPMain-Comm-AllChats&VPID=640",0,
+   "Администрирование форумов","VPMain-Admin-Forum&VPID=640",0
+  )
+  arMenu2 = new Array(190, 131, 81,"#000085","#C3C5EF","#FFFFFF","#000085","#C3C5EF","#C3C5EF",
+   "Обеспечение учебного процесса","VPCatalog-LPS&VPID=640",1,
+   "Ресурсы","VPCatalog-Resources&VPID=640",1,
+   "Изображения","VPCatalog-FileUpload&VPID=640",0,
+   "Сводная таблица по специальностям ВП","VPCatalog-T4P&VPID=640",0
+  )
+  arMenu2_1 = new Array(
+   "Курсы","VPCatalog-LPS-Courses&VPID=640",0,
+   "Дисциплины","VPCatalog-LPS-Disciplines&VPID=640",0,
+   "Специальности и направления","VPCatalog-LPS-Specialities&VPID=640",0,
+   "Учебные планы","VPCatalog-LPS-StudyPlans&VPID=640",0
+  )
+  arMenu2_2 = new Array(
+   "Библиотека","VPCatalog-Resources-Library&VPID=640",0,
+   "Интернет-магазин","VPCatalog-Resources-Shop&VPID=640",0,
+   "Внешние ссылки","VPCatalog-Resources-Others&VPID=640",0,
+   "Все","VPCatalog-Resources-All&VPID=640",0,
+   "Загрузка архивов","VPCatalog-Resources-Upload&VPID=640",0,
+   "Архивы ресурсов","VPCatalog-Resources-Packages&VPID=640",0,
+   "Распакованные ресурсы","VPCatalog-Resources-Loaded&VPID=640",0,
+   "Загрузка двоичных файлов","VPCatalog-Resources-LoadFAttach&VPID=640",0,
+   "Двоичные файлы","VPCatalog-Resources-FAttach&VPID=640",0
+  )
+  arMenu3 = new Array(220, 194, 81,"#000085","#C3C5EF","#FFFFFF","#000085","#C3C5EF","#C3C5EF",
+   "Учебные группы","VPDean-Groups&VPID=640",1,
+   "Система тестирования","VPDean-Testing&VPID=640",1,
+   "Успеваемость","VPDean-Progress&VPID=640",1
+  )
+  arMenu3_1 = new Array(
+   "Слушатели","VPDean-Groups-Listeners&VPID=640",0,
+   "Абитуриенты","VPDean-Groups-Abiturients&VPID=640",0,
+   "Студенты","VPDean-Groups-Students&VPID=640",0
+  )
+  arMenu3_2 = new Array(
+   "Группы вопросов","VPDean-Testing-QuestionsGroups&VPID=640",0,
+   "Сценарии тестирований","VPDean-Testing-Scenarios&VPID=640",0,
+   "Служебные тестирования","VPDean-Testing-Testing&VPID=640",0,
+   "Состояние тестирований","VPDean-Testing-Verification&VPID=640",0,
+   "Незавершенные тестирования","VPDean-Testing-Archive&VPID=640",0
+  )
+  arMenu3_3 = new Array(
+   "Журналы успеваемости","VPDean-Progress-Register&VPID=640",0,
+   "Индивидуальные журналы тьюторов","VPDean-Progress-Journal&VPID=640",0
+  )
+  if (isMenu) {document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='http://kubtech.openet.ru/University.nsf/Index.htm!Open&VieP=Menu.js'><\/SCRIPT>");}
+ //-->
+ </script><script language="JavaScript1.2" src="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;VieP=Menu.js"></script>
+</head><body id="documentbody" bgcolor="#FFFFFF" text="#000000" link="#003973" vlink="#003973" alink="#003973" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+ <tbody><tr bgcolor="#EDC999"><td><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td><a href="http://www.edu.ru/db/portal/sites/portal_page.htm" title="Российское образование Федеральный портал&quot;" target="_BLANK"><img name="FedPortalImg" src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/TopBackNew.jpg" width="420" height="62" border="0"></a></td><td width="100%" valign="CENTER" align="RIGHT"><font size="+1" face="Arial"><a href="http://www.openet.ru" title="Консалтинговый Центр Информационно-Образовательной Среды Открытого Образования"><b><font color="#005070"><span style="font-family: Times; font-style: italic; font-size: 18px;"></span></font><nobr><font color="#005070">СИСТЕМА ОТКРЫТОГО ОБРАЗОВАНИЯ</font></nobr></b></a><br><nobr><span style="font-size: 11px; font-weight: bold; letter-spacing: 1"><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPMain&amp;VPID=640" title="ФППК"><font color="#005070">ФППК</font></a> (<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VUMain" title="Кубанский технологический виртуальный университет"><font color="#005070">КУБТЕХВУ</font></a>)</span>&nbsp;</nobr></font></td><td width="51"><a href="http://www.openet.ru" title="Консалтинговый центр ИОС" target="_blank"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/RGIOO_logo.gif" width="67" height="62" align="RIGHT" border="0"></a></td></tr></tbody></table><script language="JavaScript">if (screen.width<=800){document.FedPortalImg.src='http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/TopBackNew800x600.jpg';document.FedPortalImg.width=320;};;</script></td></tr>
+ <tr><td valign="TOP" height="1" background="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/HR.gif" align="CENTER"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" width="1" height="1"></td></tr>
+ <tr><td><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr bgcolor="#000085" valign="CENTER">
+  <td class="Menu" height="16"><font color="#FFFFFF"></font><nobr><font color="#FFFFFF"><b>&nbsp;
+   <a class="MenuLink" href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPMain&amp;VPID=640" onmouseover="popUp('elMenu1',event); window.status='Представительство'; return true;" onmouseout="popDown('elMenu1'); window.status=''; return true;">Представительство</a>&nbsp;</b>|<b>&nbsp;
+   <a class="MenuLink" href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPCatalog&amp;VPID=640" onmouseover="popUp('elMenu2',event); window.status='Каталог'; return true;" onmouseout="popDown('elMenu2'); window.status=''; return true;">Каталог</a>&nbsp;</b>|<b>&nbsp;
+   <a class="MenuLink" href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean&amp;VPID=640" onmouseover="popUp('elMenu3',event); window.status='Деканат'; return true;" onmouseout="popDown('elMenu3'); window.status=''; return true;">Деканат</a>&nbsp;</b></font>
+  </nobr></td>
+  <td align="RIGHT"><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPMain&amp;VPID=640" title="Первая страница Виртуального Представительства"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/NavButton-VPHome.gif" width="20" height="10" border="0"></a><a href="mailto:platonov_av@mail.ru?cc=temnikoff85@mail.ru, irinalux1908@mail.ru, russu64@mail.ru, tsouprikov@mail.ru, cska125@mail.ru, mikeshatohin@gmail.com, uga494aga@gmail.com, uga494aga@gmail.com, lirikkks@mail.ru&amp;subject=О%20ВП 'ФППК'" title="Написать письмо администратору
+Виртуального Представительства ..."><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/NavButton-Mail.gif" width="20" height="10" border="0"></a><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPMain-ExtSearch&amp;VPID=640" title="Расширенный поиск"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/NavButton-Search.gif" width="20" height="10" border="0"></a><a href="#" title="Помощь по данному разделу" onclick="window.open('http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=Help-VPDean-Testing-QuestionsGroups-2','Help','resizable=yes,toolbar=no,location=no,scrollbars=yes,width=' + eval(screen.width/2) + ',height=' + eval(screen.height-60) + ', top=0, left=' + eval(screen.width/2-10)); return false;"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/NavButton-Help.gif" width="20" height="10" border="0"></a><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" width="3" height="1"></td>
+  </tr></tbody></table></td></tr>
+ <tr><td valign="TOP" height="6" background="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Shadow.gif" align="CENTER"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" width="1" height="6"></td></tr>
+<tr><td><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr valign="TOP">
+  <td width="170" background="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/LeftBorder.gif" bgcolor="#E9E9E9">
+<table cellpadding="0" cellspacing="0" background="" border="0" width="170"><tbody><tr valign="TOP"><td width="170"><small>
+   <input type="HIDDEN" name="RedirectTo" value="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPMain&amp;VPID=640" size="60"><table width="155" cellpadding="0" cellspacing="0" border="0" align="CENTER"><form method="POST" action="http://kubtech.openet.ru/Names.nsf?Login" name="LoginForm"></form><tbody>
+    <tr><td colspan="3"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" height="4" width="1"></td></tr><tr><td colspan="3"><small><b>Авторизация:</b></small></td></tr>
+    <tr><td colspan="3"><font face="MS Sans Serif" size="-2"><input type="TEXT" size="16" name="Username" maxlength="256" value="A-073640301588" style="width:156"></font></td></tr>
+    <tr><td><font face="MS Sans Serif" size="-2"><input name="Password" type="PASSWORD" maxlength="256" size="11" value="" style="width:112"></font></td><td><input type="SUBMIT" name="Login" value="»" width="22" title="Войти в систему" style="vertical-align: top; width:22; height:18; font-size: 8pt; font-weight: bold; font-family: Verdana"></td><form method="POST" action="http://kubtech.openet.ru/University.nsf/Index.html?Logout" name="LogoutForm"></form><td><input type="SUBMIT" name="Logout" value="X" width="22" title="Отменить авторизацию (Администратор ВП)" style="vertical-align: top; width:22; height:18; font-size: 8pt; font-weight: bold; font-family: Verdana"></td></tr>
+    <tr><td colspan="3" align="CENTER"><b>Статус:</b>&nbsp;&nbsp;Администратор ВП<br>Шатохин Михаил Викторович</td></tr>
+    <tr><td colspan="3"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" height="4" width="1"></td></tr>
+   </tbody></table>
+   <img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/HR.gif" width="169" height="1"><br>
+  <table cellpadding="1" cellspacing="0" border="0" background="" width="169"><tbody><tr><td color="#FFFFFF" bgcolor="#000085" align="CENTER"><small><b><font color="#FFFFFF">»&nbsp;Деканат&nbsp;«</font></b></small></td></tr></tbody></table>
+    <img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Shadow.gif" width="169" height="6"><br>
+    <table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><small>
+     <div class="MenuItem"><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Groups&amp;VPID=640" onmouseover="window.status='Учебные группы'; return true;" onmouseout="window.status=''; return true;">Учебные группы</a></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Groups-Listeners&amp;VPID=640" onmouseover="window.status='Слушатели'; return true;" onmouseout="window.status=''; return true;">Слушатели</a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Groups-Abiturients&amp;VPID=640" onmouseover="window.status='Абитуриенты'; return true;" onmouseout="window.status=''; return true;">Абитуриенты</a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Groups-Students&amp;VPID=640" onmouseover="window.status='Студенты'; return true;" onmouseout="window.status=''; return true;">Студенты</a></td></tr></tbody></table></div>
+     <div class="MenuItem"><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing&amp;VPID=640" onmouseover="window.status='Система тестирования'; return true;" onmouseout="window.status=''; return true;"><font color="#000000">Система тестирования</font></a></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;VPID=640" onmouseover="window.status='Группы вопросов'; return true;" onmouseout="window.status=''; return true;"><font color="#000000">Группы вопросов</font></a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-Scenarios&amp;VPID=640" onmouseover="window.status='Сценарии тестирований'; return true;" onmouseout="window.status=''; return true;">Сценарии тестирований</a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-Testing&amp;VPID=640" onmouseover="window.status='Служебные тестирования'; return true;" onmouseout="window.status=''; return true;">Служебные тестирования</a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-Verification&amp;VPID=640" onmouseover="window.status='Состояние тестирований'; return true;" onmouseout="window.status=''; return true;">Состояние тестирований</a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-Archive&amp;VPID=640" onmouseover="window.status='Незавершенные тестирования'; return true;" onmouseout="window.status=''; return true;">Незавершенные тестирования</a></td></tr></tbody></table></div>
+     <div class="MenuItem"><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Progress&amp;VPID=640" onmouseover="window.status='Успеваемость'; return true;" onmouseout="window.status=''; return true;">Успеваемость</a></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Progress-Register&amp;VPID=640" onmouseover="window.status='Журналы успеваемости'; return true;" onmouseout="window.status=''; return true;">Журналы успеваемости</a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Progress-Journal&amp;VPID=640" onmouseover="window.status='Индивидуальные журналы тьюторов'; return true;" onmouseout="window.status=''; return true;">Индивидуальные журналы тьюторов</a></td></tr></tbody></table></div>
+    </small></td></tr></tbody></table>
+   <br></small></td><td width="1" background="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/VertBorder.gif"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" width="1" height="1"></td></tr></tbody></table>
+  </td>
+  <td width="100%" align="CENTER"><table cellpadding="9" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+<small><font color="#000000">
+
+<center><font color="#000085" size="+1"><b>Система тестирования</b></font></center>
+<center><font color="#000085"><b>Работа с группами вопросов</b></font></center>
+<form name="Select2Add" method="post" action="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;VPID=">
+<br><center><b><font color="#000085">Список вопросов группы:</font> "&nbsp;PowerPoint&nbsp;" </b></center><br>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №1</b> [Вн. № 000000118]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000118">&nbsp;<b>Вопрос:</b> 
+Как экспортировать структуру презентации в Word?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Использовать команду «Файл» - «Импорт/Экспорт»
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Использовать команду «Вид» - «Структура»
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Использовать команду «Файл» - «Отправить»
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Экспортировать структуру в Word нельзя
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000118">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000118'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №2</b> [Вн. № 000000120]. (Выбор из списка нескольких правильных ответов) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000120">&nbsp;<b>Вопрос:</b> 
+Каким образом добавить диаграмму в слайд?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Использовать команду «Файл - Импорт» выбрать «Диаграмма Excel» 
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Копировать готовую диаграмму из Excel
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Использовать меню «Вставка - Диаграмма»
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+В Excel выделить диаграмму, выбрать меню «Файл – Отправить – Microsoft Power Point»
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000120">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000120'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №3</b> [Вн. № 000000121]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000121">&nbsp;<b>Вопрос:</b> 
+Как изменить межстрочный интервал в маркированном списке?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Использовать команду «Формат – Шрифт»
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Использовать команду «Формат – Абзац»
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Использовать команду «Формат – Список»
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Использовать команду «Формат – Интервалы»
+ (верный)</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000121">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000121'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №4</b> [Вн. № 000000122]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000122">&nbsp;<b>Вопрос:</b> 
+Что означает выделенный фрагмент? <br><img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000000122/$FILE/vopr4.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Выбран неподходящий режим просмотра
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Включён режим уменьшения количества цветов презентации
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Эти цвета соответствуют текущей цветовой схеме презентации
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Не выделен фрагмент текста
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000122">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000122'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №5</b> [Вн. № 000000124]. (Выбор из списка нескольких правильных ответов) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000124">&nbsp;<b>Вопрос:</b> 
+Укажите правильные способы вставки видеоролика?<br>
+<img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000000124/$FILE/vopr5.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="red">
+Использовать значок (1) в разметке слайда
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Использовать кнопку «Добавить Объект-фильм» на панели «Рисование»
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Воспользоваться командой «Вставка - фильм и звук – Фильм из файла»
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Воспользоваться командой «Файл - Поместить», в списке объектов выбрать «Видеоролик»
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000124">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000124'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №6</b> [Вн. № 000000125]. (Выбор из списка нескольких правильных ответов) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000125">&nbsp;<b>Вопрос:</b> 
+Как добавить на слайд рисунок из файла, если это не предусмотрено текущей разметкой слайда (укажите все правильные ответы)?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Изменить разметку слайда и воспользоваться областью содержимого
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Выполнить команду «Вставка-Рисунок- Из файла»
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Нажать кнопку «Добавить картинку» из панели «Рисование»
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Нажать кнопку «Добавить рисунок» из панели «Рисование»
+ (верный)</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000125">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000125'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №7</b> [Вн. № 000000126]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000126">&nbsp;<b>Вопрос:</b> 
+Сколько эффектов анимации можно добавить к одному объекту на слайде в Power Point 2003?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Только один
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Два
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Четыре
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Сколько угодно
+ (верный)</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000126">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000126'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №8</b> [Вн. № 000000128]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000128">&nbsp;<b>Вопрос:</b> 
+Что означают цифры около объектов на слайде?<br>
+<img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000000128/$FILE/vopr8.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Внедренные на слайд текстовые рамки
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Порядок следования эффектов анимации
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Время показа текстовой рамки при полноэкранном показе
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000128">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000128'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №9</b> [Вн. № 000000129]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000129">&nbsp;<b>Вопрос:</b> 
+Какому типу эффекта соответствует зеленый значок в области «Настройка анимации»?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="red">
+«Вход»
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+«Выделение»
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+«Внимание»
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+«Выход»
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+«Пути перемещения»
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000129">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000129'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №10</b> [Вн. № 000000130]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000130">&nbsp;<b>Вопрос:</b> 
+К какому действию приведет нажатие на кнопку «Просмотр» в области задач «Настройка анимации»?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Полноэкранный показ данного слайда
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Просмотр эффектов анимации на данном слайде без запуска полноэкранного показа
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Просмотр списка всех анимационных эффектов данной презентации 
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Запуск полноэкранного показа всей презентации начиная с первого слайда
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000130">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000130'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №11</b> [Вн. № 000000131]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000131">&nbsp;<b>Вопрос:</b> 
+Каким образом тезисы в формате документа Microsoft Word можно преобразовать в слайды Power Point?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+В Power Point выбрать меню «Вставка – Слайды из структуры»
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+В Word выбрать меню «Файл - Сохранить как» в поле «Тип файла» указать «Презентация Power Point»
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Это сделать невозможно
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000131">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000131'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №12</b> [Вн. № 000000132]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000132">&nbsp;<b>Вопрос:</b> 
+Что означает выделенный фрагмент?<br>
+<img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000000132/$FILE/vopr12.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Обычный режим
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Режим «Сортировщик слайдов»
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Полноэкранный показ начиная с первого слайда
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Полноэкранный показ начиная с текущего слайда
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Режим «Страницы заметок»
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000132">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000132'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №13</b> [Вн. № 000000133]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000133">&nbsp;<b>Вопрос:</b> 
+Как назначить автора для всех вновь созданных презентаций?Как назначить автора для всех вновь созданных презентаций?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Воспользоваться меню «Показ слайдов – Настройка презентации»
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Воспользоваться меню «Сервис – Совместная работа – Назначить автора»
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Воспользоваться меню «Файл – Свойства»
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Воспользоваться меню «Сервис –- Параметры», на вкладке «Общие» изменить сведения о пользователе
+ (верный)</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000133">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000133'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №14</b> [Вн. № 000000134]. (Выбор из списка нескольких правильных ответов) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000134">&nbsp;<b>Вопрос:</b> 
+Каким образом можно добавить такой текст на слайд?<br>
+<img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000000134/$FILE/vopr14.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Добавить надпись, вписать текст в рамку, использовать меню «Формат – Прототип» и включить вкладку «Размер»
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Использовать меню «Вставка – Рисунок – Объект Word Art»
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Нажать кнопку «Добавить объект Word Art» на панели инструментов «Рисование»
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Использовать разметку с объектом Word Art в заголовке
+ (верный)</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000134">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000134'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №15</b> [Вн. № 000000135]. (Выбор из списка нескольких правильных ответов) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000135">&nbsp;<b>Вопрос:</b> 
+Какие действия над слайдами можно производить в режиме «Сортировщик слайдов»?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="red">
+Копирование внутри презентации
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Изменение содержимого выбранных слайдов
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Копирование слайдов из одной презентации в другую
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Удаление слайдов целиком
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Удаление текста с отдельных слайдов
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000135">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000135'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №16</b> [Вн. № 000000136]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000136">&nbsp;<b>Вопрос:</b> 
+В презентации выбран слайд №7 (1). Каким будет порядковый номер нового слайда после нажатия на кнопку «Создать слайд» (2)?<br>
+<img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000000136/$FILE/vopr16.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+№7
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+№8
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+№9
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+№10
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000136">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000136'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №17</b> [Вн. № 000000137]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000137">&nbsp;<b>Вопрос:</b> 
+Какой макет можно использовать для создания титульного слайда?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+«Только заголовок»
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+«Пустой слайд»
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+«Титульный слайд»
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Любой
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000137">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000137'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №18</b> [Вн. № 000000138]. (Выбор из списка нескольких правильных ответов) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000138">&nbsp;<b>Вопрос:</b> 
+Как вставить на слайд текстовую надпись, если это не предусмотрено разметкой?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Сделать двойной щелчок по слайду и начать с выбранного места
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Использовать кнопку «Надпись» панели «Рисование»
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Использовать меню «Вставка» - «Надпись»
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Вставить надпись, не предусмотренную разметкой, нельзя
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000138">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000138'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №19</b> [Вн. № 000000139]. (Выбор из списка нескольких правильных ответов) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000139">&nbsp;<b>Вопрос:</b> 
+Перед Вами стоит задача изменить шрифт в заголовках всех слайдов. Укажите правильные решения
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Воспользоваться командой «Формат - Шрифт» для одного из слайдов, затем нажать кнопку «Применить ко всем»
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Воспользоваться командой «Формат -  Замена шрифтов»
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Использовать «Образец слайдов»
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Использовать «Образец выдач»
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000139">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000139'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №20</b> [Вн. № 000000140]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000140">&nbsp;<b>Вопрос:</b> 
+В каком режиме просматривается данная презентация?<br>
+<img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000000140/$FILE/vopr20.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Обычный
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Страницы заметок
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Выдачи
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Сортировщик слайдов
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Полноэкранный показ
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000140">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000140'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №21</b> [Вн. № 000000141]. (Выбор из списка нескольких правильных ответов) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000141">&nbsp;<b>Вопрос:</b> 
+Каким образом структуру презентации можно сохранить в формате Microsoft Word?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="red">
+В Power Point выбрать меню «Файл – Отправить – В Microsoft Word» указать пункт «Только структура»
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="red">
+В Power Point выбрать меню «Файл – Сохранить как» в списке «Тип файла» выбрать «Документ Microsoft Word»
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Копировать текст в области «Структура» и вставить в новый документ Word
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Выбрать меню «Сервис – параметры» на вкладке «Сохранение» поставить флажок «сохранять структуру в формате «Microsoft Word»
+ (верный)</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000141">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000141'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №22</b> [Вн. № 000000142]. (Выбор из списка нескольких правильных ответов) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000142">&nbsp;<b>Вопрос:</b> 
+Как превратить тезис «задачи курса» в заголовок следующего слайда?<br>
+<img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000000142/$FILE/vopr22.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Повысить уровень текста в области «Структура
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Скопировать текст тезиса и вставить его в область заголовка на новый слайд
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Перемесить тезис в области структуры так, чтобы он находился непосредственно перед следующим слайдом
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Щёлкнуть правой кнопкой мыши по тезису и выбрать «Сделать заголовком»
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000142">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000142'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №23</b> [Вн. № 000000143]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000143">&nbsp;<b>Вопрос:</b> 
+Каким образом можно презентацию Power Point сохранить в формате avi?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Выбрать меню «Файл – Сохранить как» и в списке «Тип файла» выбрать требуемый формат 
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+В начале полноэкранного показа щёлкнуть правой кнопкой мыши, выбрать «Запись avi-файла»
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Выбрать меню «Показ слайдов – Запись видео в файл»
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Подобное сохранение в Power Point невозможно
+ (верный)</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000143">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000143'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №24</b> [Вн. № 000000144]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000144">&nbsp;<b>Вопрос:</b> 
+Какое действие будет выполнено, если сделать двойной щелчок в программе «проводник» по файлу «Демонстрация Power Point» (расширение *.pps)?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Запустить Power Point и презентация откроется в режиме «Обычный»
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Запускается Power Point и презентация откроется в режиме «Сортировщик слайдов»
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Запускается полноэкранный показ презентации
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Средствами Windows запустить демонстрацию Power Point нельзя
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000144">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000144'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №25</b> [Вн. № 000000145]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000145">&nbsp;<b>Вопрос:</b> 
+Где в презентации может располагаться титульный слайд?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Только первым слайдом
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Перед итоговым слайдом
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Первым и последним слайдом
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+В любом месте презентации
+ (верный)</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000145">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000145'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №26</b> [Вн. № 000000146]. (Выбор из списка нескольких правильных ответов) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000146">&nbsp;<b>Вопрос:</b> 
+Перед Вами стоит задача изменить цвет всех слайдов, не меняя шаблон оформления. Ваши действия?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Поменять разметку слайдов
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Воспользоваться командой «Формат - Фон»
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Поменять цветовую схему слайдов
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Без изменения шаблона невозможно изменить цвет слайдов
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000146">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000146'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №27</b> [Вн. № 000000147]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000147">&nbsp;<b>Вопрос:</b> 
+Как выделить слайды в «Сортировщике слайдов» через один?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Щёлкая по слайдам с нажатой кнопкой Shift
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Щёлкая по слЩёлкая по слайдам с нажатой кнопкой Ctrlайдам с нажатой кнопкой Shift
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Использовать команду «Правка» - «Выделить» и задав  номера слайдов
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Выделить можно только несколько подряд идущих слайдов
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000147">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000147'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №28</b> [Вн. № 000000148]. (Выбор из списка нескольких правильных ответов) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000148">&nbsp;<b>Вопрос:</b> 
+Укажите правильные способы создать новый слайд в презентации
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Команда «Файл» - «Создать» 
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Команда «Файл» - «Создать слайд»
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Команда «Вставка» - «Создать слайд»
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Кнопка «Создать слайд» на панели инструментов
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Сочетание клавиш Ctrl+M
+ (верный)</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000148">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000148'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №29</b> [Вн. № 000000149]. (Выбор из списка нескольких правильных ответов) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000149">&nbsp;<b>Вопрос:</b> 
+Как добавить рисунок сразу на все слайды презентации?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Выполнить команду «Применить ко всем» из меню «Вставка – Рисунок»
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Вставить рисунок можно только на каждый слайд в отдельности
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Вставить рисунок в образец слайдов
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Выделить все слайды в режиме «Сортировщик слайдов», выполнить команду «Вставка - Рисунок»
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000149">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000149'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №30</b> [Вн. № 000000150]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000000150">&nbsp;<b>Вопрос:</b> 
+Что означают указанные цифры под изображением слайдов в «Сортировщик слайдов»?<br>
+<img align="absmiddle" border="0" src="/OpenUni/Questions/Questions-640.nsf/QuestionsByID/000000150/$FILE/vopr30.jpg">
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+Временной интервал между эффектами анимации
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Скорость воспроизведения эффектов анимации
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Количество анимированных объектов
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+Продолжительность показа слайдов
+ (верный)</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000011&amp;QID=000000150">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000011&amp;QID=000000150'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+</form>
+  </font></small></td></tr></tbody></table></td>
+</tr></tbody></table></td></tr>
+<tr><td><table cellpadding="0" cellspacing="0" border="0" width="100%">
+ <tbody><tr><td colspan="2" background="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/HorBorder.gif"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" height="1" width="1"></td></tr>
+  <tr><td colspan="2"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" height="3" width="1"></td></tr>
+  <tr><td colspan="2" bgcolor="#000085"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" height="3" width="1"></td></tr>
+  <tr><td align="LEFT"><div id="TimeBar">&nbsp;В ВП сейчас: 28.06.2010 18:51</div></td><td height="25" align="RIGHT"><small>© <a href="http://www.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPMain&amp;VPID=351" title="РГИОО" target="_blank"><font color="#000000">РГИОО</font></a>, 2000&nbsp;-&nbsp;2010<img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" height="1" width="20"></small></td></tr>
+ </tbody></table></td></tr>
+</tbody></table>
+<script language="JavaScript" type="text/javascript">
+<!--
+ var isIE5 = (document.all) && (navigator.appVersion.indexOf("5.")!=-1 || navigator.appVersion.indexOf("6.") != -1);
+ var STime = new Date();
+ var GMToff = -(STime.getTimezoneOffset()/60);
+ if (GMToff >= 0) {GMToff = '+' + GMToff};
+ function GetNDate(oTime) {
+   var d1 = oTime.getDate();
+   var m1 = oTime.getMonth() + 1;
+   var h1 = oTime.getHours();
+   var i1 = oTime.getMinutes();
+   var s1 = oTime.getSeconds();
+   if (d1 <10) {d1 = "0" + d1};
+   if (m1 <10) {m1 = "0" + m1};
+   if (h1 <10) {h1 = "0" + h1};
+   if (i1 <10) {i1 = "0" + i1};
+   if (s1 <10) {s1 = "0" + s1};
+   return d1 + '.' + m1 + '.' + oTime.getYear() + ' ' + h1 + ':' + i1 + ':' + s1;
+ }
+ function TimeBarRefresh() {
+  if (isIE5) {
+   var LTime = new Date();
+   var RVUTime = new Date("June 28, 2010 18:51:38");
+   RVUTime.setMilliseconds(LTime - STime);
+   document.all.TimeBar.innerHTML = '&nbsp;Ваше время: ' + GetNDate(LTime) + ' (GMT' + GMToff + '), в ВП сейчас: ' + GetNDate(RVUTime) + ' (GMT+3)';
+   setTimeout('TimeBarRefresh()', 1000);
+  }
+ }
+ TimeBarRefresh();
+//-->
+</script>
+
+
+
+</body></html>

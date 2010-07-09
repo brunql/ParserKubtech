@@ -1,0 +1,1309 @@
+<html><head>
+ <meta http-equiv="Content-type" content="text/html; charset=windows-1251">
+ <meta http-equiv="Pragma" content="no-cache">
+ <meta http-equiv="Cache-control" content="no-cache">
+ <meta http-equiv="Expires" content="Mon, 28 Jun 2010 18:55:53 GMT+3">
+ <meta name="Description" content="Российский портал открытого образования. Кубанский технологический виртуальный университет, Факультет переподготовки и повышения квалификации КубГТУ">
+ <meta name="Keywords" content="образование, дистанционное, дистантное, виртуальное, открытое обучение, учебные пособия, курсы, электронная библиотека, ИОС, открытое образование, информационно-образовательная среда, система открытого образования,  портал открытого образования, Кубанский технологический виртуальный университет, Факультет переподготовки и повышения квалификации КубГТУ">
+ <title>КубтехВУ - ФППК - Деканат - Система тестирования - Группы вопросов</title>
+ <style type="text/css">
+ <!--
+  A, .Link {text-decoration: none; color: #003973; font-family: MS Sans Serif;font-size: 9pt;}
+  A:hover, .Link:hover {text-decoration: underline; font-family: MS Sans Serif;font-size: 9pt;}
+  BUTTON, INPUT, SMALL, SELECT, OPTION, TD, BODY {font-size: 9pt; font-family: MS Sans Serif;}
+  BIG {font-size: 14pt; font-family: MS Sans Serif;}
+  .MenuLink {color:#FFFFFF;}
+  .Menu {font-family: MS Sans Serif, Sans-serif, Arial; font-size: 8pt;}
+  .MenuItem { margin-left: 15; margin-right: 5; margin-top: 5; color: #000000; font-size: 9pt;}
+  .SubMenuItem { margin-left: 18; margin-right: 5; margin-top: 5; color: #000000; font-size: 9pt;}
+  .RightItem { margin-left: 10; margin-right: 10; margin-top: 5; color: #000000; font-size: 9pt;}
+  .InfoItem { margin-left: 9; margin-right: 9; margin-top: 5;}
+  .PageBHead { color:#000085; font-size: 14pt; font-weight: bold;}
+  .PageMHead { color:#000085; font-size: 12pt; font-weight: bold;}
+  .PageSHead { color:#000085; font-size: 10pt; font-weight: bold;}
+  .TableSHead { color:#000085; font-size: 8pt; font-weight: bold;}
+ //-->
+ </style>
+ <script language="JavaScript" type="text/javascript">
+ <!--
+  NS4 = (navigator.appName == 'Netscape' && (navigator.appVersion.indexOf("5.") != -1 || navigator.appVersion.indexOf("4.") != -1));
+  IE4 = (document.all);
+  ver4 = (NS4 || IE4);
+  IE5 = (IE4 && (navigator.appVersion.indexOf("5.")!=-1 || navigator.appVersion.indexOf("6.")!=-1));
+  isMac = (navigator.appVersion.indexOf("Mac") != -1);
+  isMenu = (NS4 || (IE4 && !isMac) || (IE5 && isMac));
+  function popUp(){return};
+  function popDown(){return};
+  if (!ver4) event = null;
+ //-->
+ </script>
+ <script language="JavaScript1.2" type="text/javascript">
+ <!--
+  if (isMenu) {
+  menuVersion = 3;
+  menuWidth = 100;
+  childOverlap = 50;
+  childOffset = 5;
+  perCentOver = null;
+  secondsVisible = .4;
+  fntCol = "black";
+  fntSiz = "7";
+  fntBold = false;
+  fntItal = false;
+  fntFam = "Verdana, Pragmatica, Arial, Sans-serif";
+  backCol = "#cccccc";
+  overCol = "black";
+  overFnt = "white";
+  borWid = 1;
+  borCol = "black";
+  borSty = "solid";
+  itemPad = 1;
+  imgSrc = "http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/NavButton-CArrow.gif";
+  imgSiz = 10;
+  separator = 0;
+  separatorCol = "#000085";
+  isFrames = false;
+  navFrLoc = "left";
+  keepHilite = true;
+  NSfontOver = true;
+  baseURL = "http://kubtech.openet.ru/University.nsf/Index.htm!Open&Menu=";
+  clickStart = false;
+  clickKill = false; }
+ //-->
+ </script>
+ <script language="JavaScript1.2" type="text/javascript">
+ <!--
+  arMenu1 = new Array(175, 1, 81,"#000085","#C3C5EF","#FFFFFF","#000085","#C3C5EF","#C3C5EF",
+   "Органайзер","VPMain-HotLine&VPID=640&Options=-Left-Right",0,
+   "Информация","VPMain-Info-640-ProcessPage&VPID=640",1,
+   "Коммуникации","VPMain-Comm&VPID=640",1,
+   "Опросы","VPMain-Comm-Questionnaire&VPID=640",0,
+   "Протоколирование работы","VPMain-Events&VPID=640",0,
+   "Настройка представительства","VPMain-Offices-Edit&VPID=640",0
+  )
+  arMenu1_2 = new Array(
+   "Новости представительства","VPMain-News&VPID=640",0,
+   "Конференции","VPMain-Conferences&VPID=640",0,
+   "Публикации","VPMain-Publications&VPID=640",0,
+   "Особенности работы ВП","VPMain-Features-640-ProcessPage&VPID=640",0,
+   "Контакты","VPMain-Contacts-640-ProcessPage&VPID=640",0
+  )
+  arMenu1_3 = new Array(
+   "Форумы","VPMain-Comm-Forum&VPID=640",0,
+   "Доска объявлений","VPMain-Media-Board&VPID=640",0,
+   "Система чатов","VPMain-Comm-AllChats&VPID=640",0,
+   "Администрирование форумов","VPMain-Admin-Forum&VPID=640",0
+  )
+  arMenu2 = new Array(190, 131, 81,"#000085","#C3C5EF","#FFFFFF","#000085","#C3C5EF","#C3C5EF",
+   "Обеспечение учебного процесса","VPCatalog-LPS&VPID=640",1,
+   "Ресурсы","VPCatalog-Resources&VPID=640",1,
+   "Изображения","VPCatalog-FileUpload&VPID=640",0,
+   "Сводная таблица по специальностям ВП","VPCatalog-T4P&VPID=640",0
+  )
+  arMenu2_1 = new Array(
+   "Курсы","VPCatalog-LPS-Courses&VPID=640",0,
+   "Дисциплины","VPCatalog-LPS-Disciplines&VPID=640",0,
+   "Специальности и направления","VPCatalog-LPS-Specialities&VPID=640",0,
+   "Учебные планы","VPCatalog-LPS-StudyPlans&VPID=640",0
+  )
+  arMenu2_2 = new Array(
+   "Библиотека","VPCatalog-Resources-Library&VPID=640",0,
+   "Интернет-магазин","VPCatalog-Resources-Shop&VPID=640",0,
+   "Внешние ссылки","VPCatalog-Resources-Others&VPID=640",0,
+   "Все","VPCatalog-Resources-All&VPID=640",0,
+   "Загрузка архивов","VPCatalog-Resources-Upload&VPID=640",0,
+   "Архивы ресурсов","VPCatalog-Resources-Packages&VPID=640",0,
+   "Распакованные ресурсы","VPCatalog-Resources-Loaded&VPID=640",0,
+   "Загрузка двоичных файлов","VPCatalog-Resources-LoadFAttach&VPID=640",0,
+   "Двоичные файлы","VPCatalog-Resources-FAttach&VPID=640",0
+  )
+  arMenu3 = new Array(220, 194, 81,"#000085","#C3C5EF","#FFFFFF","#000085","#C3C5EF","#C3C5EF",
+   "Учебные группы","VPDean-Groups&VPID=640",1,
+   "Система тестирования","VPDean-Testing&VPID=640",1,
+   "Успеваемость","VPDean-Progress&VPID=640",1
+  )
+  arMenu3_1 = new Array(
+   "Слушатели","VPDean-Groups-Listeners&VPID=640",0,
+   "Абитуриенты","VPDean-Groups-Abiturients&VPID=640",0,
+   "Студенты","VPDean-Groups-Students&VPID=640",0
+  )
+  arMenu3_2 = new Array(
+   "Группы вопросов","VPDean-Testing-QuestionsGroups&VPID=640",0,
+   "Сценарии тестирований","VPDean-Testing-Scenarios&VPID=640",0,
+   "Служебные тестирования","VPDean-Testing-Testing&VPID=640",0,
+   "Состояние тестирований","VPDean-Testing-Verification&VPID=640",0,
+   "Незавершенные тестирования","VPDean-Testing-Archive&VPID=640",0
+  )
+  arMenu3_3 = new Array(
+   "Журналы успеваемости","VPDean-Progress-Register&VPID=640",0,
+   "Индивидуальные журналы тьюторов","VPDean-Progress-Journal&VPID=640",0
+  )
+  if (isMenu) {document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='http://kubtech.openet.ru/University.nsf/Index.htm!Open&VieP=Menu.js'><\/SCRIPT>");}
+ //-->
+ </script><script language="JavaScript1.2" src="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;VieP=Menu.js"></script>
+</head><body id="documentbody" bgcolor="#FFFFFF" text="#000000" link="#003973" vlink="#003973" alink="#003973" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+ <tbody><tr bgcolor="#EDC999"><td><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td><a href="http://www.edu.ru/db/portal/sites/portal_page.htm" title="Российское образование Федеральный портал&quot;" target="_BLANK"><img name="FedPortalImg" src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/TopBackNew.jpg" width="420" height="62" border="0"></a></td><td width="100%" valign="CENTER" align="RIGHT"><font size="+1" face="Arial"><a href="http://www.openet.ru" title="Консалтинговый Центр Информационно-Образовательной Среды Открытого Образования"><b><font color="#005070"><span style="font-family: Times; font-style: italic; font-size: 18px;"></span></font><nobr><font color="#005070">СИСТЕМА ОТКРЫТОГО ОБРАЗОВАНИЯ</font></nobr></b></a><br><nobr><span style="font-size: 11px; font-weight: bold; letter-spacing: 1"><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPMain&amp;VPID=640" title="ФППК"><font color="#005070">ФППК</font></a> (<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VUMain" title="Кубанский технологический виртуальный университет"><font color="#005070">КУБТЕХВУ</font></a>)</span>&nbsp;</nobr></font></td><td width="51"><a href="http://www.openet.ru" title="Консалтинговый центр ИОС" target="_blank"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/RGIOO_logo.gif" width="67" height="62" align="RIGHT" border="0"></a></td></tr></tbody></table><script language="JavaScript">if (screen.width<=800){document.FedPortalImg.src='http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/TopBackNew800x600.jpg';document.FedPortalImg.width=320;};;</script></td></tr>
+ <tr><td valign="TOP" height="1" background="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/HR.gif" align="CENTER"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" width="1" height="1"></td></tr>
+ <tr><td><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr bgcolor="#000085" valign="CENTER">
+  <td class="Menu" height="16"><font color="#FFFFFF"></font><nobr><font color="#FFFFFF"><b>&nbsp;
+   <a class="MenuLink" href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPMain&amp;VPID=640" onmouseover="popUp('elMenu1',event); window.status='Представительство'; return true;" onmouseout="popDown('elMenu1'); window.status=''; return true;">Представительство</a>&nbsp;</b>|<b>&nbsp;
+   <a class="MenuLink" href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPCatalog&amp;VPID=640" onmouseover="popUp('elMenu2',event); window.status='Каталог'; return true;" onmouseout="popDown('elMenu2'); window.status=''; return true;">Каталог</a>&nbsp;</b>|<b>&nbsp;
+   <a class="MenuLink" href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean&amp;VPID=640" onmouseover="popUp('elMenu3',event); window.status='Деканат'; return true;" onmouseout="popDown('elMenu3'); window.status=''; return true;">Деканат</a>&nbsp;</b></font>
+  </nobr></td>
+  <td align="RIGHT"><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPMain&amp;VPID=640" title="Первая страница Виртуального Представительства"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/NavButton-VPHome.gif" width="20" height="10" border="0"></a><a href="mailto:platonov_av@mail.ru?cc=temnikoff85@mail.ru, irinalux1908@mail.ru, russu64@mail.ru, tsouprikov@mail.ru, cska125@mail.ru, mikeshatohin@gmail.com, uga494aga@gmail.com, uga494aga@gmail.com, lirikkks@mail.ru&amp;subject=О%20ВП 'ФППК'" title="Написать письмо администратору
+Виртуального Представительства ..."><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/NavButton-Mail.gif" width="20" height="10" border="0"></a><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPMain-ExtSearch&amp;VPID=640" title="Расширенный поиск"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/NavButton-Search.gif" width="20" height="10" border="0"></a><a href="#" title="Помощь по данному разделу" onclick="window.open('http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=Help-VPDean-Testing-QuestionsGroups-2','Help','resizable=yes,toolbar=no,location=no,scrollbars=yes,width=' + eval(screen.width/2) + ',height=' + eval(screen.height-60) + ', top=0, left=' + eval(screen.width/2-10)); return false;"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/NavButton-Help.gif" width="20" height="10" border="0"></a><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" width="3" height="1"></td>
+  </tr></tbody></table></td></tr>
+ <tr><td valign="TOP" height="6" background="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Shadow.gif" align="CENTER"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" width="1" height="6"></td></tr>
+<tr><td><table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr valign="TOP">
+  <td width="170" background="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/LeftBorder.gif" bgcolor="#E9E9E9">
+<table cellpadding="0" cellspacing="0" background="" border="0" width="170"><tbody><tr valign="TOP"><td width="170"><small>
+   <input type="HIDDEN" name="RedirectTo" value="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPMain&amp;VPID=640" size="60"><table width="155" cellpadding="0" cellspacing="0" border="0" align="CENTER"><form method="POST" action="http://kubtech.openet.ru/Names.nsf?Login" name="LoginForm"></form><tbody>
+    <tr><td colspan="3"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" height="4" width="1"></td></tr><tr><td colspan="3"><small><b>Авторизация:</b></small></td></tr>
+    <tr><td colspan="3"><font face="MS Sans Serif" size="-2"><input type="TEXT" size="16" name="Username" maxlength="256" value="A-073640301588" style="width:156"></font></td></tr>
+    <tr><td><font face="MS Sans Serif" size="-2"><input name="Password" type="PASSWORD" maxlength="256" size="11" value="" style="width:112"></font></td><td><input type="SUBMIT" name="Login" value="»" width="22" title="Войти в систему" style="vertical-align: top; width:22; height:18; font-size: 8pt; font-weight: bold; font-family: Verdana"></td><form method="POST" action="http://kubtech.openet.ru/University.nsf/Index.html?Logout" name="LogoutForm"></form><td><input type="SUBMIT" name="Logout" value="X" width="22" title="Отменить авторизацию (Администратор ВП)" style="vertical-align: top; width:22; height:18; font-size: 8pt; font-weight: bold; font-family: Verdana"></td></tr>
+    <tr><td colspan="3" align="CENTER"><b>Статус:</b>&nbsp;&nbsp;Администратор ВП<br>Шатохин Михаил Викторович</td></tr>
+    <tr><td colspan="3"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" height="4" width="1"></td></tr>
+   </tbody></table>
+   <img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/HR.gif" width="169" height="1"><br>
+  <table cellpadding="1" cellspacing="0" border="0" background="" width="169"><tbody><tr><td color="#FFFFFF" bgcolor="#000085" align="CENTER"><small><b><font color="#FFFFFF">»&nbsp;Деканат&nbsp;«</font></b></small></td></tr></tbody></table>
+    <img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Shadow.gif" width="169" height="6"><br>
+    <table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><small>
+     <div class="MenuItem"><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Groups&amp;VPID=640" onmouseover="window.status='Учебные группы'; return true;" onmouseout="window.status=''; return true;">Учебные группы</a></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Groups-Listeners&amp;VPID=640" onmouseover="window.status='Слушатели'; return true;" onmouseout="window.status=''; return true;">Слушатели</a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Groups-Abiturients&amp;VPID=640" onmouseover="window.status='Абитуриенты'; return true;" onmouseout="window.status=''; return true;">Абитуриенты</a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Groups-Students&amp;VPID=640" onmouseover="window.status='Студенты'; return true;" onmouseout="window.status=''; return true;">Студенты</a></td></tr></tbody></table></div>
+     <div class="MenuItem"><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing&amp;VPID=640" onmouseover="window.status='Система тестирования'; return true;" onmouseout="window.status=''; return true;"><font color="#000000">Система тестирования</font></a></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;VPID=640" onmouseover="window.status='Группы вопросов'; return true;" onmouseout="window.status=''; return true;"><font color="#000000">Группы вопросов</font></a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-Scenarios&amp;VPID=640" onmouseover="window.status='Сценарии тестирований'; return true;" onmouseout="window.status=''; return true;">Сценарии тестирований</a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-Testing&amp;VPID=640" onmouseover="window.status='Служебные тестирования'; return true;" onmouseout="window.status=''; return true;">Служебные тестирования</a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-Verification&amp;VPID=640" onmouseover="window.status='Состояние тестирований'; return true;" onmouseout="window.status=''; return true;">Состояние тестирований</a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-Archive&amp;VPID=640" onmouseover="window.status='Незавершенные тестирования'; return true;" onmouseout="window.status=''; return true;">Незавершенные тестирования</a></td></tr></tbody></table></div>
+     <div class="MenuItem"><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Progress&amp;VPID=640" onmouseover="window.status='Успеваемость'; return true;" onmouseout="window.status=''; return true;">Успеваемость</a></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Progress-Register&amp;VPID=640" onmouseover="window.status='Журналы успеваемости'; return true;" onmouseout="window.status=''; return true;">Журналы успеваемости</a></td></tr></tbody></table></div>
+     <div class="SubMenuItem"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr valign="TOP"><td>-&nbsp;&nbsp;</td><td><a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Progress-Journal&amp;VPID=640" onmouseover="window.status='Индивидуальные журналы тьюторов'; return true;" onmouseout="window.status=''; return true;">Индивидуальные журналы тьюторов</a></td></tr></tbody></table></div>
+    </small></td></tr></tbody></table>
+   <br></small></td><td width="1" background="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/VertBorder.gif"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" width="1" height="1"></td></tr></tbody></table>
+  </td>
+  <td width="100%" align="CENTER"><table cellpadding="9" cellspacing="0" border="0" width="100%"><tbody><tr><td>
+<small><font color="#000000">
+
+<center><font color="#000085" size="+1"><b>Система тестирования</b></font></center>
+<center><font color="#000085"><b>Работа с группами вопросов</b></font></center>
+<form name="Select2Add" method="post" action="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;VPID=">
+<br><center><b><font color="#000085">Список вопросов группы:</font> "&nbsp;Профессиональная педагогика&nbsp;" </b></center><br>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №1</b> [Вн. № 000004570]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004570">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Закономерности процесса профессионального обучения».</i>И.П. Подласый, рассматривая дидактические (содержательно-процессуальные) закономерности процесса профессионального обучения, выявил различные типы зависимости. <b>От чего зависит продуктивность освоения знаний и умений? </b> Выберите правильный ответ.
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+от способов включения учащихся в учебную деятельность
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+от применяемых методов и средств обучения
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+от педагогического мастерства педагога
+ (верный)</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004570">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004570'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №2</b> [Вн. № 000004571]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004571">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Закономерности процесса профессионального обучения».</i>И.П. Подласый, рассматривая социологические закономерности (взаимодействие с внешней средой) процесса профессионального обучения, выявил причины повышения эффективности обучения. <b>При каких условиях повышается эффективность обучения?</b> Выберите правильный ответ
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="red">
+в условиях познаватель¬ной напряженности, вызванной соревнованием
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+в условиях общения педагога с учащимися 
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+в условиях «интеллектуальности среды»
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004571">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004571'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №3</b> [Вн. № 000004572]. (Последовательность) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004572">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Классификация закономерностей профессиональной педагогики и их характеристика»</i> В качестве основы классификации закономерностей профессиональной педагогики  академик С.Я. Батышев выделил две закономерности. Вторая  закономерность связана с профессиональной направленностью образовательного процесса. Внутри неё профессиональное обучение разделяется  на две неравные по объему части: основную (заданную на много лет вперед) и динамичную, т.е. специальную, рассчитанную на срок, соответствующий неполному циклу смены техники. <b>Соотнесите характеристики понятий специальной (динамичной) стадии обучения. Расставьте пределения понятий в соответствии со следующей последовательностью:
+1) комплексность, 
+2) разноматериальность,
+3) разносложность, 
+4) профессиоемкость, 
+5) товарность, 
+6) технологичность </b>
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td width="55">Позиция</td><td>Элемент последовательности</td></tr>
+<tr id="0"><td align="center">1</td>
+<td>должна содержать различные трудовые и технологические операции, дающие возможность формировать широкий круг профессиональных навыков и умений
+</td>
+</tr>
+<tr id="1"><td align="center">2</td>
+<td>предусматривает работу обучающихся с теми материалами, которые будут использованы на производстве при выполнении различных профессиональных функций
+</td>
+</tr>
+<tr id="2"><td align="center">3</td>
+<td>предусматривается работа с деталями, узлами, комплектами, отличающимися степенью сложности изготовления, а также сборки по точности, сопряжению, монтажу, взаимодействию узлов и технологий обработки</td>
+</tr>
+<tr id="3"><td align="center">4</td>
+<td>даёт возможность использовать труд учащихся при выполнении многих работ по основной и тем смежным профессиям, по которым осуществляется подготовка рабочих</td>
+</tr>
+<tr id="4"><td align="center">5</td>
+<td>вырабатываемая во время практики продукция должна иметь ценность, пользоваться спросом</td>
+</tr>
+<tr id="5"><td align="center">6</td>
+<td>практика, проводимая в мастерских, должна соответствовать производственно-техническим возможностям учебного заведения, его оборудованию и т.д.
+</td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004572">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004572'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №4</b> [Вн. № 000004573]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004573">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Специальные методы исследования в профессиональной педагогике»</i> К <b>специальным эмпирическим</b> методам исследований относятся
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+теоретический метод анализа педагогических идей
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+математические и статистические методы
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+инструментальные методы
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+педагогический эксперимент
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004573">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004573'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №5</b> [Вн. № 000004574]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004574">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Специальные методы исследования в профессиональной педагогике»</i> Что понимается под <b>биомеханическими методами</b> исследования в профессиональной педагогике?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+замеры отрезков времени, требующихся для выполнения отдельных действий, с целью определения оптимальных сроков, норм и режима труда, в том числе ученических, на разных этапах производственного обучения, темпа работы, режима труда
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+изучение пространственных, вре¬менных и силовых параметров трудовых движений: определение сте¬пени их совершенства, силового взаимодействия работающего с ин¬струментом, станком, кинематики движения инструмента и рук, позы работающего
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+регистрация электрических потен¬циалов сердечной мышцы
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+регистрация электрических потен¬циалов кожи
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+запись электрических потенциалов ра¬ботающих скелетных мышц
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004574">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004574'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №6</b> [Вн. № 000004575]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004575">&nbsp;<b>Вопрос:</b> 
+<i>Тема  «Педагогическая модель профессионализма»</i> Педагогическая модель профессионализма включает четыре ком¬понента, соответствующих педагогическим свойствам личности: образованность, обученность, воспитанность и развитость. <b>Какой из этих компонентов представляет собой наиболее профессиенализированное свойство личности выпускника,  складывающееся из профессиональных знаний, навыков и умений по всему минимуму содержания образовательной программы?</b>
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+образованность
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+обученность
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+воспитанность
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+развитость
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004575">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004575'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №7</b> [Вн. № 000004576]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004576">&nbsp;<b>Вопрос:</b> 
+<i>Тема  «Педагогическая модель профессионализма»</i> Чем характеризуется <b>профессиональная культура</b>  как элемент профессиональной воспитанности -  компонента педагогической модели профессионализма?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="red">
+воспитанной потребностью к неуклонному со¬блюдению всех норм подлинного профессионализма
+
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+организационно-педагогическими и методическими навыками и умениями
+
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+общепедагогическими и профессионально-педагогическими знаниями
+
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004576">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004576'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №8</b> [Вн. № 000004577]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004577">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Профессиональные знания, навыки и умения»</i> Знания разделяют по <b>шести критериям</b>. Отметьте <b>седьмой, лишний</b> критерий
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+знание-узнавание
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+знание-репродукция
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+знание-понимание
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+знание-убеждение
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+знание-применение
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+знание-творчество
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+знание-закрепление
+ (верный)</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004577">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004577'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №9</b> [Вн. № 000004578]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004578">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Профессиональные знания, навыки и умения»</i> Выберите определение понятия <b>«навык»</b> из данной ниже серии  различных определений
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="red">
+это действие, доведённое до автоматизма и сформированное путём многократного повторения; характеризуется высокой степенью освоенности и отсутствием поэлементной осознанной регуляции и контроля
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+это информация, которую обучающийся плохо помнит
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+это понимание, сохранение в памяти и воспроизведение фактов науки, понятий, правил, законов, теорий
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004578">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004578'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №10</b> [Вн. № 000004579]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004579">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Профессиональные знания, навыки и умения»</i> Что предполагает <b>первый (аналитико-синтетический) этап </b>формирования навыка?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="red">
+в сознании обучающегося должен сложился образ-схема (психологическая схема, психологический алгоритм) выполнения действия: что, как, в какой последовательности и почему делать
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+предполагает оценку степени сформированности навы¬ка
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+предполагает проведение тренировок на занятии шесть раз по 15 минут
+
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004579">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004579'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №11</b> [Вн. № 000004580]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004580">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Педагогические принципы профессионального обучения»</i> Что понимал Я.А. Коломенский под <b>принципом природосообразности</b>?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="red">
+соответствия обучения природе человека, т.е. объективным закономерностям обучения
+
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+необходимость постоянно искать пути не только обучения, но и достижения на занятиях параллельного образовательного, воспитательного и развивающего эффекта
+
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+уметь за мелочами повседневных профессиональных дел усматривать задачи построения цивилизованного общества
+
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004580">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004580'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №12</b> [Вн. № 000004581]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004581">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Педагогические принципы профессионального обучения»</i> Какие <b>три</b> правила вытекают из принципа единства изучения основ и мировых достижений науки, образования и практики? <b>Укажите лишнее, четвёртое</b>, не относящееся к этому закону правило
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="red">
+отбирать содержание, соответствующее специфике профессиональной деятельности, к которой готовятся обучающиеся
+
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+изучение научных и эмпирических основ профессиональной деятельности, специальности
+
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+обучение на современных достижениях науки и мировой практики
+
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+обучение в соответствии с реальными потребностями и запросами российской действительности
+
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004581">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004581'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №13</b> [Вн. № 000004582]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004582">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Педагогические принципы профессионального обучения»</i> В каких <b>четырёх</b> правилах конкретизируется принцип сознательности и активности? <b>Укажите лишнее, пятое</b>, не относящееся к этому закону правило
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="red">
+обеспечения непосредственного восприятия обучающимися тех реальностей, которые изучаются
+
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+мотивирования обучающихся, стимулирования их добросовестности и ответственности
+
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+активизации мышления
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+побуждения к инициативности, творчеству и самостоятель¬ности
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+стимулирования и организации самостоятельной работы обучающихся
+
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004582">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004582'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №14</b> [Вн. № 000004583]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004583">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Педагогические принципы профессионального обучения»</i> Кем впервые был выдвинут <b>принцип развития самостоятельности личности</b>, который в настоящее время относят к первой группе принципов профессионального обучения?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="red">
+К.Д. Ушинским
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Я.А. Коменским
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+С.Я. Батышевым
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004583">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004583'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №15</b> [Вн. № 000004584]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004584">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Организация профессионального обучения»</i> Какая из технологий учения, перечисленных ниже соответствует определению: 
+Применение приемов самоконтроля, самостимулирования, самомобилизации, саморегуляции, самопринуждения, самопоощрения, самокритики,самонаказания?
+
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+технология самовосприятия и самооценки
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+технология самоуправления
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+технология работы на аудиторных занятиях, с книгой, с персональным компьютером
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+технология научной организации студенческого труда
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004584">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004584'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №16</b> [Вн. № 000004585]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004585">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Организация профессионального обучения»</i> Описание какого вида организации процесса профессионального обучения представлено ниже? 
+"Целью обучения является доведение каждого осваиваемого профессионального действия до совершенства, до  показателей навыка, выполнения установленного норматива,  реальных требований профессионализма. Как правило, ресурсы аудиторного времени не позволяют доводить отработку большинства навыков и умений до необходимого совершенства. Поэтому использование самоподготовки для этого выступает единственным способом решения проблемы".
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+лекция
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+семинар
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+индивидуальная беседа
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+коллоквиум
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+практическое и лабораторное занятие
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+профессиональный тренинг
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+игра
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+учение
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+конференция
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+урок
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004585">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004585'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №17</b> [Вн. № 000004586]. (Последовательность) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004586">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Методы и технологии производственного обучения»</i> Различите понятия <b>технология обучения</b> и <b>методы обучения</b>. Поставьте ответы в соответсвии с очередностью в вопросе
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td width="55">Позиция</td><td>Элемент последовательности</td></tr>
+<tr id="0"><td align="center">1</td>
+<td>обучающие организационно-методические комплексы, связывающие в технологическую цепочку конкретную 
+задачу обучения,  средства,  деятельность  педагога, деятельность обучающегося и ориентированные на достижение максимально высокого результата,  отвечающего задаче
+</td>
+</tr>
+<tr id="1"><td align="center">2</td>
+<td>способы упорядоченной взаимосвязанной деятельности преподавателя и обучающихся, направленные на     достижение целей обучения с одновременным получением образовательного, воспитательного и развивающего эффекта</td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004586">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004586'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №18</b> [Вн. № 000004587]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004587">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Методы и технологии производственного обучения»</i> <b>Особенности какой педагогической технологии перечислены ниже?</b>
+"На занятии решать две задачи: излагать учебный материал и параллельно всеми мерами формировать и поддерживать активную психологическую готовность обучающихся к овладению им; проводить занятие с подъемом, полной самоотдачей, хорошим настроем и 
+заразительно влиять этим на аудиторию; добиваться, чтобы занятие было интересным для всех его участников;   постоянно привлекать и удерживать внимание обучающихся; поддерживать работоспособность аудитории до конца занятия, не переутомляя в начале
+
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+технология педагогического сотрудничества
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+технология обеспечения интереса обучающихся к занятию
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+технология формирования и поддержания психологической готовности обучающегося к овладению содержанием занятия
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+технологии развивающего обучения
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+технологии воспитывающего обучения 
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+технология проблемного обучения
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+технология развития мышления
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004587">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004587'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №19</b> [Вн. № 000004588]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004588">&nbsp;<b>Вопрос:</b> 
+&lt;i&gt;Тема «Методы и технологии производственного обучения»&lt;/i&gt; Какая технология основана на том, что учащихся ставят в положение «первооткрывателей», «исследователей» учебных и производственных ситуаций? 
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+технология педагогического сотрудничества
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+технология обеспечения интереса обучающихся к занятию
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+технология формирования и поддержания психологической готовности обучающегося к овладению содержанием занятия
+
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+технологии развивающего обучения
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+технология проблемного обучения
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+технологии воспитывающего обучения
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+технология развития мышления
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004588">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004588'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №20</b> [Вн. № 000004589]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004589">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Методы и технологии производственного обучения»</i> Какая технология нацелена на <b>активизацию мышления обучающихся и на развитие свойств мышления?</b>
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+технология педагогического сотрудничества
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+технология обеспечения интереса обучающихся к занятию
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+технология формирования и поддержания психологической готовности обучающегося к овладению содержанием занятия
+
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+технологии развивающего обучения
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+технология проблемного обучения
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+технологии воспитывающего обучения
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+технология развития мышления
+ (верный)</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004589">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004589'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №21</b> [Вн. № 000004590]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004590">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Методы и технологии производственного обучения»</i> Относится ли дистанционное образование  (раздел «Информационные технологии и технологии дистанционного образования») к системе непрерывного образования?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="red">
+Да, относится
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Нет, не относится
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004590">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004590'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №22</b> [Вн. № 000004591]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004591">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Методы и технологии производственного обучения»</i> Какие существуют системы дистанционного обучения? Отметьте <b>лишний</b> элемент
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+глобальные
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+региональные
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+локальные
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+концептуальные
+ (верный)</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004591">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004591'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №23</b> [Вн. № 000004592]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004592">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Методы и технологии производственного обучения»</i> Локальные системы дистанционного образования могут действовать на различных уровнях. Отметьте лишний уровень
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+уровень отдельной профессиональной области знаний
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+в рамках одного города
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+в рамках одного университета
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+в рамках одного факультета
+ (верный)</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004592">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004592'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №24</b> [Вн. № 000004593]. (Последовательность) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004593">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Методы и технологии производственного обучения»</i> Различите понятия, относящиеся к <b>информационным технологииям и технологиям дистанционного образования</b>: дистанционное образование, технологии дистанционного образования. Поставьте определения в порядке следования в вопросе
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr><td width="55">Позиция</td><td>Элемент последовательности</td></tr>
+<tr id="0"><td align="center">1</td>
+<td>комплекс образовательных услуг, предоставляемых широким слоям населения в стране и за рубежом с помощью специализированной информационно-образовательной среды, базирующейся на средствах обмена учебной информацией на расстоянии (спутниковое телевидение, радио, компьютерная связь и т.п.)</td>
+</tr>
+<tr id="1"><td align="center">2</td>
+<td>совокупность методов, форм и средств взаимодействия с человеком в процессе самостоятельного, но контролируемого освоения им определенного массива знаний</td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004593">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004593'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №25</b> [Вн. № 000004594]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004594">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Методы и технологии производственного обучения»</i> Используются ли в дистанционном образовании видеокассеты и видеоплёнки?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="red">
+Да, используются
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Нет, не используются
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004594">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004594'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №26</b> [Вн. № 000004595]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004595">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Методы и технологии производственного обучения»</i> Можно ли использовать в системе дистанционного обучения печатные пособия и печатные методические материалы к учебным курсам?
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="red">
+Да, можно использовать
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+Нет, нельзя использовать
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004595">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004595'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №27</b> [Вн. № 000004596]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004596">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Методы и технологии производственного обучения»</i> Какая из перечисленных ниже <b>технологий производственного обучения</b> реализует следующий принцип: <b>проведение упражнений по отработке трудовых умений и навыков в тех случаях, когда условия не позволяют организовать такие упражнения в реальной производственной обстановке?</b>
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+технология фронтально-группового производственного обучения, - бригадная организация производственного обучения
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+технология тренажерного обучения
+ (верный)</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004596">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004596'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №28</b> [Вн. № 000004597]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004597">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Педагогическая техника в профессиональной деятельности»</i> К техническим умениям относится умение пользоваться <b>выразительными возможностями речи</b>. Насчитывается пять умений. Отметьте <b>лишнее, шестое</b>, умение из указанных ниже
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+эмоциональная выразительность
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+лексическая выразительность
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+фонетическая выразительность
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+грамматическая выразительность
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+звуковая выразительность
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+сценическая выразительность
+ (верный)</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004597">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004597'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №29</b> [Вн. № 000004598]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004598">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Контроль качества теоретического и практического обучения»</i> Выберите функцию, соответствующее определению:
+"Призвана обеспечить формирование необходимого представления о знании как самоценности, а не только как средстве достижения тех или иных прагматичных целей"
+
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+диагностическая
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+обучающая
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+организующая 
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+воспитывающая
+ (верный)</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004598">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004598'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+<br>
+<table width="100%" cellpadding="4" cellspacing="0" border="0"><tbody><tr bgcolor="#C3C5EF"><td>
+<font color="#000000"><b>Вопрос №30</b> [Вн. № 000004599]. (Выбор из списка единственного правильного ответа) </font></td><td align="right" width="20%"><b></b>
+</td></tr></tbody></table>
+<table width="100%" cellpadding="2" cellspacing="0" border="0"><tbody><tr><td><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/empty.gif" height="1" width="1"></td></tr></tbody></table>
+<div id="QBody_000004599">&nbsp;<b>Вопрос:</b> 
+<i>Тема «Контроль качества теоретического и практического обучения»</i> Какую оценку результатов учебных достижений в производственном обучении Вы поставите, если:
+наблюдается неточное выполнение приемов работ; контроль  качества продукции с существенными  ошибками, налицо неумение осуществлять са-моконтроль; обнаруживается невыполнение ученических норм времени и нарушение требований безопасности труда.
+
+</div>
+<br><table width="100%" cellpadding="2" cellspacing="1" border="0" id="VariantsTable">
+<tbody><tr>
+<td><font color="blue">
+1
+</font></td>
+</tr>
+<tr>
+<td><font color="red">
+2
+ (верный)</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+3
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+4
+</font></td>
+</tr>
+<tr>
+<td><font color="blue">
+5
+</font></td>
+</tr>
+</tbody></table>
+<br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="right">
+[&nbsp;<a href="http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=AEQuestion&amp;SubMode=Edit&amp;&amp;GrID=000000344&amp;QID=000004599">редактировать вопрос</a>&nbsp;]
+[&nbsp;<a href="#" onclick="if (window.confirm('Вы уверены что хотите удалить вопрос?')) { window.location = 'http://kubtech.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPDean-Testing-QuestionsGroups&amp;Mode=DelQuestion&amp;&amp;GrID=000000344&amp;QID=000004599'; } return false; ">удалить вопрос</a>&nbsp;]
+</td></tr></tbody></table>
+</form>
+  </font></small></td></tr></tbody></table></td>
+</tr></tbody></table></td></tr>
+<tr><td><table cellpadding="0" cellspacing="0" border="0" width="100%">
+ <tbody><tr><td colspan="2" background="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/HorBorder.gif"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" height="1" width="1"></td></tr>
+  <tr><td colspan="2"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" height="3" width="1"></td></tr>
+  <tr><td colspan="2" bgcolor="#000085"><img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" height="3" width="1"></td></tr>
+  <tr><td align="LEFT"><div id="TimeBar">&nbsp;В ВП сейчас: 28.06.2010 18:55</div></td><td height="25" align="RIGHT"><small>© <a href="http://www.openet.ru/University.nsf/Index.htm!Open&amp;Menu=VPMain&amp;VPID=351" title="РГИОО" target="_blank"><font color="#000000">РГИОО</font></a>, 2000&nbsp;-&nbsp;2010<img src="http://kubtech.openet.ru/OpenUni/Images/Images.nsf/$FILE/DesignTemplate-001/$FILE/Empty.gif" height="1" width="20"></small></td></tr>
+ </tbody></table></td></tr>
+</tbody></table>
+<script language="JavaScript" type="text/javascript">
+<!--
+ var isIE5 = (document.all) && (navigator.appVersion.indexOf("5.")!=-1 || navigator.appVersion.indexOf("6.") != -1);
+ var STime = new Date();
+ var GMToff = -(STime.getTimezoneOffset()/60);
+ if (GMToff >= 0) {GMToff = '+' + GMToff};
+ function GetNDate(oTime) {
+   var d1 = oTime.getDate();
+   var m1 = oTime.getMonth() + 1;
+   var h1 = oTime.getHours();
+   var i1 = oTime.getMinutes();
+   var s1 = oTime.getSeconds();
+   if (d1 <10) {d1 = "0" + d1};
+   if (m1 <10) {m1 = "0" + m1};
+   if (h1 <10) {h1 = "0" + h1};
+   if (i1 <10) {i1 = "0" + i1};
+   if (s1 <10) {s1 = "0" + s1};
+   return d1 + '.' + m1 + '.' + oTime.getYear() + ' ' + h1 + ':' + i1 + ':' + s1;
+ }
+ function TimeBarRefresh() {
+  if (isIE5) {
+   var LTime = new Date();
+   var RVUTime = new Date("June 28, 2010 18:55:53");
+   RVUTime.setMilliseconds(LTime - STime);
+   document.all.TimeBar.innerHTML = '&nbsp;Ваше время: ' + GetNDate(LTime) + ' (GMT' + GMToff + '), в ВП сейчас: ' + GetNDate(RVUTime) + ' (GMT+3)';
+   setTimeout('TimeBarRefresh()', 1000);
+  }
+ }
+ TimeBarRefresh();
+//-->
+</script>
+
+
+
+</body></html>

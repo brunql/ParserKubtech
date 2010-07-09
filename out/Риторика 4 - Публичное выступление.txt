@@ -1,0 +1,157 @@
+Риторика 4 - Публичное выступление
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Определение целевого направления речи связано с вопросом:
+<$:Variants:
+что я делаю?
+кто виноват?
+в чем проблема?
+кому это надо?
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Начало публичного выступления должно быть:
+<$:Variants:
+пугающим
+интригующим
+веселым
+запоминающимся
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Сколько дней необходимо для подготовки к небольшому публичному выступлению?
+<$:Variants:
+3
+5
+7
+1
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Изложение материала от частного к общему является:
+<$:Variants:
+дедуктивным методом
+методом аналогии
+концентрическим методом
+индуктивным методом
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: К сильным аргументам для большинства аудиторий не относятся:
+<$:Variants:
+научные аксиомы
+статистика
+эмоции
+законы природы
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Способ аргументации, при которой оратор выдвигает только позитивные аргументы, а контраргументы игнорирует, называется:
+<$:Variants:
+поддерживающей аргументацией
+дедуктивной аргументацией
+двусторонней аргументацией
+опровергающей аргументацией
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Помехой восприятию аргументации не является:
+<$:Variants:
+узнаваемость  источников
+наличие речевых ошибок
+отсутствие иностранных терминов
+обилие деталей
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Оптимальным числом аргументов при доказательстве тезиса в большинстве своём считается число:
+<$:Variants:
+«два»
+«три»
+«четыре»
+«пять»
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: В конце выступления не следует:
+<$:Variants:
+обрывать речь без заключения
+обращаться к случаям
+говорить комплименты аудитории
+благодарить за внимание
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Критериями для оценки публичного выступления не являются:
+<$:Variants:
+ясность, четкость изложения материала, сути проблемы
+убедительность, аргументированность изложения
+культура речи
+внешние данные оратора
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: К «незыблемым правилам» не относится призыв:
+<$:Variants:
+«не волноваться»
+«говорить медленно»
+«пользоваться трибуной»
+«не думать»
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Самый страшный враг оратора - это:
+<$:Variants:
+отсутствие гибкости
+отсутствие таланта
+отсутствие текста
+отсутствия плана
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

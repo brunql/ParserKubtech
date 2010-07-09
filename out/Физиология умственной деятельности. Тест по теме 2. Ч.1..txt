@@ -1,0 +1,113 @@
+Физиология умственной деятельности. Тест по теме 2. Ч.1.
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Левшество - это функциональное преобладание:
+<$:Variants:
+левой руки над правой
+левого глаза над правым
+левой части над правой во всех парных органов
+активности правого полушария головного мозга над левым
+все ответы правильные
+<$:RightAnswers: 0 0 1 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Среди частичных левшей преобладают люди с проявлением левшества:
+<$:Variants:
+одним
+двумя
+тремя
+четырьмя
+нет преобладания
+<$:RightAnswers: 1 0 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Левая асимметрия глаз наблюдается у исследуемых в:
+<$:Variants:
+10 - 20%
+30 - 40%
+40 - 50%
+80 - 90%
+нет правильного ответа
+<$:RightAnswers: 0 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Амбидекстрия - это равноценность:
+<$:Variants:
+всех парных органов
+активности полушарий головного мозга
+рук
+глаз
+ног
+<$:RightAnswers: 1 1 1 1 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: "Скрытые" левши - это праворукие люди, но одновременно:
+<$:Variants:
+переученные леворукие
+с ведущим левым глазом
+с ведущей левой ногой
+с ведущим левым ухом
+все ответы неправильные
+<$:RightAnswers: 1 1 1 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: "Скрытые" левши составляют среди юношей:
+<$:Variants:
+20 - 30%
+30 - 40%
+40 - 50%
+60 - 70%
+нет правильного ответа
+<$:RightAnswers: 0 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Для левшей характерны необычные феномены:
+<$:Variants:
+восприятия
+двигательного поведения
+предвосхищения в сновидениях
+зеркальных форм деятельности
+все ответы ошибочны
+<$:RightAnswers: 1 1 1 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Зеркальные формы деятельности у левшей представлены:
+<$:Variants:
+письмом
+чтением
+движением
+рисованием
+пением
+<$:RightAnswers: 1 1 1 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

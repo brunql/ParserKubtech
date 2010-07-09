@@ -1,0 +1,165 @@
+КСЕ 16. Концепции структурных уровней в биологии
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Как называется структурный уровень организации, представляющий участок земли с определенным составом живых и неживых компонентов?
+<$:Variants:
+биосферный
+биогеоценотический
+популяционно-видовой
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Что выполняет осморегуляторную функцию?
+<$:Variants:
+вода
+нуклеиновые кислоты
+белки
+липиды
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Что входит в состав РНК?
+<$:Variants:
+азотистое основание, углевод (дезоксирибоза), остаток фосфорной кислоты
+азотистое основание, углевод (рибоза), остаток фосфорной кислоты
+аденин, углевод (рибоза), 3 остатка фосфорной кислоты
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: При окислении каких веществ выделяется наибольшее количество энергии?
+<$:Variants:
+нуклеиновые кислоты
+углеводы
+липиды
+белки
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Назовите мономеры молекул белка?
+<$:Variants:
+глюкоза
+глицерин
+аминокислоты
+нуклеиновые кислоты
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Назовите основное отличие ферментов от других белков?
+<$:Variants:
+являются катализаторами химических реакций
+синтезируются на рибосомах
+включают в свой состав витамины, металлы
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Что представляет собой процесс денатурации?
+<$:Variants:
+процесс восстановления структуры молекулы
+процесс утраты своей структурной организации
+процесс слипания молекул и выпадение в осадок
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Автотрофными называются организмы:
+<$:Variants:
+питающиеся готовыми органическими веществами
+способные синтезировать органические вещества самостоятельно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Назовите основную функцию митохондрий?
+<$:Variants:
+синтез белка
+синтез липидов
+синтез АТФ
+синтез ферментов
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Что служит источником генетического разнообразия внутри вида?
+<$:Variants:
+внешняя среда
+степень освещенности
+мутации
+геомагнитное поле
+влажность воздуха
+<$:RightAnswers: 0 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Что является единицей эволюции?
+<$:Variants:
+клетка
+организм
+популяция
+биоценоз
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какие функции не выполняют в клетке белки?
+<$:Variants:
+ферментативную
+структурную
+транспортную
+защитную
+питательную
+<$:RightAnswers: 0 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: К бесполому размножению можно отнести:
+<$:Variants:
+мейоз
+оогамия
+почкование
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

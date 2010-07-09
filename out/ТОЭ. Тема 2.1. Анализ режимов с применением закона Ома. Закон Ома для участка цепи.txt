@@ -1,0 +1,109 @@
+ТОЭ. Тема 2.1. Анализ режимов с применением закона Ома. Закон Ома для участка цепи
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 2.1 Найти потенциал точки цепи. Дано: <<<jpg=tema 2-1 pic 1-1.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: fib=100 V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 2.2 Найти потенциал точки цепи. Дано: <<<jpg=tema 2-1 pic 1-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: fia=100V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 2.3 Найти потенциал точки цепи. Дано: <<<jpg=tema 2-1 pic 1-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: fi`b=j100V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 2.4 Найти потенциал точки цепи. Дано: <<<jpg=tema 2-1 pic 1-4.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: fi`a=j100V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 2.5 Найти напряжение на участке цепи. Дано: <<<jpg=tema 2-1 pic 2-1.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: Uab=100V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 2.6 Найти напряжение на участке цепи. Дано: <<<jpg=tema 2-1 pic 2-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: Uab=100V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 2.7 Найти напряжение на участке цепи. Дано: <<<jpg=tema 2-1 pic 2-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: U`ab=j100V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 2.8 Найти напряжение на участке цепи. Дано: <<<jpg=tema 2-1 pic 2-4.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: U`ab=j100V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 2.9 Найти токи участка цепи. Дано: <<<jpg=tema 2-1 pic 3-1.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I=2A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 2.10 Найти токи участка цепи. Дано: <<<jpg=tema 2-1 pic 3-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I=2A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 2.11 Найти токи участка цепи. Дано: <<<jpg=tema 2-1 pic 3-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`=2sqrt(2)e^j45'A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 2.12 Найти токи участка цепи. Дано: <<<jpg=tema 2-1 pic 3-4.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`=2sqrt(2)e^j45'A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

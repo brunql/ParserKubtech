@@ -1,0 +1,226 @@
+ТОЭ. Тема 17. Нелинейные цепи постоянного тока. 
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.1 Графический метод расчета.Вольт-амперные характеристики нелинейных элементов : <<<jpg=pic17-1.jpg>>> . Дано: <<<jpg=pic17-1-1.jpg>>> <<<jpg=pic17-1-12.jpg>>>.Найти : <<<jpg=pic17-1-13.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: I=0.22 A; Uac=28V; Ubc=12V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.2 Графический метод расчета.Вольт-амперные характеристики нелинейных элементов : <<<jpg=pic17-1.jpg>>> . Дано: <<<jpg=pic17-1-2.jpg>>> <<<jpg=pic17-1-21.jpg>>>. Найти : <<<jpg=pic17-1-22.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: I-0.3A; I1=0.18A; I2=0.12A; Uac=7V; Ucb=33V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.3 Аналитический метод расчета .  Дано: <<<jpg=pic17-2-1.jpg>>> <<<jpg=pic17-2-12.jpg>>> <<<jpg=pic17-2-13.jpg>>> .Найти : <<<jpg=pic17-2-14.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: I`0.5A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.4 Аналитический метод расчета .  Дано: <<<jpg=pic17-2-1.jpg>>> <<<jpg=pic17-2-12.jpg>>> <<<jpg=pic17-2-13.jpg>>> .Найти : <<<jpg=pic17-2-15.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: I`0.5A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.5 Аналитический метод расчета .  Дано: <<<jpg=pic17-2-1.jpg>>> <<<jpg=pic17-2-12.jpg>>> <<<jpg=pic17-2-13.jpg>>> .Найти : <<<jpg=pic17-2-16.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: I`0.5A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.6 Аналитический метод расчета .  Дано: <<<jpg=pic17-2-1.jpg>>> <<<jpg=pic17-2-12.jpg>>> <<<jpg=pic17-2-13.jpg>>> .Найти : <<<jpg=pic17-2-17.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: I`0.5A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.7 Аналитический метод расчета.Вольт-амперные характеристики нелинейных элементов : <<<jpg=pic17-1.jpg>>> . Дано: <<<jpg=pic17-2-2.jpg>>> <<<jpg=pic17-2-21.jpg>>>. Найти : <<<jpg=pic17-2-22.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: I`=0.85A; Uнэ=2.66; Pнэ=2.2W;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.8 Аналитический метод расчета.Вольт-амперные характеристики нелинейных элементов : <<<jpg=pic17-1.jpg>>> . Дано ВАХ НЭI : <<<jpg=pic17-2-3.jpg>>>. ВАХ НЭ2 : <<<jpg=pic17-2-31.jpg>>> <<<jpg=pic17-2-32.jpg>>>. Найти: токи, напряжения на участ-ках.
+<$:EditableVariant: 
+<$:RightAnswer: I`=1A; I`1=0.4A; I2=0.6A; Uab=20V; Ubc=10V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.9 Аналитический метод расчета .  Дано: <<<jpg=pic17-2-4.jpg>>> <<<jpg=pic17-2-41.jpg>>>  .Найти :  токи, суммарную мощность источников.
+<$:EditableVariant: 
+<$:RightAnswer: I1=1A; I2=0.4A; I3=0.6A; суммаPген=36W;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.10 Аналитический метод расчета.Вольт-амперные характеристики нелинейных элементов : <<<jpg=pic17-1.jpg>>> . Дано ВАХ НЭI и ВАХ НЭ2 : <<<jpg=pic17-2-5.jpg>>>  <<<jpg=pic17-2-51.jpg>>>. Найти :  <<<jpg=pic17-2-52.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: E=160V; I=2A; I2=I1=1A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.11 Аналитический метод расчета (Метод кусочной линеаризации) . Цепи с идеальными диодами : <<<jpg=pic17-21-1.jpg>>>. Дано: <<<jpg=pic17-21-12.jpg>>>  .Построить : <<<jpg=pic17-21-13.jpg>>> .Найти I при : <<<jpg=pic17-21-14.jpg>>> <<<jpg=pic17-21-15.jpg>>> <<<jpg=pic17-21-16.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: 1)I`=0A; 2)I`=0A; 3)I`=0.05A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.13 Аналитический метод расчета (Метод кусочной линеаризации) . Цепи с идеальными диодами : <<<jpg=pic17-21-1.jpg>>>. Дано: <<<jpg=pic17-21-21.jpg>>>  . Построить : <<<jpg=pic17-21-2.jpg>>> . Найти <<<jpg=pic17-21-22.jpg>>>  при : <<<jpg=pic17-21-23.jpg>>> <<<jpg=pic17-21-24.jpg>>> <<<jpg=pic17-21-25.jpg>>>  <<<jpg=pic17-21-26.jpg>>>  <<<jpg=pic17-21-27.jpg>>>  <<<jpg=pic17-21-28.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: 1)U34=-20V; 2)U34=-20V; 3)U34=-10V; 4)U34=0V; 5)U34=10V; 6)U34=10V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.12 Аналитический метод расчета (Метод кусочной линеаризации) . Цепи с идеальными диодами : <<<jpg=pic17-21-1.jpg>>> . Дано: <<<jpg=pic17-21-3.jpg>>>  . Построить : <<<jpg=pic17-21-31.jpg>>> .Найти <<<jpg=pic17-21-32.jpg>>>  при : <<<jpg=pic17-21-33.jpg>>> <<<jpg=pic17-21-34.jpg>>> <<<jpg=pic17-21-35.jpg>>>  <<<jpg=pic17-21-36.jpg>>>   .
+<$:EditableVariant: 
+<$:RightAnswer: 1)U34=0V; 2)U34=5V; 3)U34=10V; 4)U34=10V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.14 Аналитический метод расчета (Метод кусочной линеаризации) . Цепи с идеальными диодами : <<<jpg=pic17-21-1.jpg>>>. Дано: <<<jpg=pic17-21-4.jpg>>>  . Построить : <<<jpg=pic17-21-41.jpg>>> . Найти <<<jpg=pic17-21-42.jpg>>>  при : <<<jpg=pic17-21-43.jpg>>> <<<jpg=pic17-21-44.jpg>>> <<<jpg=pic17-21-45.jpg>>>  <<<jpg=pic17-21-46.jpg>>>   .
+<$:EditableVariant: 
+<$:RightAnswer: 1)I=-0.2A; 2)I=0A; 3)I=0.2A; 4)I=0.2A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.15 Управляемые нелинейные элементы.Графический метод расчета. Режимы биполярного транзистора : <<<jpg=pic17-3-1.jpg>>> <<<jpg=pic17-3-12.jpg>>> . Для заданной коллекторной цепи транзисторного усилителя определить <<<jpg=pic17-3-2.jpg>>> и <<<jpg=pic17-3-21.jpg>>> при : <<<jpg=pic17-3-22.jpg>>> <<<jpg=pic17-3-23.jpg>>> <<<jpg=pic17-3-24.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: 1)Ik=2.3mA; Ukэ=10V; 2)Ik=4.2A; Ukэ=6V; 3)Ik=5.8A; Ukэ=4V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.16 Управляемые нелинейные элементы.Графический метод расчета. Режимы биполярного транзистора : <<<jpg=pic17-3-1.jpg>>> <<<jpg=pic17-3-12.jpg>>> . Для заданной коллекторной цепи транзисторного усилителя определить В каких пределах будет изменяться  <<<jpg=pic17-3-2.jpg>>> и <<<jpg=pic17-3-21.jpg>>> при изменении<<<jpg=pic17-3-25.jpg>>> от 0 до 0,8 мА?.
+<$:EditableVariant: 
+<$:RightAnswer: I&lt;=Ik&lt;=6mA; 14&gt;=Ukэ&gt;=3V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.17 Магнитная цепь : <<<jpg=pic17-4-1.jpg>>> <<<jpg=pic17-4-12.jpg>>> <<<jpg=pic17-4-13.jpg>>> .Дано : <<<jpg=pic17-4-2.jpg>>> .Найти : Ф.
+<$:EditableVariant: 
+<$:RightAnswer: Ф=1.2*10^-4 Вб;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.22 Магнитная цепь : <<<jpg=pic17-4-1.jpg>>> <<<jpg=pic17-4-12.jpg>>> <<<jpg=pic17-4-13.jpg>>> .Дано : <<<jpg=pic17-4-21.jpg>>> .Найти : <<<jpg=pic17-4-22.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: Вб=0,8 Тл;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.18 Магнитная цепь : <<<jpg=pic17-4-1.jpg>>> <<<jpg=pic17-4-12.jpg>>> <<<jpg=pic17-4-13.jpg>>> .Дано : <<<jpg=pic17-4-3.jpg>>> .Найти : <<<jpg=pic17-4-31.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: I1=8.8A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.23 Магнитная цепь : <<<jpg=pic17-4-1.jpg>>> <<<jpg=pic17-4-12.jpg>>> <<<jpg=pic17-4-13.jpg>>> .Дано : <<<jpg=pic17-4-4.jpg>>> .Найти : <<<jpg=pic17-4-31.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: I1=3.0A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.19 Магнитная цепь : <<<jpg=pic17-4-1.jpg>>> <<<jpg=pic17-4-12.jpg>>> <<<jpg=pic17-4-13.jpg>>> .Дано : <<<jpg=pic17-4-5.jpg>>> . Найти : <<<jpg=pic17-4-51.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: I2=8.4A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.24 Магнитная цепь : <<<jpg=pic17-4-1.jpg>>> <<<jpg=pic17-4-12.jpg>>> <<<jpg=pic17-4-13.jpg>>> .Дано : <<<jpg=pic17-4-6.jpg>>> .Найти : <<<jpg=pic17-4-51.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: I2=5.3A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.20 Магнитная цепь : <<<jpg=pic17-4-1.jpg>>> <<<jpg=pic17-4-12.jpg>>> <<<jpg=pic17-4-13.jpg>>> .Дано : <<<jpg=pic17-4-61.jpg>>> .Найти : Ф .
+<$:EditableVariant: 
+<$:RightAnswer: Ф=0.4*10^-4 Вб;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.21 Магнитная цепь : <<<jpg=pic17-4-1.jpg>>> <<<jpg=pic17-4-12.jpg>>> <<<jpg=pic17-4-13.jpg>>> .Дано : <<<jpg=pic17-4-7.jpg>>> .Найти : <<<jpg=pic17-4-71.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: дельта=0.25 mm;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 17.26 Магнитная цепь : <<<jpg=pic17-4-1.jpg>>> <<<jpg=pic17-4-12.jpg>>> <<<jpg=pic17-4-13.jpg>>> .Дано : <<<jpg=pic17-4-8.jpg>>> .Найти : индуктивность <<<jpg=pic17-4-81.jpg>>> .
+<$:EditableVariant: 
+<$:RightAnswer: L1=0.9 мГн;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

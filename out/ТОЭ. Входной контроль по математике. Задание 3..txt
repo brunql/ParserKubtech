@@ -1,0 +1,29 @@
+ТОЭ. Входной контроль по математике. Задание 3.
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Изобразите на графике функцию u=311sin(314t-П/3).
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Изобразите на графике функцию i=5sin(314t-270').
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Изобразите на графике функцию u=100sin(314t+П/2).
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Изобразите на графике функцию u=200sin(628t+2П/3).
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

@@ -1,0 +1,113 @@
+ТОЭ. Тема 16. Синтез реактивных двуполюсников
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: 16.1 Установить, является заданная функция реактивной и физически реализуемой? <<<jpg=ris1-1.jpg>>>
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: 16.2 Установить, является заданная функция реактивной и физически реализуемой? <<<jpg=ris2-1.jpg>>>
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: 16.3 Установить, является заданная функция реактивной и физически реализуемой? <<<jpg=ris3-1.jpg>>>
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: 16.4 Установить, является заданная функция реактивной и физически реализуемой? <<<jpg=ris4-1.jpg>>>
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: 16.5 Реализовать функцию схемой, определив ее конфигурацию и параметры. Функцию <<<jpg=ris1-1.jpg>>>   1-ой канонической схемой.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: 16.7 Реализовать функцию схемой, определив ее конфигурацию и параметры. Функцию <<<jpg=ris1-1.jpg>>>   1-ой цепной схемой.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: 16.6 Реализовать функцию схемой, определив ее конфигурацию и параметры. Функйию <<<jpg=ris1-1.jpg>>>   2-ой канонической схемой.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: 16.8 Реализовать функцию схемой, определив ее конфигурацию и параметры. Функцию <<<jpg=ris1-1.jpg>>>   2-ой цепной схемой.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: 16.9 Реализовать функцию схемой, определив ее конфигурацию и параметры. Функцию <<<jpg=ris2-1.jpg>>>   1-ой канонической схемой.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: 16.13 Реализовать функцию схемой, определив ее конфигурацию и параметры. Функцию <<<jpg=ris4-1.jpg>>>   1-ой канонической схемой.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: 16.10 Реализовать функцию схемой, определив ее конфигурацию и параметры. Функцию <<<jpg=ris2-1.jpg>>>   2-ой канонической схемой.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: 16.14 Реализовать функцию схемой, определив ее конфигурацию и параметры. Функцию <<<jpg=ris4-1.jpg>>>   2-ой канонической схемой.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: 16.11 Реализовать функцию схемой, определив ее конфигурацию и параметры. Функцию <<<jpg=ris3-1.jpg>>>   1-ой цепной схемой Кауэра.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: 16.15 Реализовать функцию схемой, определив ее конфигурацию и параметры. Функцию <<<jpg=ris4-1.jpg>>>   1-ой цепной схемой Кауэра.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: 16.12 Реализовать функцию схемой, определив ее конфигурацию и параметры. Функцию <<<jpg=ris3-1.jpg>>>   2-ой цепной схемой Кауэра.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: 16.16 Реализовать функцию схемой, определив ее конфигурацию и параметры. Функцию <<<jpg=ris4-1.jpg>>>   1-ой цепной схемой Кауэра.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

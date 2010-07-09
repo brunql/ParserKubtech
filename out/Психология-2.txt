@@ -1,0 +1,131 @@
+ѕсихологи€-2
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: ¬едущей подструктурой в структуре личности (по ѕлатонову  . .) €вл€етс€:
+<$:Variants:
+направленность
+опыт
+особенности психических процессов
+биопсихические свойства
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: ¬ажна€ характеристика потребностей -
+<$:Variants:
+ненасыщаемость
+стабильность
+динамичность
+полнота
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: —истема сложившихс€ взгл€дов и убеждений на окружающий мир и свое место в нем - это:
+<$:Variants:
+интерес
+мировоззрение
+склонности
+потребности
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody:  акое пон€тие самое широкое:
+<$:Variants:
+"личность"
+"человек"
+"индивидуальность"
+"индивид"
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Ќаивысшими потребност€ми (по ј. ћаслоу) €вл€ютс€:
+<$:Variants:
+потребности в безопасности
+потребности в самоактуализации
+потребности физиологические (органические)
+потребности эстетические
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: »збирательное отношение личности к объекту, в силу его жизненного значени€ и эмоциональной привлекательности - это:
+<$:Variants:
+интересы
+установки
+желани€
+склонности
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: ќсознание и переживание человеком нужды в том, что необходимо дл€ поддер-жани€ жизни его организма и развити€ его личности -это
+<$:Variants:
+мотив
+желание
+потребности
+убеждени€
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody:   осознанным мотивам относитс€:
+<$:Variants:
+влечение
+стремление
+воображение
+интерес
+<$:RightAnswers: 0 1 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: —овокупность устойчивых мотивов, определ€юща€ избирательность отношений и активность личности - это:
+<$:Variants:
+потребности
+направленность
+способности
+характер
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody:   неосознанным мотивам относитс€:
+<$:Variants:
+интерес
+склонность
+установка
+влечение
+<$:RightAnswers: 0 0 1 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

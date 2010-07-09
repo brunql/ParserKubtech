@@ -1,0 +1,71 @@
+MathCAD. Задание 3.
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Даны матрицы А, В. 1).Сложить матрицы А и В, 2).перемножить матрицы А и В, 3). вычислить определитель матрицы В, 4).найти матрицу обратную матрице А, 5).решить систему уравнений с помощью матриц по предлагаемому алгоритму <<<jpg=ris1-1.jpg>>>> <<<jpg=ris1-2.jpg>>>>.Алгоритм решения системы уравнений:<<<jpg=ris1-3.jpg>>>> <<<jpg=ris1-4.jpg>>>> <<<jpg=ris1-5.jpg>>>> <<<jpg=ris1-6.jpg>>>> <<<jpg=ris1-7.jpg>>>> <<<jpg=ris1-8.jpg>>>>. Решите систему уравнений: <<<jpg=ris1-9.jpg>>>> <<<jpg=ris1-10.jpg>>>>.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Даны матрицы А, В. 1).Сложить матрицы А и В, 2).перемножить матрицы А и В, 3). вычислить определитель матрицы В, 4).найти матрицу обратную матрице А, 5).решить систему уравнений с помощью матриц по предлагаемому алгоритму <<<jpg=ris2-1.jpg>>>> <<<jpg=ris2-2.jpg>>>>.Алгоритм решения системы уравнений:<<<jpg=ris1-3.jpg>>>> <<<jpg=ris1-4.jpg>>>> <<<jpg=ris1-5.jpg>>>> <<<jpg=ris1-6.jpg>>>> <<<jpg=ris1-7.jpg>>>> <<<jpg=ris1-8.jpg>>>>. Решите систему уравнений: <<<jpg=ris2-3.jpg>>>> <<<jpg=ris2-4.jpg>>>>.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Даны матрицы А, В. 1).Сложить матрицы А и В, 2).перемножить матрицы А и В, 3). вычислить определитель матрицы В, 4).найти матрицу обратную матрице А, 5).решить систему уравнений с помощью матриц по предлагаемому алгоритму <<<jpg=ris3-1.jpg>>>> <<<jpg=ris3-2.jpg>>>>.Алгоритм решения системы уравнений:<<<jpg=ris1-3.jpg>>>> <<<jpg=ris1-4.jpg>>>> <<<jpg=ris1-5.jpg>>>> <<<jpg=ris1-6.jpg>>>> <<<jpg=ris1-7.jpg>>>> <<<jpg=ris1-8.jpg>>>>. Решите систему уравнений: <<<jpg=ris3-3.jpg>>>> <<<jpg=ris3-4.jpg>>>>.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Даны матрицы А, В. 1).Сложить матрицы А и В, 2).перемножить матрицы А и В, 3). вычислить определитель матрицы В, 4).найти матрицу обратную матрице А, 5).решить систему уравнений с помощью матриц по предлагаемому алгоритму <<<jpg=ris4-1.jpg>>>> <<<jpg=ris4-2.jpg>>>>.Алгоритм решения системы уравнений:<<<jpg=ris1-3.jpg>>>> <<<jpg=ris1-4.jpg>>>> <<<jpg=ris1-5.jpg>>>> <<<jpg=ris1-6.jpg>>>> <<<jpg=ris1-7.jpg>>>> <<<jpg=ris1-8.jpg>>>>. Решите систему уравнений: <<<jpg=ris4-3.jpg>>>> <<<jpg=ris4-4.jpg>>>>.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дано:<<<jpg=ris5-1.jpg>>> <<<jpg=ris5-2.jpg>>> <<<jpg=ris5-3.jpg>>> <<<jpg=ris5-4.jpg>>> <<<jpg=ris5-5.jpg>>>.Найти: 1). вектор u =kv, 2). вектор c=v1+v2-v3 3). скалярное произведение векторов d=v1v2, 4). векторное произведение векторов E=v1xv2, 5). сумму элементов вектора v1.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дано:<<<jpg=ris6-1.jpg>>> <<<jpg=ris6-2.jpg>>> <<<jpg=ris6-3.jpg>>> <<<jpg=ris6-4.jpg>>> <<<jpg=ris6-5.jpg>>>.Найти: 1). вектор u =kv, 2). вектор c=v1+v2-v3 3). скалярное произведение векторов d=v1v2, 4). векторное произведение векторов E=v1xv2, 5). сумму элементов вектора v1.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дано:<<<jpg=ris7-1.jpg>>> <<<jpg=ris7-2.jpg>>> <<<jpg=ris7-3.jpg>>> <<<jpg=ris7-4.jpg>>> <<<jpg=ris7-5.jpg>>>.Найти: 1). вектор u =kv, 2). вектор c=v1+v2-v3 3). скалярное произведение векторов d=v1v2, 4). векторное произведение векторов E=v1xv2, 5). сумму элементов вектора v1.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дано:<<<jpg=ris8-1.jpg>>> <<<jpg=ris8-2.jpg>>> <<<jpg=ris8-3.jpg>>> <<<jpg=ris8-4.jpg>>> <<<jpg=ris8-5.jpg>>>.Найти: 1). вектор u =kv, 2). вектор c=v1+v2-v3 3). скалярное произведение векторов d=v1v2, 4). векторное произведение векторов E=v1xv2, 5). сумму элементов вектора v1.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Разложить в ряд:<<<jpg=ris9-1.jpg>>>>.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Разложить в ряд:<<<jpg=ris9-2.jpg>>>>.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

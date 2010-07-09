@@ -1,0 +1,109 @@
+ТОЭ. Тема 1.2. Комплексный метод. 
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 1.13 Определить комплексы тока, напряжений на элементах цепи, построить векторную диаграмму тока и напряжений. Дано: <<<jpg=tema 1-2 pic 1-1-1.jpg>>> <<<jpg=tema 1-2 pic 1-1-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`=1.77e^-j135'A; U`r=35.4e^-j135'V; U`c=35.4e^-j225 V; U`l=106e^-j45'V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 1.14 Определить комплексы тока, напряжений на элементах цепи, построить векторную диаграмму тока и напряжений. Дано: <<<jpg=tema 1-2 pic 1-2-1.jpg>>> <<<jpg=tema 1-2 pic 1-2-2.jpg>>> <<<jpg=tema 1-2 pic 1-2-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`=1e^-j37'A; U`r=40e^-j37'V; U`c=30e^-j127'V; U`l=60e^j53'V; U`12=50e^j0'V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 1.15 Определить комплексы тока, напряжений на элементах цепи, построить векторную диаграмму тока и напряжений. Дано: <<<jpg=tema 1-2 pic 1-3-1.jpg>>> <<<jpg=tema 1-2 pic 1-3-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`=0.9e^j75'A; U`12=63.7e^j120'V; U`23=142e^j5'V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 1.16 Определить мгновенные значения тока, напряжений на элементах цепи, построить векторную диаграмму тока и напряжений. Дано: <<<jpg=tema 1-2 pic 2-1-1.jpg>>> <<<jpg=tema 1-2 pic 2-1-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: i=2sin(wt-45')A; u1=200sin(wt+45')V; u2=141sin(wt-90')V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 1.17 Определить мгновенные значения тока, напряжений на элементах цепи, построить векторную диаграмму тока и напряжений. Дано: <<<jpg=tema 1-2 pic 2-2-1.jpg>>> <<<jpg=tema 1-2 pic 2-2-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: i=5sin(wt-135')A; ul=100sin(wt-45')V; ur=50sin(wt-135')V; uc=50sin(wt+135')V; u13=70.1sin(wt-90')V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 1.18 Определить мгновенные значения тока, напряжений на элементах цепи, построить векторную диаграмму тока и напряжений. Дано: <<<jpg=tema 1-2 pic 2-3-1.jpg>>> <<<jpg=tema 1-2 pic 2-3-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: i=sqrt(2)sin(wt) A; ur=25sqrt(2)sin(wt) V; ul=50sqrt(2)sin(wt+90')V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 1.19 Определить показания приборов, указанных на схеме. Построить векторную диаграмму тока и напряжений. Дано: <<<jpg=tema 1-2 pic 3-1-1.jpg>>> <<<jpg=tema 1-2 pic 3-1-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: Ia=2A; Uv=224V; Pw=200W;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 1.20 Определить показания приборов, указанных на схеме. Построить векторную диаграмму тока и напряжений. Дано: <<<jpg=tema 1-2 pic 3-2-1.jpg>>> <<<jpg=tema 1-2 pic 3-2-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: Ia=5A; Uv=300V; Pw=500W;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 1.21 Определить показания приборов, указанных на схеме. Построить векторную диаграмму тока и напряжений. Дано: <<<jpg=tema 1-2 pic 3-3-1.jpg>>> <<<jpg=tema 1-2 pic 3-3-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: Ia=2A; Uv=84.8V; Pw1=120W; Pw2=0W;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 1.22 Определить величины, отмеченные вопросом. Построить векторную диаграмму тока и напряжений. Дано: <<<jpg=tema 1-2 pic 4-1-1.jpg>>> <<<jpg=tema 1-2 pic 4-1-2.jpg>>> <<<jpg=tema 1-2 pic 4-1-3.jpg>>> <<<jpg=tema 1-2 pic 4-1-4.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: u21=50sqrt(2)sin(628t-45')V; u13=50sin(628t+90')V; u23=50sin(628t)V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 1.23 Определить величины, отмеченные вопросом. Построить векторную диаграмму тока и напряжений. Дано: <<<jpg=tema 1-2 pic 4-2-1.jpg>>> <<<jpg=tema 1-2 pic 4-2-2.jpg>>> <<<jpg=tema 1-2 pic 4-2-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: u12=20sin(wt-90')V; u23=100sin(wt)V
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 1.24 Определить величины, отмеченные вопросом. Построить векторную диаграмму тока и напряжений. Дано: <<<jpg=tema 1-2 pic 4-3-1.jpg>>> <<<jpg=tema 1-2 pic 4-3-2.jpg>>> <<<jpg=tema 1-2 pic 4-3-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: i=4sin(wt+90')A; R=5Ом; Xl=5Ом;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

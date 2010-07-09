@@ -1,0 +1,36 @@
+“ќЁ. ¬ходной контроль по физике. «адание 3.
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: —формулируйте 1 закон  иргофа и проиллюстрируйте его применение примером.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: —формулируйте 2 закон  иргофа и проиллюстрируйте его применение примером.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: —формулируйте закон ќма дл€ полной цепи и проиллюстрируйте его применение примером.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: —формулируйте закон ќма дл€ участка цепи и проиллюстрируйте его применение примером.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: —формулируйте закон ќма дл€ участка цепи и закон ќма дл€ полной цепи.
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

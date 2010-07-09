@@ -1,0 +1,136 @@
+ТОЭ. Тема 15. Цепи с распределенными параметрами. 
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 15.1 Дано:Первичные параметры медной линии <<<jpg=ris1-1.jpg>>> <<<jpg=ris1-2.jpg>>> Длина <<<jpg=ris1-3.jpg>>> Найти: вторичные параметры <<<jpg=ris1-4.jpg>>> скорость волны <<<jpg=ris1-5.jpg>>>, длину волны <<<jpg=ris1-6.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: _Zb=586e^-j6.1' Ом; _гамма=(2.46+j17.4)*10^-3 1/км; Uф=0.289*10^6 км/с; лямбда=361km;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 15.3 1. Найти вторичные параметры, скорость <<<jpg=ris2-1.jpg>>> примера 15.1, если <<<jpg=ris2-2.jpg>>> 2. Как изменятся вторичные параметры, если частота возрастет в 100 раз?
+<$:EditableVariant: 
+<$:RightAnswer: 1) _Zb=577 Ом; _гамма=1.7*10^-2 1/km; Uф=2.96*10^5 km/s; лямбда=369.4 km; 2) _zb=577 Ом; _гамма=1.7 1/km; Uф=2.96*10^5 km/s; лямбда=3.69 km;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 15.2 Дано: В трехфазном кабеле <<<jpg=ris3-1.jpg>>> Найти первичные и вторичные параметры.
+<$:EditableVariant: 
+<$:RightAnswer: _Zb=98e^-j9'Ом; _гамма=(1.05+j4.9)*10^-3 1/km; R0=0.18 Ом/км; L0=1.46 мГн/км; C0=0.16 мкф/км; G0=2.74*10^-6 См/км;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 15.4 Дано: Воздушная линия без потерь имеет <<<jpg=ris4-1.jpg>>> Найти коэффициенты распространения и первичные параметры линии <<<jpg=ris4-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: гамма=0.33 1/km; L0=1.98 мГн/км; C0=5.5*10^-9 ф/км;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 15.5 Дано:Первичные параметры трехфазной линии: <<<jpg=ris5-1.jpg>>> Найти: <<<jpg=ris5-2.jpg>>> Если: <<<jpg=ris5-3.jpg>>> <<<jpg=ris5-4.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: U`1=225e^j48 kV; I`1=555e^j63'A; I`2=455 A; P1=360 MW; этта=0.833;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 15.7 Дано: Линия с параметрами (см.15.5) нагружена на согласованную нагрузку. <<<jpg=ris6-1.jpg>>> Найти <<<jpg=ris6-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=609e^j60'A; I`2=544e^j5'A; U`1=242e^j55 kV; P1=441 MW; P2=363MW; этта=0.82;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 15.6 Дано: На входе линии с параметрами <<<jpg=ris7-1.jpg>>> действует напряжение <<<jpg=ris7-2.jpg>>> Найти <<<jpg=ris7-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: U2=327sin(4000t)V; i2=0.23sin(4000t+6')A; i1=0.58sin(400+60')A; P1=144W; P2=37W; этта=0.26;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 15.8 Дано: В конце линии с параметрами (см.15.6) произошло отключение нагрузки. Найти: <<<jpg=ris8-1.jpg>>> <<<jpg=ris8-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: U`2=295V; I`1=0.273e^j2 A; P1=96W;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 15.9 Расчет режимов линии <<<jpg=ris9.jpg>>>. Найти: <<<jpg=ris9-1.jpg>>> для линии <<<jpg=ris9-2.jpg>>> <<<jpg=ris9-3.jpg>>> если <<<jpg=ris9-4.jpg>>> <<<jpg=ris9-5.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: l,m[1/4лямбда; 1/2лямбда; лямбда] U`,V[j2.35; -10; 10] I`,mA[j21.3; -5; 5] _Zbx,Ом[110; 2000; 2000]
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 15.12 Расчет режимов линии <<<jpg=ris9.jpg>>>. Построить <<<jpg=ris10-1.jpg>>> для линии длиной 5м, замкнутой накоротко, если <<<jpg=ris10-2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ?
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 15.13 Расчет режимов линии <<<jpg=ris9.jpg>>>. Построить (см.15.12) 1. <<<jpg=ris10-1-1.jpg>>> при <<<jpg=ris10-1-2.jpg>>>; <<<jpg=ris10-1-3.jpg>>> 2. <<<jpg=ris10-1-4.jpg>>> при <<<jpg=ris10-1-5.jpg>>> ;<<<jpg=ris10-1-6.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ?
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 15.10 Расчет режимов линии <<<jpg=ris9.jpg>>>. Построить <<<jpg=ris11-1.jpg>>> (<<<jpg=ris11-2.jpg>>> - расстояние от конца линии) для линии <<<jpg=ris11-3.jpg>>> 1. <<<jpg=ris11-4.jpg>>> 2. <<<jpg=ris11-5.jpg>>> 3. <<<jpg=ris11-6.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ?
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 15.14 Расчет режимов линии <<<jpg=ris9.jpg>>>. Построить<<<jpg=ris12-1.jpg>>>  для линии длиной <<<jpg=ris12-2.jpg>>> разомкнутой на конце, если <<<jpg=ris12-3.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ?
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 15.11 Расчет режимов линии <<<jpg=ris9.jpg>>>. Построить <<<jpg=ris13-1.jpg>>>  для линии <<<jpg=ris13-2.jpg>>>  если <<<jpg=ris13-3.jpg>>>  1. <<<jpg=ris13-4.jpg>>>  2. <<<jpg=ris13-5.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ?
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 15.15 Расчет режимов линии <<<jpg=ris9.jpg>>>. Построить (см.15.14) 1. <<<jpg=ris14-1.jpg>>> при <<<jpg=ris14-2.jpg>>>; <<<jpg=ris14-3.jpg>>> 2. <<<jpg=ris14-4.jpg>>> при <<<jpg=ris14-5.jpg>>>; <<<jpg=ris14-6.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: ?
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

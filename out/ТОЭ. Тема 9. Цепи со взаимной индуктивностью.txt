@@ -1,0 +1,109 @@
+ТОЭ. Тема 9. Цепи со взаимной индуктивностью
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 9.1 Найти токи ветвей, составить баланс мощностей. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris9_1.jpg>>> <<<jpg=ris9_2.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`=(14-j3)A; I`1=(8-j1)A; I`2=(6-j2)A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 9.2 Найти токи ветвей, составить баланс мощностей. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris9_3.jpg>>> <<<jpg=ris9_4.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=4-j3=5e^-j37'A; I`2=2-j4=4.47e^-j63'A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 9.3 Найти токи ветвей, составить баланс мощностей. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris9_5.jpg>>> <<<jpg=ris9_6.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`=3.18e^-j78'A; I`1=1.77e^-j45'A; I`2=1.97e^-j108'A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 9.4 Найти токи ветвей, составить баланс мощностей. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris9_7.jpg>>> <<<jpg=ris9_8.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=8.68e^-j50'A; I`2=9.16e^-j76A; I`3+4.0e^j34'A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 9.5 Найти токи ветвей, составить баланс мощностей. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris9_9.jpg>>> <<<jpg=ris9_10.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=1-j3=3.16e^-j71A; I`2=0.6-j0.8=1e^-j53A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 9.6 Найти токи ветвей, составить баланс мощностей. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris9_11.jpg>>> <<<jpg=ris9_12.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=1e^-j50'A; I`2=0.796e^-j140'A; I`3=1.47e^j0'A;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 9.7 Найти токи ветвей, определить показания приборов и полную мощность катушек индуктивности. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris9_13.jpg>>> <<<jpg=ris9_14.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`=(0.8-j0.6)A; Uv2=52.2V; Pw=80W;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 9.8 Найти токи ветвей, определить показания приборов и полную мощность катушек индуктивности. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris9_15.jpg>>> <<<jpg=ris9_16.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=(-2-j4)A; I`2=-j2 A; Pw1=20W; Ia2=2A; Pw2=20W;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 9.9 Найти токи ветвей, определить показания приборов и полную мощность катушек индуктивности. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris9_17.jpg>>> <<<jpg=ris9_18.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=4.24e^-j45'A; Ia1=4.24 A; Uv=17V; Pw=360W;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 9.10 Найти токи ветвей, определить показания приборов и полную мощность катушек индуктивности. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris9_19.jpg>>> <<<jpg=ris9_20.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=11.3e^j3A; I`2=6.13e^-j15'A; I3=5.49e^j11A; Uv2=13.7V; Pw=75W;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 9.11 Найти токи ветвей, определить показания приборов и полную мощность катушек индуктивности. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris9_21.jpg>>> <<<jpg=ris9_22.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`1=7.53e^j4 A; I`2=2.26e^j4 A; Ia2=2.26 A; Uv3=11.3 V;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 3
+<$:QuestionBody: 9.12 Найти токи ветвей, определить показания приборов и полную мощность катушек индуктивности. Построить векторную диаграмму токов и топографическую диаграмму напряжений. Дано: <<<jpg=ris9_23.jpg>>> <<<jpg=ris9_24.jpg>>>
+<$:EditableVariant: 
+<$:RightAnswer: I`2=0.5 A; I`3=0.5+j1 A; Uv1=17.7 V; Uv2=5.6 V; Pw=7.5 W;
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

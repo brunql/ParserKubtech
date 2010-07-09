@@ -1,0 +1,141 @@
+Английский для общения с компьютером
+--/New Question/--
+<$:QuestionType: 5
+<$:QuestionBody: Подберите русские эквиваленты английским терминам:  1.backspace, 2.break, 3.delete, 4.end, 5.escape
+<$:Variants:
+Движения курсора на один знак назад
+Выход из программы
+Прерывать
+Удаление символа над курсором
+Перемещение курсора в конец строки
+<$:RightAnswers: 1 5 2 3 4
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 5
+<$:QuestionBody: Подберите русские эквиваленты английским терминам: 1. home, 2. print screen, 3. scroll lock, 4. shift, 5. insert
+<$:Variants:
+Распечатка кадра
+Возврат курсора к началу строки
+Блокировка прокрутки
+Смена регистра
+Вставка
+<$:RightAnswers: 2 1 3 4 5
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 5
+<$:QuestionBody: Подберите русские эквиваленты английским терминам: 1. find, search,  2. all, 3. quit, 4. skip, 5. cancel
+<$:Variants:
+Поиск файла на диске
+Выход из Norton Commander
+Удалить данный файл и все остальные
+Не удалять данный файл и остальные
+Не удалять данный файл
+<$:RightAnswers: 1 3 2 5 4
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 5
+<$:QuestionBody: Подберите русские эквиваленты английским терминам: 1. edit,  2. history,  3. help,  4. user menu,  5. full 
+<$:Variants:
+Редактировать файл
+Вывод меню команд пользователя
+Просмотр и повторение ранее введенных команд
+Справка, краткая информация о назначении клавиши
+Полная информация о файлах
+<$:RightAnswers: 1 4 2 3 5
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 5
+<$:QuestionBody: Подберите русские эквиваленты английским терминам: 1. extention, 2. name, 3. time, 4. size, 5. unsorted
+<$:Variants:
+Файлы выводятся в порядке записи в каталог
+Файлы выводятся в алфавитном порядке их расширения
+Файлы выводятся в алфавитном порядке
+Файлы выводятся по времени создания
+Файлы выводятся по размеру
+<$:RightAnswers: 5 1 2 3 4
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 5
+<$:QuestionBody: Подберите русские эквиваленты английским терминам: 1. drive,  2. link,  3. brief,  4. compressed file,  5. reread
+<$:Variants:
+Переход на другой дисковод
+Режим связи между компьютерами
+Краткая информация о файлах
+Повторное чтение каталога
+Оглавление архивного файла
+<$:RightAnswers: 1 2 3 5 4
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 5
+<$:QuestionBody: Подберите русские эквиваленты английским терминам: 1. swap panels,  2. compare directories,  3. clock,  4. save setup,  5. invert selection
+<$:Variants:
+Обмен панелей
+Сравнить каталоги
+Вывести на экране время
+Сохранить установленный режим
+Обращение выделения файлов
+<$:RightAnswers: 1 2 3 4 5
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 5
+<$:QuestionBody: Подберите русские эквиваленты английским терминам: 1. option,  2. find file,  3. select group,  4. deselet group,  5. path
+<$:Variants:
+Поиск файла на диске
+Выбор, вариант
+Выделение групп файла по маске
+Путь, маршрут
+Отмена выделения группы файлов по маске
+<$:RightAnswers: 2 1 3 5 4
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 5
+<$:QuestionBody: Подберите русские эквиваленты английским терминам: 1. chain,  2. clear,  3. count,  4. color,  5. draw
+<$:Variants:
+Цепь, сочленять
+Чистый, очищать
+Считать
+Рисовать
+Цвет
+<$:RightAnswers: 1 2 3 5 4
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 5
+<$:QuestionBody: Подберите русские эквиваленты английским терминам: 1. drive,  2. circle,  3. error,  4. call,  5. bus
+<$:Variants:
+Окружность
+Дисковод
+Ошибка
+Шина
+Вызывать, вызов
+<$:RightAnswers: 2 1 3 5 4
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

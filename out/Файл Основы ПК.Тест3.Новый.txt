@@ -1,0 +1,201 @@
+Файл: Основы ПК.Тест3.Новый.txt
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Где располагаются стандартные программы в главном меню?
+<$:Variants:
+В подменю Выполнить
+В подменю Программы
+В корневом каталогге Главного меню
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Чтобы  завершить работу с программой необходимо:
+<$:Variants:
+щелкнуть по кнопке "Закрыть"
+вызвать соответствующий пункт из Главного меню
+вызвать соответствующую команду из меню окна Мой компьютер
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Программа из Главного меню запускается на выполнение
+<$:Variants:
+одним щелчком мышки
+двойным щелчком мышки
+щелчком правой клавишей мышки
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: После запуска программы на экране появляется
+<$:Variants:
+окно  мой компьютер
+контекстное меню
+диалоговое окно программы
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Клавиши с буквами русского и латинского алфавита относятся к:
+<$:Variants:
+клавишам управления курсором
+функциональным клавишам
+основной клавиатуры
+малой клавиатуры
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: При помощи какого алфавита клавиатуры можно ввести символы `` ?
+<$:Variants:
+только латинского
+обоих алфавитов
+только русского
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Для быстрого набора большого количества одинаковых символов следует:
+<$:Variants:
+нажать и удерживать соответствующую клавишу до появления требуемого количества символов
+включить режим индикации числового режима малой клавиатуры
+много раз быстро нажимать соответствующую клавишу
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Курсором можно управлять при помощи:
+<$:Variants:
+клавиш малой клавиатуры
+клавиш управления курсором
+клавиш основной клавиатуры
+функциональных клавиш
+<$:RightAnswers: 1 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Для набора заглавных букв следует удерживать клавишу:
+<$:Variants:
+[Ctrl]
+[Caps Lock]
+[Alt]
+[Shift]
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Для набора верхних знаков, изображенных на некоторых клавишах, следует удерживать:
+<$:Variants:
+[Alt]
+[Shift]
+[Caps Lock]
+[Ctrl]
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какая из клавиш удаляет символ СЛЕВА от курсора?
+<$:Variants:
+Space
+BackSpace
+Delete
+Esc
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Будет ли малая клавиатура работать в режиме управления курсором при включенном индикаторе NumLock?
+<$:Variants:
+да
+нет
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: При включенном индикаторе Caps Lock будет происходить:
+<$:Variants:
+дублирование клавиш управления курсором цифровой клавиатурой
+набор чисел на цифровой клавиатуре
+набор заглавных букв
+набор строчных букв
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Клавиша [Delete] удаляет символ:
+<$:Variants:
+слева от курсора
+справа от курсора
+не удаляет символы
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Клавиша [Insert] (в текстовых редакторах):
+<$:Variants:
+вставляет символ
+переключает режим ввода символов ВСТАВКА-ЗАМЕНА
+удаляет символ
+выделяет область
+вставляет пустое место
+<$:RightAnswers: 0 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Клавиша [End]:
+<$:Variants:
+удаляет символы
+устанавливает курсор в начало строки
+устанавливает курсор в конец страницы
+устанавливает курсор в конец строки
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

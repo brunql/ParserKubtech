@@ -1,0 +1,29 @@
+ТОЭ. Входной контроль по математике. Задание 1.
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Перечислите известные вам методы решения системы линейных уравнений. Решите одним из методов систему: <<<jpg=ris1.jpg>>>
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Перечислите известные вам методы решения системы линейных уравнений. Решите одним из методов систему: <<<jpg=ris2.jpg>>>
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Перечислите известные вам методы решения системы линейных уравнений. Решите одним из методов систему: <<<jpg=ris3.jpg>>>
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Перечислите известные вам методы решения системы линейных уравнений. Решите одним из методов систему: <<<jpg=ris4.jpg>>>
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

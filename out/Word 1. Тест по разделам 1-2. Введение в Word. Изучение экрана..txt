@@ -1,0 +1,280 @@
+Word 1. Тест по разделам 1-2. Введение в Word. Изучение экрана.
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Для каких целей служит текстовый процессор Microsoft Word?
+<$:Variants:
+Для создания больших документов (книг, журналов, монографий)
+Для создания небольших документов (научных статей, служебной документации)
+Для профессиональной верстки книжно-журнальных изданий в издательствах
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Где можно приобрести лицензионную программу текстового процессора Microsoft Word?
+<$:Variants:
+В любой торговой точке
+Только в фирмах, имеющих представительства фирмы Microsoft
+В любой фирме, занимающейся продажей компьютерной и офисной техники
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какие версии Microsoft Word были полностью совместимы?
+<$:Variants:
+Microsoft Word 6.0; Microsoft Word 98; Microsoft Word 2000
+Microsoft Word 2.0; Microsoft Word 6.0; Microsoft Word 7.0
+Microsoft Word 7.0; Microsoft Word 98
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какие принтеры могут работать с редактором Microsoft Word?
+<$:Variants:
+Только матричные
+Только струйные и лазерные.
+Матричные, струйные, лазерные
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Назовите последовательность действий при включении компьютера.
+<$:Variants:
+Включить принтер, монитор, системный блок
+Включить монитор, принтер, системный блок
+Включить системный блок, монитор, принтер
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: С помощью какого элемента экрана Windows можно получить доступ ко всем имеющимся у Вас программам?
+<$:Variants:
+С помощью значков-пиктограмм
+При нажатии кнопки пуск
+При помощи панели задач (серой полоски, обычно располагающейся внизу экрана).
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Как правильно установить указатель мышки на элемент экрана?
+<$:Variants:
+Навести кончик стрелки на центр значка-пиктограммы
+Навести кончик стрелки под значок-пиктограммы
+Навести кончик стрелки над значком-пиктограммой
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Как надо перемещать мышку?
+<$:Variants:
+По ровной поверхности, или специальному коврику
+По шероховатой поверхности
+По гладкой (скользкой) поверхности
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Для чего предназначены Панели инструментов?
+<$:Variants:
+Для быстрого выполнения различных действий
+Для ввода текста
+Для редактирования текста
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какие стандартные элементы стандартного окна имеются в окне Word?
+<$:Variants:
+Строка меню, строка состояния, кнопки: Свернуть, Восстановить, Закрыть
+Панели инструментов
+Окно документа, окно Помощника
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Как вернуть на экран пропавшую Панель инструментов?
+<$:Variants:
+Перезагрузить Microsoft Word
+При помощи команды Вид | Панели инструментов
+Перезагрузить Windows
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Где располагается строка состояния?
+<$:Variants:
+Вверху экрана.
+Внизу экрана
+Слева.
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Где находится стандартная панель инструментов?
+<$:Variants:
+В окне документа
+В окне Word
+На панели инструментов третья строка снизу
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: В каких состояниях может находиться окно документа?
+<$:Variants:
+Нормальном или свернутом
+Закрытом
+Только в одном, нормальном
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Каким образом можно создать окно документа?
+<$:Variants:
+Открыть Microsoft Word и сразу приступить к работе
+Используя пиктограмму - значок на панели инструментов, или команду меню Файл-->Создать
+Использовать команду Вставка-->Файл
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Как запустить Microsoft Word, если значка Word   нет на Вашем экране?
+<$:Variants:
+Перезагрузить компьютер.
+Открыть с помощью пиктограммы - значка Мой компьютер
+Открыть с помощью кнопки Пуск
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Как правильно завершить работу с Word?
+<$:Variants:
+Выключить кнопку на системном блоке
+Выйти с помощью правой кнопки мыши, которой необходимо щелкнуть по строке заголовка (верхняя, синяя) и выбрать команду "Закрыть"
+с помощью клавиатуры [Alt+F4]
+С помощью значка управляющего меню окна Microsoft Word
+использовать команды меню: Файл | Выход
+нажать на кнопку "Закрыть", расположенную в правом верхнем углу экрана.
+<$:RightAnswers: 0 1 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Как правильно подготовить компьютер к выключению?
+<$:Variants:
+Выключить кнопку на системном блоке
+Вытащить вилку сетевого провода из розетки
+Выполнить команду Пуск | Завершение работы
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: На что указывает курсор?
+<$:Variants:
+На позицию ввода, или на место выполнения команды
+На поле редактирования
+На то место, куда его наведешь
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Как переключить вид отображения документа (режимы документа)?
+<$:Variants:
+При помощи команд меню Вид.
+При помощи команд меню Сервис
+Режимы не переключаются.
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Каким образом можно вызывать/скрывать линейки?
+<$:Variants:
+Дважды щелкнуть мышкой по линейке
+Найти пиктограмму Линейка на экране Word
+Найти строку меню Линейка в команде меню Вид
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Где располагается полоса выделения?
+<$:Variants:
+Справа от поля редактирования
+Слева от поля редактирования
+Внизу.
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Для чего нужны полосы прокрутки в окне документа?
+<$:Variants:
+Для контроля за линейками.
+Для быстрого поиска нужной части документа
+Для специальной вставки
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

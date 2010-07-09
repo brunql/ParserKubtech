@@ -1,0 +1,182 @@
+Файл: Основы ПК.Тест5.Новый.txt
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Программное обеспечение (ПО)
+<$:Variants:
+алгоритм работы аппаратной базы компьютера
+последовательность действий (команд, инструкций), выполняемых ПК в целях решения определенных задач
+возможности ПК по обработке информации
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Операционная система:
+<$:Variants:
+совокупность возможных операций, выполняемых компьютером
+система, в которой работает конфигурация компьютера
+совокупность программ, дающих доступ другим программам и пользователю работать с компьютером
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Прикладные программы:
+<$:Variants:
+программы, предназначенные для разработки других программ
+программы, обеспечивающие работу конфигурации компьютера
+программы, обеспечивающие выполнение задач в определенной сфере человеческой деятельности
+<$:RightAnswers: 1 1 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Системы управления базами данных относятся:
+<$:Variants:
+к прикладным программам
+к языкам программирования
+к операционным системам
+<$:RightAnswers: 1 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Что НЕ является файлом?
+<$:Variants:
+папка
+программа
+текстовый документ
+рисунок
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Каково правило составления имен файлов?
+<$:Variants:
+до 255 символов (цифры, буквы русского и латинского алфавитов)
+до 8 символов (цифры, буквы русского и латинского алфавитов)
+до 8 символов (цифры и  буквы латинского алфавита)
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Допускается ли хранение в одной папке двух папок или двух файлов с одинаковыми именами?
+<$:Variants:
+Да
+Нет
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Файлы программ имеют расширения:
+<$:Variants:
+exe
+txt и doc
+bmp
+com
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Файлы хранятся:
+<$:Variants:
+на дисках
+на Рабочем столе
+в оперативной памяти
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Что могут содержать в себе папки?
+<$:Variants:
+только папки
+другие папки и файлы
+только файлы
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какая из папок не имеет родительской?
+<$:Variants:
+Текущая папка
+Вложенная папка
+Корневая папка
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: На каком устройстве хранится папка А:\Статьи ?
+<$:Variants:
+на винчестере
+в оперативной памяти
+на дискете
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Как хранится информация на компьютере?
+<$:Variants:
+информация хранится в папках, папки хранятся в файлах
+информация хранится в файлах, файлы хранятся в папках
+информация хранится в файлах и папках, папки хранятся в файлах
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Как хранится информация на компьютере?
+<$:Variants:
+информация хранится в папках, папки хранятся в файлах
+информация хранится в файлах, файлы хранятся в папках
+информация хранится в файлах и папках, папки хранятся в файлах
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Для поиска файлов и папок необходимо
+<$:Variants:
+Вызвать контекстное меню Рабочего стола
+Вызвать соответствующий пункт Главного меню
+Щелкнуть мышкой по соответствующей пиктограмме в папке Мой компьютер
+<$:RightAnswers: 0 1 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

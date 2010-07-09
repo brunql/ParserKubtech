@@ -1,0 +1,167 @@
+Word 3. Тест по разделам 3 и 10. Работа с файлами и папками. Справочная система.
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Где хранится файл?
+<$:Variants:
+В оперативной памяти компьютера
+На жестком диске
+На дисководе
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: На каком диске можно хранить файлы документов в системном блоке компьютера?
+<$:Variants:
+На диске А
+На диске B
+На диске С
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какие имена файлов можно задавать в Microsoft Word, для ранних версий программ?
+<$:Variants:
+До 8 символов
+Только 8 символов
+Свыше 8 символов
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какое расширение имеет файл Word?
+<$:Variants:
+txt
+doc
+rtf
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Можно ли, находясь в открытом в документе Word, записать его в виде файла сразу на дискету?
+<$:Variants:
+Нельзя
+Можно
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Каким образом можно перенести файл Вашего текстового документа на жесткий диск другого компьютера, не выходя при этом из Microsoft Word?
+<$:Variants:
+С помощью дискеты, а если файл большой - с помощью компьютерной сети.
+С помощью телефонной сети.
+<$:RightAnswers: 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Можно ли  создать два файла с одинаковым названием?
+<$:Variants:
+Можно в одной папке
+Нельзя
+Можно в разных папках
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Что произойдет, если при выходе из Word Вы забудете сохранить документ?
+<$:Variants:
+Файл не сохранится
+Файл сохранится, но не полностью
+Word при выходе Вас обязательно об этом предупредит
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Где найти справку при работе в Word?
+<$:Variants:
+На панели инструментов Стандартная
+На панели инструментов Форматирование
+В строке меню
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Если задержать курсор мышки на какой-нибудь кнопке, что произойдет?
+<$:Variants:
+Ничего
+Появится всплывающая подсказка
+Появится диалоговое окно
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Если одна из кнопок в момент работы с документом не работает, какая информация будет в всплывающей подсказке?
+<$:Variants:
+Такая же как, и на работающей кнопке
+Информация с указанием причины, из-за которой эту кнопку нельзя использовать
+Не будет никакой информации
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какие отличия справочной системы имеет Word 97, 2000 от ранних версий?
+<$:Variants:
+Никаких отличий
+Отличия в системе Справки
+Наличие помощника
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Можно ли включать и отключать помощник?
+<$:Variants:
+Можно
+Нет
+Только в режиме разметки страницы
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Для чего разработана фирмой Microsoft система Справки в Word?
+<$:Variants:
+В качестве учебного руководства
+В качестве быстрой помощи, или совета при работе с Word
+В качестве обучающей программы
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

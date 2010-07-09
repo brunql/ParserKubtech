@@ -1,0 +1,231 @@
+Основы работы на ПК 3
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Где обычно располагаются программы в главном меню?
+<$:Variants:
+В подменю Выполнить
+В подменю Программы
+Непосредственно в Главном меню
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Чтобы  завершить работу с программой, необходимо:
+<$:Variants:
+щелкнуть по кнопке "Закрыть"
+вызвать соответствующий пункт из Главного меню
+вызвать соответствующую команду из меню окна Мой компьютер
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Окна программ являются:
+<$:Variants:
+специализированными окнами
+диалоговыми окнами
+стандартными окнами
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Программа из Главного меню запускается на выполнение
+<$:Variants:
+одним щелчком мышки
+двойным щелчком мышки
+щелчком правой клавишей мышки
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: После запуска программы на экране появляется
+<$:Variants:
+стандартное окно програмы
+контекстное меню
+диалоговое окно программы
+<$:RightAnswers: 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Клавиши с буквами русского и латинского алфавита относятся к:
+<$:Variants:
+клавишам управления курсором
+функциональным клавишам
+основной клавиатуры
+малой клавиатуры
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Какая из клавиш НЕ дублируется на клавиатуре?
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: При помощи какого алфавита клавиатуры можно ввести символы `` ?
+<$:Variants:
+только латинского
+обоих алфавитов
+только русского
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Для быстрого набора большого количества одинаковых символов следует:
+<$:Variants:
+нажать и удерживать соответствующую клавишу до появления требуемого количества символов
+включить режим индикации числового режима малой клавиатуры
+много раз быстро нажимать соответствующую клавишу
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Курсором можно управлять при помощи:
+<$:Variants:
+клавиш малой клавиатуры
+клавиш управления курсором
+клавиш основной клавиатуры
+функциональных клавиш
+<$:RightAnswers: 1 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Для набора заглавных букв следует удерживать клавишу:
+<$:Variants:
+[Ctrl]
+[Caps Lock]
+[Alt]
+[Shift]
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Для набора верхних знаков, изображенных на некоторых клавишах, следует удерживать:
+<$:Variants:
+[Alt]
+[Shift]
+[Caps Lock]
+[Ctrl]
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Какая из клавиш удаляет символ СЛЕВА от курсора?
+<$:Variants:
+Space
+BackSpace
+Delete
+Esc
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Будет ли малая клавиатура работать в режиме управления курсором при включенном индикаторе NumLock?
+<$:Variants:
+да
+нет
+<$:RightAnswers: 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: При включенном индикаторе Caps Lock будет происходить:
+<$:Variants:
+дублирование клавиш управления курсором цифровой клавиатурой
+набор чисел на цифровой клавиатуре
+набор заглавных букв
+набор строчных букв
+<$:RightAnswers: 0 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Клавиша [Delete] удаляет символ:
+<$:Variants:
+слева от курсора
+справа от курсора
+не удаляет символы
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Клавиша [Insert]:
+<$:Variants:
+вставляет символ
+переключает режим ввода символов ВСТАВКА-ЗАМЕНА
+удаляет символ
+вставляет пустое место
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Клавиша [End]:
+<$:Variants:
+удаляет символы
+устанавливает курсор в начало строки
+устанавливает курсор в конец страницы
+устанавливает курсор в конец строки
+<$:RightAnswers: 0 0 0 1
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 5
+<$:QuestionBody: Расставьте программы в соответствии с их назначением (1 - Word, 2 - Excel, 3 - Paint):
+<$:Variants:
+Табличный  редактор для обработки табличных данных
+Текстовый редактор для подготовки текстовых документов
+Графический редактор для создания рисунков
+<$:RightAnswers: 2 1 3
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

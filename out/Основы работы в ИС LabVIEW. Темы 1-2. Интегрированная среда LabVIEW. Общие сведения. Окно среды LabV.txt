@@ -1,0 +1,131 @@
+Основы работы в ИС LabVIEW. Темы 1-2. Интегрированная среда LabVIEW. Общие сведения. Окно среды LabVIEW.
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Интегральная графическая среда разработки LabVIEW является продуктом фирмы...
+<$:Variants:
+Microsoft
+1C
+National Instruments
+Autodesk
+Adobe
+ABBYY
+<$:RightAnswers: 0 0 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 2
+<$:QuestionBody: Интегральная графическая среда разработки LabVIEW позволяет:
+<$:Variants:
+с помощью библиотеки готовых элементов формировать на экране лицевую панель виртуального инструмента – аналогии реального прибора или процесса
+с помощью графических блоков-диаграмм интерактивно задавать функциональные связи отдельных элементов
+управлять как внутренними информационными потоками, так и обмениваться с внешними источниками информации и сигналов
+создавать приложения с использованием программного кода нескольких языков программирования
+<$:RightAnswers: 1 1 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Интегральная графическая среда разработки LabVIEW...
+<$:Variants:
+позволяет обойтись без использования текстового программирования
+позволяет обойтись без использования текстового программирования при решении только самых простых задач
+не позволяет обойтись без использования текстового программирования
+<$:RightAnswers: 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Виртуальным прибором называется...
+<$:Variants:
+окно LabVIEW
+документ LabVIEW
+служебный файл среды LabVIEW
+панель среды LabVIEW
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Виртуальным инструментом называется...
+<$:Variants:
+окно LabVIEW
+документ LabVIEW
+служебный файл среды LabVIEW
+панель среды LabVIEW
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Для каждого виртуального прибора LabVIEW создает...
+<$:Variants:
+одно окно
+два окна
+три окна
+четыре окна
+<$:RightAnswers: 0 1 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Лицевой или передней панелью виртуального прибора называется...
+<$:Variants:
+окно, окрашенное в серый цвет
+окно, окрашенное в белый цвет
+окно, окрашенное в черный цвет
+панель пиктограмм
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Блок-диаграммой или панелью диаграмм виртуального прибора называется...
+<$:Variants:
+окно, окрашенное в серый цвет
+окно, окрашенное в белый цвет
+окно, окрашенное в черный цвет
+<$:RightAnswers: 0 1 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 5
+<$:QuestionBody: Чтобы придать LabVIEW стандартный вид, необходимо выполнить действия в следующей последовательности...
+<$:Variants:
+выполнить команду View / Controls Palette
+выполнить команду Window / Tile Left and Right
+выполнить команду View / Show Tools Palette
+с помощью буксировки мышью расположить обе палитры на линии, разделяющей окна LabVIEW
+<$:RightAnswers: 2 1 3 4
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 1
+<$:QuestionBody: Палитра инструментов Tools...
+<$:Variants:
+позволяет задавать режимы работы мышки с элементами
+содержит библиотеки элементов, имитирующих реальные элементы
+позволяет открыть или создать документ
+позволяет обратиться к различным текстовым и интернет-ресурсам
+<$:RightAnswers: 1 0 0 0
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+

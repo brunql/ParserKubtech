@@ -1,0 +1,148 @@
+ТОЭ. Входной контроль по физике. Задание 1.
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): электрический заряд
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): потенциал
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): электрическое сопротивление
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): электрическое поле
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): электродвижущая сила (ЭДС)
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): электрический проводник
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): электрическая энергия
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): электрический ток
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): электрическое напряжение
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): магнитное поле
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): разность электрических потенциалов
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): электрическая емкость
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): электрическая мощность
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): электрический потенциал
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): индуктивность
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): напряженность магнитного поля
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): электромагнитное поле
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): емкость
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): магнитная индукция
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): напряжение
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
+--/New Question/--
+<$:QuestionType: 4
+<$:QuestionBody: Дайте определение следующим физическим понятиям (приведите единицу измерения): контур
+<$:Difficulty: 3 
+<$:AnswerTime: 600 
+--/end/--
+
